@@ -1,0 +1,9 @@
+Enplanements by airport by year ("cy" files):
+2022: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger accessed on 4/10/2024
+2021 and before: https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/previous_years#2021 accessed on 4/10
+
+Enplanements by month (each airport has a separate file):
+https://www.transtats.bts.gov/Data_Elements.aspx?Data=2 selecting airports one by one.
+
+50 US Airport rankings, table 1-44:
+https://www.bts.gov/content/passengers-boarded-top-50-us-airports
