@@ -1,0 +1,416 @@
+Quarter,Year,Airport Code,Airport Name,City Name,State Name,Average Fare ($),Inflation Adjusted Average Fare ($) (Base Quarter:  Q3-2023),2022 Passengers (10% sample)
+1,2018,LAX,Los Angeles International,Los Angeles,CA,336.93,415.52," 941,283 "
+1,2018,ORD,Chicago O'Hare International,Chicago-O'Hare,IL,341.14,420.71," 768,604 "
+1,2018,ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,361.16,445.40," 744,001 "
+1,2018,DEN,Denver International,Denver,CO,299.04,368.79," 743,828 "
+1,2018,EWR,Newark Liberty International,Newark,NJ,407.59,502.66," 696,941 "
+1,2018,BOS,Logan International,Boston,MA,323.31,398.73," 689,719 "
+1,2018,SEA,Seattle/Tacoma International,Seattle,WA,331.84,409.24," 650,806 "
+1,2018,DFW,Dallas/Fort Worth International,Dallas-DFW,TX,381.16,470.06," 626,404 "
+1,2018,MCO,Orlando International,Orlando,FL,246.68,304.22," 619,182 "
+1,2018,SFO,San Francisco International,San Francisco,CA,365.00,450.14," 603,738 "
+1,2018,PHX,Phoenix Sky Harbor International,Phoenix,AZ,320.87,395.71," 586,781 "
+1,2018,LGA,LaGuardia,New York-La Guardia,NY,320.45,395.20," 548,754 "
+1,2018,JFK,John F. Kennedy International,New York-JFK,NY,397.54,490.26," 542,893 "
+1,2018,LAS,Harry Reid International,Las Vegas,NV,242.41,298.95," 505,713 "
+1,2018,MSP,Minneapolis-St Paul International,Minneapolis,MN,389.79,480.71," 465,865 "
+1,2018,IAH,George Bush Intercontinental/Houston,Houston-Intercontinental,TX,420.57,518.66," 441,705 "
+1,2018,PHL,Philadelphia International,Philadelphia,PA,378.62,466.93," 438,509 "
+1,2018,FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL,245.29,302.50," 427,330 "
+1,2018,SAN,San Diego International,San Diego,CA,317.04,390.99," 419,354 "
+1,2018,DTW,Detroit Metro Wayne County,Detroit,MI,380.78,469.59," 412,494 "
+1,2018,DCA,Ronald Reagan Washington National,Washington-Reagan National,DC,350.64,432.42," 380,547 "
+1,2018,TPA,Tampa International,Tampa,FL,299.58,369.45," 375,092 "
+1,2018,BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,310.95,383.47," 355,097 "
+1,2018,AUS,Austin - Bergstrom International,Austin,TX,348.72,430.06," 346,713 "
+1,2018,MIA,Miami International,Miami,FL,319.18,393.63," 345,604 "
+1,2018,PDX,Portland International,Portland,OR,325.98,402.01," 316,001 "
+1,2018,BNA,Nashville International,Nashville,TN,351.81,433.87," 309,561 "
+1,2018,SLC,Salt Lake City International,Salt Lake City,UT,360.05,444.03," 306,731 "
+1,2018,CLT,Charlotte Douglas International,Charlotte,NC,429.03,529.10," 299,028 "
+1,2018,RDU,Raleigh-Durham International,Raleigh/Durham,NC,348.32,429.57," 280,802 "
+1,2018,SMF,Sacramento International,Sacramento,CA,326.93,403.18," 259,223 "
+1,2018,HNL,Daniel K Inouye International,Honolulu,HI,357.64,441.05," 256,498 "
+1,2018,MDW,Chicago Midway International,Chicago-Midway,IL,296.23,365.33," 256,060 "
+1,2018,STL,St Louis Lambert International,St. Louis,MO,359.83,443.76," 228,095 "
+1,2018,SJC,Norman Y. Mineta San Jose International,San Jose,CA,280.72,346.19," 220,072 "
+1,2018,IAD,Washington Dulles International,Washington-Dulles,DC,427.80,527.59," 216,137 "
+1,2018,MCI,Kansas City International,Kansas City,MO,350.47,432.21," 213,053 "
+1,2018,SNA,John Wayne Airport-Orange County,Santa Ana,CA,349.15,430.58," 204,936 "
+1,2018,DAL,Dallas Love Field,Dallas-Love Field,TX,290.87,358.72," 202,583 "
+1,2018,CLE,Cleveland-Hopkins International,Cleveland,OH,319.70,394.27," 201,673 "
+1,2018,OAK,Metro Oakland International,Oakland,CA,272.73,336.34," 200,137 "
+1,2018,IND,Indianapolis International,Indianapolis,IN,340.22,419.58," 198,766 "
+1,2018,MSY,Louis Armstrong New Orleans International,New Orleans,LA,299.80,369.72," 193,064 "
+1,2018,SAT,San Antonio International,San Antonio,TX,359.32,443.12," 192,841 "
+1,2018,PIT,Pittsburgh International,Pittsburgh,PA,341.60,421.27," 191,112 "
+1,2018,SJU,Luis Munoz Marin International,San Juan,PR,267.57,329.98," 189,783 "
+1,2018,CVG,Cincinnati/Northern Kentucky International,Cincinnati,OH,327.55,403.95," 185,119 "
+1,2018,CMH,John Glenn Columbus International,Columbus,OH,362.02,446.46," 169,279 "
+1,2018,HOU,William P Hobby,Houston-Hobby,TX,322.40,397.59," 158,759 "
+1,2018,BDL,Bradley International,Hartford,CT,358.13,441.66," 149,278 "
+1,2018,RSW,Southwest Florida International,Fort Myers,FL,292.74,361.02," 145,234 "
+1,2018,PBI,Palm Beach International,West Palm Beach/Palm Beach,FL,333.58,411.38," 138,930 "
+1,2018,JAX,Jacksonville International,Jacksonville,FL,380.18,468.86," 136,835 "
+1,2018,ONT,Ontario International,Ontario,CA,315.54,389.13," 133,763 "
+1,2018,MKE,General Mitchell International,Milwaukee,WI,328.70,405.37," 128,618 "
+1,2018,BUR,Bob Hope,Burbank,CA,252.69,311.63," 121,569 "
+1,2018,RIC,Richmond International,Richmond,VA,416.10,513.15," 104,981 "
+1,2018,OMA,Eppley Airfield,Omaha,NE,361.60,445.94," 103,299 "
+1,2018,CHS,Charleston AFB/International,Charleston,SC,378.50,466.79," 103,220 "
+1,2018,BUF,Buffalo Niagara International,Buffalo,NY,316.75,390.62," 99,498 "
+1,2018,MEM,Memphis International,Memphis,TN,392.39,483.91," 96,749 "
+1,2018,BOI,Boise Air Terminal,Boise,ID,346.11,426.84," 95,676 "
+1,2018,ORF,Norfolk International,Norfolk,VA,415.10,511.92," 93,202 "
+1,2018,ABQ,Albuquerque International Sunport,Albuquerque,NM,329.37,406.19," 93,085 "
+1,2018,SDF,Louisville Muhammad Ali International,Louisville,KY,389.81,480.73," 88,827 "
+1,2018,OGG,Kahului Airport,Kahului,HI,307.68,379.45," 87,156 "
+1,2018,ANC,Ted Stevens Anchorage International,Anchorage,AK,462.04,569.81," 86,346 "
+1,2018,OKC,Will Rogers World,Oklahoma City,OK,391.25,482.50," 85,569 "
+1,2018,GRR,Gerald R. Ford International,Grand Rapids,MI,380.95,469.80," 84,779 "
+1,2018,ELP,El Paso International,El Paso,TX,376.49,464.30," 84,067 "
+1,2018,GEG,Spokane International,Spokane,WA,350.03,431.67," 81,039 "
+1,2018,PVD,Rhode Island Tf Green International,Providence,RI,308.86,380.90," 78,143 "
+1,2018,RNO,Reno/Tahoe International,Reno,NV,337.33,416.02," 77,297 "
+1,2018,TUS,Tucson International,Tucson,AZ,380.60,469.37," 72,129 "
+1,2018,DSM,Des Moines International,Des Moines,IA,381.05,469.92," 68,593 "
+1,2018,LGB,Long Beach Airport,Long Beach,CA,182.65,225.25," 66,667 "
+1,2018,SYR,Syracuse Hancock International,Syracuse,NY,396.42,488.88," 64,393 "
+1,2018,TUL,Tulsa International,Tulsa,OK,396.66,489.18," 63,276 "
+1,2018,SRQ,Sarasota/Bradenton International,Sarasota/Bradenton,FL,418.66,516.30," 63,095 "
+1,2018,SAV,Savannah/Hilton Head International,Savannah,GA,408.85,504.21," 60,848 "
+1,2018,ALB,Albany International,Albany,NY,398.01,490.85," 60,750 "
+1,2018,ROC,Frederick Douglass Grtr Rochester International,Rochester,NY,370.92,457.43," 60,469 "
+1,2018,BHM,Birmingham-Shuttlesworth International,Birmingham,AL,454.74,560.80," 59,880 "
+1,2018,HPN,Westchester County,White Plains,NY,429.25,529.37," 59,717 "
+1,2018,KOA,Ellison Onizuka Kona International at Keahole,Kona,HI,320.91,395.76," 56,370 "
+1,2018,TYS,McGhee Tyson,Knoxville,TN,457.87,564.67," 52,127 "
+1,2018,GSP,Greenville-Spartanburg International,Greer,SC,427.10,526.72," 49,712 "
+1,2018,PNS,Pensacola International,Pensacola,FL,443.94,547.49," 48,548 "
+1,2018,MYR,Myrtle Beach International,Myrtle Beach,SC,330.92,408.10," 48,441 "
+1,2018,LIH,Lihue Airport,Lihue,HI,286.63,353.48," 48,397 "
+1,2018,FAT,Fresno Yosemite International,Fresno,CA,408.45,503.71," 46,134 "
+1,2018,LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR,437.12,539.08," 45,445 "
+1,2018,COS,City of Colorado Springs Municipal,Colorado Springs,CO,339.30,418.44," 45,269 "
+1,2018,PWM,Portland International Jetport,Portland,ME,372.30,459.14," 44,250 "
+1,2018,MSN,Dane County Regional-Truax Field,Madison,WI,483.72,596.54," 43,704 "
+1,2018,AVL,Asheville Regional,Asheville,NC,356.39,439.51," 41,151 "
+1,2018,BZN,Bozeman Yellowstone International,Bozeman,MT,511.59,630.91," 40,515 "
+1,2018,XNA,Northwest Arkansas National,Fayetteville,AR,551.11,679.66," 39,233 "
+1,2018,PSP,Palm Springs International,Palm Springs,CA,387.98,478.47," 38,263 "
+1,2018,PIE,St Pete Clearwater International,St. Petersburg,FL,120.36,148.43," 36,368 "
+1,2018,SFB,Orlando Sanford International,Sanford,FL,117.66,145.10," 36,207 "
+1,2018,ICT,Wichita Dwight D Eisenhower National,Wichita,KS,399.36,492.50," 35,754 "
+1,2018,GSO,Piedmont Triad International,Greensboro/High Point,NC,444.60,548.29," 35,501 "
+1,2018,EUG,Mahlon Sweet Field,Eugene,OR,358.20,441.75," 35,248 "
+1,2018,CID,The Eastern Iowa,Cedar Rapids/Iowa City,IA,436.92,538.82," 31,684 "
+1,2018,MDT,Harrisburg International,Harrisburg,PA,470.47,580.20," 30,021 "
+1,2018,HVN,Tweed New Haven,New Haven,CT,330.21,407.23," 29,901 "
+1,2018,FSD,Joe Foss Field,Sioux Falls,SD,419.24,517.03," 29,430 "
+1,2018,HSV,Huntsville International-Carl T Jones Field,Huntsville,AL,601.49,741.78," 29,219 "
+1,2018,MHT,Manchester Boston Regional,Manchester,NH,370.02,456.32," 28,752 "
+1,2018,AZA,Phoenix - Mesa Gateway,Phoenix,AZ,156.36,192.83," 28,563 "
+1,2018,ISP,Long Island MacArthur,Islip,NY,252.17,310.99," 28,511 "
+1,2018,BTV,Burlington International,Burlington,VT,419.34,517.15," 28,133 "
+1,2018,VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL,456.88,563.45," 28,082 "
+1,2018,PGD,Punta Gorda Airport,Punta Gorda,FL,130.24,160.62," 27,827 "
+1,2018,MAF,Midland International Air and Space Port,Midland/Odessa,TX,464.30,572.60," 27,092 "
+1,2018,JAN,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,MS,567.42,699.76," 27,019 "
+1,2018,LEX,Blue Grass,Lexington,KY,431.45,532.09," 26,888 "
+1,2018,ITO,Hilo International,Hilo,HI,255.11,314.61," 26,542 "
+1,2018,SGF,Springfield-Branson National,Springfield,MO,451.13,556.35," 25,336 "
+1,2018,ILM,Wilmington International,Wilmington,NC,452.52,558.06," 25,288 "
+1,2018,MFE,McAllen International,Mission/McAllen/Edinburg,TX,505.26,623.11," 24,946 "
+1,2018,DAY,James M Cox/Dayton International,Dayton,OH,403.54,497.67," 24,815 "
+1,2018,SBA,Santa Barbara Municipal,Santa Barbara,CA,509.05,627.78," 24,159 "
+1,2018,ATW,Appleton International,Appleton,WI,459.23,566.34," 23,844 "
+1,2018,FAR,Hector International,Fargo,ND,505.88,623.87," 23,418 "
+1,2018,CAE,Columbia Metropolitan,Columbia,SC,486.47,599.94," 23,115 "
+1,2018,RDM,Roberts Field,Bend/Redmond,OR,383.59,473.05," 22,481 "
+1,2018,ECP,Northwest Florida Beaches International,Panama City,FL,465.56,574.15," 22,302 "
+1,2018,ABE,Lehigh Valley International,Allentown/Bethlehem/Easton,PA,315.47,389.05," 21,461 "
+1,2018,LBB,Lubbock Preston Smith International,Lubbock,TX,411.43,507.40," 21,453 "
+1,2018,FAI,Fairbanks International,Fairbanks,AK,413.93,510.48," 20,935 "
+1,2018,CHA,Lovell Field,Chattanooga,TN,415.46,512.37," 20,591 "
+1,2018,MFR,Rogue Valley International - Medford,Medford,OR,367.61,453.35," 20,534 "
+1,2018,PSC,Tri Cities,Pasco/Kennewick/Richland,WA,431.79,532.50," 19,336 "
+1,2018,HRL,Valley International,Harlingen/San Benito,TX,358.22,441.77," 19,162 "
+1,2018,SBN,South Bend International,South Bend,IN,387.04,477.31," 18,972 "
+1,2018,BQN,Rafael Hernandez,Aguadilla,PR,192.72,237.67," 18,723 "
+1,2018,ACY,Atlantic City International,Atlantic City,NJ,109.92,135.55," 18,684 "
+1,2018,FWA,Fort Wayne International,Fort Wayne,IN,421.96,520.38," 18,368 "
+1,2018,MSO,Missoula Montana,Missoula,MT,452.58,558.14," 17,538 "
+1,2018,TTN,Trenton Mercer,Trenton,NJ,136.16,167.91," 17,074 "
+1,2018,BIL,Billings Logan International,Billings,MT,454.61,560.64," 16,853 "
+1,2018,CAK,Akron-Canton Regional,Akron,OH,340.50,419.92," 16,819 "
+1,2018,PVU,Provo Municipal,Provo,UT,120.08,148.09," 16,698 "
+1,2018,STT,Cyril E King,Charlotte Amalie,VI,422.68,521.27," 16,470 "
+1,2018,PIA,General Downing - Peoria International,Peoria,IL,338.19,417.08," 16,235 "
+1,2018,TLH,Tallahassee International,Tallahassee,FL,534.29,658.91," 15,873 "
+1,2018,FCA,Glacier Park International,Kalispell,MT,468.13,577.32," 15,752 "
+1,2018,AMA,Rick Husband Amarillo International,Amarillo,TX,422.98,521.64," 15,675 "
+1,2018,FNT,Bishop International,Flint,MI,351.72,433.76," 15,586 "
+1,2018,BLI,Bellingham International,Bellingham,WA,266.25,328.35," 15,449 "
+1,2018,BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA,472.16,582.29," 15,211 "
+1,2018,GRB,Green Bay Austin Straubel International,Green Bay,WI,565.55,697.46," 13,883 "
+1,2018,ROA,Roanoke Blacksburg Regional,Roanoke,VA,489.03,603.09," 13,876 "
+1,2018,CRP,Corpus Christi International,Corpus Christi,TX,436.64,538.48," 13,659 "
+1,2018,BGR,Bangor International,Bangor,ME,360.63,444.75," 13,620 "
+1,2018,TVC,Cherry Capital,Traverse City,MI,592.10,730.20," 13,467 "
+1,2018,CHO,Charlottesville Albemarle,Charlottesville,VA,425.90,525.24," 12,997 "
+1,2018,SHV,Shreveport Regional,Shreveport,LA,523.37,645.45," 12,932 "
+1,2018,JAC,Jackson Hole,Jackson,WY,711.94,877.99," 12,872 "
+1,2018,STS,Charles M. Schulz - Sonoma County,Santa Rosa,CA,282.39,348.26," 12,824 "
+1,2018,AGS,Augusta Regional at Bush Field,Augusta,GA,445.88,549.88," 12,759 "
+1,2018,SBP,San Luis County Regional,San Luis Obispo,CA,490.97,605.48," 12,654 "
+1,2018,RAP,Rapid City Regional,Rapid City,SD,488.54,602.49," 12,572 "
+1,2018,DAB,Daytona Beach International,Daytona Beach,FL,375.07,462.55," 12,522 "
+1,2018,MLI,Quad Cities International,Moline,IL,376.96,464.89," 12,282 "
+1,2018,BIS,Bismarck Municipal,Bismarck/Mandan,ND,440.79,543.61," 11,676 "
+1,2018,IDA,Idaho Falls Regional,Idaho Falls,ID,502.96,620.28," 11,225 "
+1,2018,GNV,Gainesville Regional,Gainesville,FL,462.17,569.97," 11,203 "
+1,2018,EYW,Key West International,Key West,FL,433.62,534.76," 10,903 "
+1,2018,JNU,Juneau International,Juneau,AK,437.31,539.31," 10,616 "
+1,2018,MOB,Mobile Regional,Mobile,AL,567.25,699.55," 10,320 "
+1,2018,GPT,Gulfport-Biloxi International,Gulfport/Biloxi,MS,435.48,537.05," 10,160 "
+1,2018,BLV,Scott AFB MidAmerica St Louis,Belleville,IL,141.85,174.94," 9,682 "
+1,2018,GJT,Grand Junction Regional,Grand Junction,CO,473.82,584.33," 9,506 "
+1,2018,LCK,Rickenbacker International,Columbus,OH,148.08,182.61," 9,227 "
+1,2018,MLB,Melbourne Orlando International,Melbourne,FL,415.70,512.65," 9,191 "
+1,2018,LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA,530.51,654.24," 9,179 "
+1,2018,TRI,Tri Cities,Bristol/Johnson City/Kingsport,TN,550.87,679.36," 8,915 "
+1,2018,MRY,Monterey Regional,Monterey,CA,353.82,436.35," 8,795 "
+1,2018,BRO,Brownsville South Padre Island International,Brownsville,TX,480.53,592.61," 8,462 "
+1,2018,AVP,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,PA,422.70,521.30," 8,273 "
+1,2018,CRW,West Virginia International Yeager,Charleston/Dunbar,WV,569.68,702.55," 8,136 "
+1,2018,BFL,Meadows Field,Bakersfield,CA,572.99,706.64," 8,075 "
+1,2018,FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC,426.59,526.09," 7,862 "
+1,2018,BMI,Central Il Regional Airport at Bloomington,Bloomington/Normal,IL,383.41,472.84," 7,800 "
+1,2018,ASE,Aspen Pitkin County Sardy Field,Aspen,CO,652.85,805.12," 7,688 "
+1,2018,GTF,Great Falls International,Great Falls,MT,432.47,533.34," 7,544 "
+1,2018,DRO,Durango La Plata County,Durango,CO,557.46,687.48," 7,222 "
+1,2018,MGM,Montgomery Regional,Montgomery,AL,551.71,680.39," 7,208 "
+1,2018,MTJ,Montrose Regional,Montrose/Delta,CO,540.44,666.49," 7,208 "
+1,2018,PSE,Mercedita,Ponce,PR,215.40,265.64," 6,993 "
+1,2018,STX,Henry E. Rohlsen,Christiansted,VI,375.48,463.06," 6,987 "
+1,2018,EVV,Evansville Regional,Evansville,IN,486.93,600.50," 6,873 "
+1,2018,RFD,Chicago/Rockford International,Rockford,IL,217.46,268.19," 6,849 "
+1,2018,MOT,Minot International,Minot,ND,467.77,576.88," 6,462 "
+1,2018,OAJ,Albert J Ellis,Jacksonville/Camp Lejeune,NC,426.80,526.35," 6,166 "
+1,2018,LRD,Laredo International,Laredo,TX,453.22,558.93," 5,949 "
+1,2018,ORH,Worcester Regional,Worcester,MA,314.97,388.43," 5,922 "
+1,2018,SCE,University Park,State College,PA,577.73,712.48," 5,669 "
+1,2018,DLH,Duluth International,Duluth,MN,544.19,671.12," 5,655 "
+1,2018,SGU,St George Regional,St. George,UT,402.76,496.70," 5,139 "
+1,2018,USA,Concord Padgett Regional,Concord,NC,124.10,153.05," 4,973 "
+1,2018,HDN,Yampa Valley,Hayden,CO,547.77,675.54," 4,971 "
+1,2018,ACK,Nantucket Memorial,Nantucket,MA,566.07,698.10," 4,837 "
+1,2018,LNK,Lincoln Airport,Lincoln,NE,518.63,639.60," 4,708 "
+1,2018,HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV,258.64,318.96," 4,681 "
+1,2018,ACV,California Redwood Coast Humboldt County,Arcata/Eureka,CA,719.65,887.50," 4,676 "
+1,2018,EGE,Eagle County Regional,Eagle,CO,645.43,795.97," 4,662 "
+1,2018,GRK,Robert Gray AAF,Killeen,TX,427.94,527.76," 4,625 "
+1,2018,SWF,New York Stewart International,Newburgh/Poughkeepsie,NY,284.67,351.07," 4,584 "
+1,2018,LAN,Capital Region International,Lansing,MI,474.73,585.46," 4,526 "
+1,2018,SAF,Santa Fe Municipal,Santa Fe,NM,431.95,532.70," 4,444 "
+1,2018,LBE,Arnold Palmer Regional,Latrobe,PA,106.58,131.44," 4,388 "
+1,2018,GFK,Grand Forks International,Grand Forks,ND,482.82,595.43," 4,343 "
+1,2018,ELM,Elmira/Corning Regional,Elmira/Corning,NY,406.84,501.73," 4,305 "
+1,2018,COU,Columbia Regional,Columbia,MO,448.40,552.99," 4,220 "
+1,2018,AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI,547.11,674.72," 4,213 "
+1,2018,KTN,Ketchikan International,Ketchikan,AK,462.95,570.92," 4,200 "
+1,2018,MLU,Monroe Regional,Monroe,LA,581.39,716.99," 4,112 "
+1,2018,MBS,MBS International,Saginaw/Bay City/Midland,MI,568.77,701.43," 3,982 "
+1,2018,PBG,Plattsburgh International,Plattsburgh,NY,203.16,250.54," 3,971 "
+1,2018,BET,Bethel Airport,Bethel,AK,354.13,436.72," 3,937 "
+1,2018,AEX,Alexandria International,Alexandria,LA,562.57,693.79," 3,871 "
+1,2018,RDD,Redding Regional,Redding,CA,459.38,566.52," 3,738 "
+1,2018,LCH,Lake Charles Regional,Lake Charles,LA,588.52,725.79," 3,649 "
+1,2018,HLN,Helena Regional,Helena,MT,528.71,652.03," 3,557 "
+1,2018,TOL,Eugene F Kranz Toledo Express,Toledo,OH,270.23,333.26," 3,506 "
+1,2018,SCK,Stockton Metro,Stockton,CA,132.02,162.82," 3,503 "
+1,2018,GUM,Guam International,Guam,TT,1751.29,2159.76," 3,494 "
+1,2018,CPR,Casper/Natrona County International,Casper,WY,527.40,650.41," 3,458 "
+1,2018,RST,Rochester International,Rochester,MN,425.47,524.70," 3,440 "
+1,2018,SUN,Friedman Memorial,Sun Valley/Hailey/Ketchum,ID,466.03,574.72," 3,439 "
+1,2018,ABI,Abilene Regional,Abilene,TX,523.11,645.12," 3,349 "
+1,2018,LYH,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA,476.80,588.00," 3,317 "
+1,2018,CWA,Central Wisconsin,Mosinee,WI,583.84,720.01," 3,275 "
+1,2018,PHF,Newport News/Williamsburg International,Newport News/Williamsburg,VA,461.60,569.27," 3,253 "
+1,2018,YUM,Yuma MCAS/Yuma International,Yuma,AZ,512.57,632.12," 3,086 "
+1,2018,MVY,Martha's Vineyard Airport,Martha's Vineyard,MA,386.57,476.74," 3,037 "
+1,2018,GRI,Central Nebraska Regional,Grand Island,NE,341.82,421.54," 2,985 "
+1,2018,SIT,Sitka Rocky Gutierrez,Sitka,AK,433.54,534.66," 2,857 "
+1,2018,IAG,Niagara Falls International,Niagara Falls,NY,186.88,230.47," 2,854 "
+1,2018,HHH,Hilton Head Airport,Hilton Head,SC,437.72,539.82," 2,848 "
+1,2018,CMI,University of Illinois/Willard,Champaign/Urbana,IL,500.41,617.13," 2,804 "
+1,2018,PSM,Portsmouth International at Pease,Portsmouth,NH,227.99,281.16," 2,709 "
+1,2018,ADQ,Kodiak Airport,Kodiak,AK,517.29,637.94," 2,555 "
+1,2018,SPI,Abraham Lincoln Capital,Springfield,IL,365.28,450.48," 2,515 "
+1,2018,FSM,Fort Smith Regional,Fort Smith,AR,593.59,732.04," 2,509 "
+1,2018,PUW,Pullman Moscow Regional,Pullman,WA,368.33,454.24," 2,505 "
+1,2018,ERI,Erie International/Tom Ridge Field,Erie,PA,428.15,528.01," 2,485 "
+1,2018,CLL,Easterwood Field,College Station/Bryan,TX,563.46,694.88," 2,450 "
+1,2018,TYR,Tyler Pounds Regional,Tyler,TX,564.85,696.59," 2,450 "
+1,2018,EWN,Coastal Carolina Regional,New Bern/Morehead/Beaufort,NC,437.79,539.90," 2,421 "
+1,2018,FLG,Flagstaff Pulliam,Flagstaff,AZ,413.48,509.92," 2,403 "
+1,2018,ITH,Ithaca Tompkins International,Ithaca/Cortland,NY,536.00,661.02," 2,325 "
+1,2018,SBY,Salisbury-Ocean City/Wicomico Regional,Salisbury,MD,461.90,569.64," 2,271 "
+1,2018,CSG,Columbus Airport,Columbus,GA,521.06,642.60," 2,222 "
+1,2018,ACT,Waco Regional,Waco,TX,542.97,669.62," 2,208 "
+1,2018,SJT,San Angelo Regional/Mathis Field,San Angelo,TX,524.00,646.22," 2,186 "
+1,2018,CKB,North Central West Virginia,Clarksburg/Fairmont,WV,225.16,277.68," 2,158 "
+1,2018,HGR,Hagerstown Regional-Richard A. Henson Field,Hagerstown,MD,154.64,190.71," 1,991 "
+1,2018,TXK,Texarkana Regional-Webb Field,Texarkana,AR,515.16,635.31," 1,987 "
+1,2018,ROW,Roswell Air Center,Roswell,NM,474.80,585.54," 1,972 "
+1,2018,LAW,Lawton-Fort Sill Regional,Lawton/Fort Sill,OK,532.63,656.86," 1,957 "
+1,2018,BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY,597.25,736.55," 1,919 "
+1,2018,VLD,Valdosta Regional,Valdosta,GA,617.23,761.19," 1,884 "
+1,2018,LSE,La Crosse Regional,La Crosse,WI,522.99,644.98," 1,856 "
+1,2018,OME,Nome Airport,Nome,AK,485.02,598.14," 1,724 "
+1,2018,BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,480.04,592.01," 1,609 "
+1,2018,MQT,Marquette Sawyer Regional,Marquette,MI,569.68,702.55," 1,606 "
+1,2018,MHK,Manhattan Regional,Manhattan/Ft. Riley,KS,510.50,629.57," 1,579 "
+1,2018,PPG,Pago Pago International,Pago Pago,TT,1117.45,1378.08," 1,545 "
+1,2018,GTR,Golden Triangle Regional,Columbus,MS,641.33,790.92," 1,529 "
+1,2018,SWO,Stillwater Regional,Stillwater,OK,449.50,554.34," 1,495 "
+1,2018,GGG,East Texas Regional,Longview,TX,469.58,579.11," 1,493 "
+1,2018,OTZ,Ralph Wien Memorial,Kotzebue,AK,475.72,586.68," 1,483 "
+1,2018,ABY,Southwest Georgia Regional,Albany,GA,578.39,713.30," 1,402 "
+1,2018,BRW,Wiley Post/Will Rogers Memorial,Barrow,AK,509.94,628.88," 1,352 "
+1,2018,PGV,Pitt Greenville,Greenville,NC,438.52,540.80," 1,298 "
+1,2018,LWS,Lewiston Nez Perce County,Lewiston,ID,423.06,521.73," 1,285 "
+1,2018,STC,St. Cloud Regional,St. Cloud,MN,271.81,335.20," 1,277 "
+1,2018,DHN,Dothan Regional,Dothan,AL,728.00,897.80," 1,261 "
+1,2018,COD,Yellowstone Regional,Cody,WY,527.31,650.31," 1,237 "
+1,2018,GUC,Gunnison-Crested Butte Regional,Gunnison,CO,569.92,702.85," 1,175 "
+1,2018,SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,441.10,543.98," 1,121 "
+1,2018,GCC,Northeast Wyoming Regional,Gillette,WY,615.88,759.53," 1,109 "
+1,2018,BJI,Bemidji Regional,Bemidji,MN,567.66,700.06," 1,105 "
+1,2018,SCC,Deadhorse Airport,Deadhorse,AK,411.28,507.21," 1,095 "
+1,2018,DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND,676.65,834.47," 1,090 "
+1,2018,ART,Watertown International,Watertown,NY,420.36,518.40," 1,079 "
+1,2018,GCK,Garden City Regional,Garden City,KS,455.68,561.96," 1,041 "
+1,2018,DLG,Dillingham Airport,Dillingham,AK,814.43,1004.39," 1,031 "
+1,2018,ABR,Aberdeen Regional,Aberdeen,SD,585.63,722.22, 991 
+1,2018,BQK,Brunswick Golden Isles,Brunswick,GA,519.64,640.84, 984 
+1,2018,FLO,Florence Regional,Florence,SC,419.09,516.83, 970 
+1,2018,CIU,Chippewa County International,Sault Ste. Marie,MI,589.57,727.08, 958 
+1,2018,HOB,Lea County Regional,Hobbs,NM,487.72,601.47, 933 
+1,2018,RHI,Rhinelander/Oneida County,Rhinelander,WI,579.21,714.30, 926 
+1,2018,PLN,Pellston Regional Airport of Emmet County,Pellston,MI,670.47,826.85, 907 
+1,2018,IMT,Ford,Iron Mountain/Kingsfd,MI,486.21,599.61, 883 
+1,2018,SPN,Francisco C. Ada Saipan International,Saipan,TT,1257.84,1551.22, 879 
+1,2018,HYA,Cape Cod Gateway,Hyannis,MA,337.00,415.60, 875 
+1,2018,EAT,Pangborn Memorial,Wenatchee,WA,377.30,465.30, 871 
+1,2018,ALW,Walla Walla Regional,Walla Walla,WA,346.10,426.82, 836 
+1,2018,EAU,Chippewa Valley Regional,Eau Claire,WI,475.68,586.62, 826 
+1,2018,TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID,580.01,715.29, 826 
+1,2018,PQI,Presque Isle International,Presque Isle/Houlton,ME,473.32,583.72, 823 
+1,2018,AKN,King Salmon Airport,King Salmon,AK,872.00,1075.39, 807 
+1,2018,YKM,Yakima Air Terminal/McAllister Field,Yakima,WA,398.66,491.64, 792 
+1,2018,SUX,Sioux Gateway Brig Gen Bud Day Field,Sioux City,IA,462.17,569.96, 757 
+1,2018,PSG,Petersburg James A Johnson,Petersburg,AK,430.24,530.59, 733 
+1,2018,DBQ,Dubuque Regional,Dubuque,IA,507.24,625.55, 718 
+1,2018,CMX,Houghton County Memorial,Hancock/Houghton,MI,574.33,708.29, 710 
+1,2018,RKS,Southwest Wyoming Regional,Rock Springs,WY,561.02,691.87, 682 
+1,2018,PIH,Pocatello Regional,Pocatello,ID,562.88,694.17, 675 
+1,2018,LAR,Laramie Regional,Laramie,WY,483.65,596.45, 664 
+1,2018,BRD,Brainerd Lakes Regional,Brainerd,MN,577.52,712.23, 657 
+1,2018,BTM,Bert Mooney,Butte,MT,527.24,650.22, 637 
+1,2018,ESC,Delta County,Escanaba,MI,498.02,614.18, 633 
+1,2018,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA,115.69,142.67, 608 
+1,2018,HIB,Range Regional,Hibbing,MN,592.19,730.32, 586 
+1,2018,LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,384.50,474.18, 563 
+1,2018,CDV,Merle K Mudhole Smith,Cordova,AK,427.41,527.10, 562 
+1,2018,ALO,Waterloo Regional,Waterloo,IA,511.42,630.70, 555 
+1,2018,VEL,Vernal Regional,Vernal,UT,609.23,751.33, 545 
+1,2018,EKO,Elko Regional,Elko,NV,726.36,895.78, 527 
+1,2018,MEI,Key Field,Meridian,MS,491.06,605.60, 522 
+1,2018,OTH,Southwest Oregon Regional,North Bend/Coos Bay,OR,441.24,544.16, 514 
+1,2018,PIR,Pierre Regional,Pierre,SD,583.61,719.73, 484 
+1,2018,CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,342.00,421.77, 482 
+1,2018,WRG,Wrangell Airport,Wrangell,AK,457.25,563.90, 478 
+1,2018,CDC,Cedar City Regional,Cedar City,UT,326.43,402.57, 471 
+1,2018,OWB,Owensboro Daviess County Regional,Owensboro,KY,139.53,172.08, 440 
+1,2018,PRC,Prescott Regional Ernest A Love Field,Prescott,AZ,464.13,572.38, 434 
+1,2018,INL,Falls International Einarson Field,International Falls,MN,495.76,611.39, 407 
+1,2018,BFF,Western Neb. Regional/William B. Heilig Field,Scottsbluff,NE,342.87,422.84, 402 
+1,2018,SLN,Salina Regional,Salina,KS,796.57,982.36, 388 
+1,2018,DEC,Decatur Airport,Decatur,IL,285.50,352.09, 377 
+1,2018,ATY,Watertown Regional,Watertown,SD,451.09,556.30, 367 
+1,2018,APN,Alpena County Regional,Alpena,MI,618.55,762.82, 333 
+1,2018,JLN,Joplin Regional,Joplin,MO,498.93,615.30, 332 
+1,2018,PAH,Barkley Regional,Paducah,KY,440.17,542.84, 323 
+1,2018,ALS,San Luis Valley Regional/Bergman Field,Alamosa,CO,409.86,505.45, 290 
+1,2018,PIB,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,MS,485.61,598.87, 284 
+1,2018,JMS,Jamestown Regional,Jamestown,ND,451.16,556.39, 279 
+1,2018,LBL,Liberal Mid-America Regional,Liberal,KS,343.65,423.81, 273 
+1,2018,YAK,Yakutat Airport,Yakutat,AK,396.26,488.69, 260 
+1,2018,CVN,Clovis Regional,Clovis,NM,453.00,558.66, 250 
+1,2018,HYS,Hays Regional,Hays,KS,512.03,631.45, 231 
+1,2018,DVL,Devils Lake Regional,Devils Lake,ND,509.12,627.87, 219 
+1,2018,DDC,Dodge City Regional,Dodge City,KS,343.43,423.53, 213 
+1,2018,OGS,Ogdensburg International,Ogdensburg,NY,201.93,249.02, 198 
+1,2018,MWA,Veterans Airport of Southern Illinois,Marion/Herrin,IL,404.58,498.95, 180 
+1,2018,DUT,Unalaska Airport,Unalaska,AK,1016.44,1253.52, 171 
+1,2018,IPL,Imperial County,El Centro,CA,260.29,321.00, 169 
+1,2018,PUB,Pueblo Memorial,Pueblo,CO,341.61,421.29, 168 
+1,2018,LEB,Lebanon Municipal,Lebanon-Hanover,NH,335.66,413.95, 166 
+1,2018,MKG,Muskegon County,Muskegon,MI,404.26,498.54, 151 
+1,2018,CGI,Cape Girardeau Regional,Cape Girardeau,MO,317.55,391.62, 147 
+1,2018,TBN,Waynesville-St. Robert Regional Forney Field,Fort Leonard Wood,MO,422.92,521.56, 147 
+1,2018,AUG,Augusta State,Augusta/Waterville,ME,359.17,442.94, 129 
+1,2018,TEX,Telluride Regional,Telluride,CO,837.00,1032.22, 129 
+1,2018,BHB,Hancock County-Bar Harbor,Bar Harbor,ME,447.77,552.21, 117 
+1,2018,CEZ,Cortez Municipal,Cortez,CO,534.17,658.76, 112 
+1,2018,ENA,Kenai Municipal,Kenai,AK,632.48,780.00, 110 
+1,2018,UIN,Quincy Regional-Baldwin Field,Quincy,IL,349.88,431.48, 101 
+1,2018,RKD,Knox County Regional,Rockland,ME,399.25,492.37, 96 
+1,2018,RUT,Rutland - Southern Vermont Regional,Rutland,VT,262.92,324.25, 94 
+1,2018,PVC,Provincetown Municipal,Provincetown,MA,385.17,475.00, 90 
+1,2018,PGA,Page Municipal,Page,AZ,513.00,632.65, 87 
+1,2018,AIA,Alliance Municipal,Alliance,NE,334.00,411.90, 71 
+1,2018,SDY,Sidney Richland Regional,Sidney,MT,652.67,804.90, 71 
+1,2018,HOM,Homer Airport,Homer,AK,707.31,872.28, 69 
+1,2018,GLH,Greenville Mid Delta,Greenville,MS,331.50,408.82, 68 
+1,2018,MSL,Northwest Alabama Regional,Muscle Shoals,AL,513.33,633.06, 66 
+1,2018,TVF,Thief River Falls Regional,Thief River Falls,MN,704.00,868.20, 66 
+1,2018,IRK,Kirksville Regional,Kirksville,MO,447.80,552.25, 56 
+1,2018,ADK,Adak,Adak Island,AK,981.29,1210.16, 50 
+1,2018,SLK,Adirondack Regional,Saranac Lake/Lake Placid,NY,371.35,457.96, 50 
+1,2018,MCK,McCook Ben Nelson Regional,McCook,NE,569.57,702.42, 48 
+1,2018,CDR,Chadron Municipal,Chadron,NE,369.73,455.96, 46 
+1,2018,VQS,Antonio Rivera Rodriguez,Vieques,PR,370.60,457.04, 45 
+1,2018,MSS,Massena International-Richards Field,Massena,NY,577.60,712.32, 42 
+1,2018,MAZ,Eugenio Maria de Hostos,Mayaguez,PR,361.00,445.20, 37 
+1,2018,SOW,Show Low Regional,Show Low,AZ,351.00,432.87, 35 
+1,2018,CNM,Cavern City Air Terminal,Carlsbad,NM,490.40,604.78, 33 
+1,2018,VDZ,Valdez Pioneer Field,Valdez,AK,723.47,892.21, 25 
+1,2018,MKK,Molokai,Hoolehua,HI,246.99,304.60, 23 
+1,2018,HVR,Havre City-County,Havre,MT,596.00,735.01, 22 
+1,2018,GDV,Dawson Community,Glendive,MT,764.40,942.69, 18 
+1,2018,OLF,L. M. Clayton,Wolf Point,MT,891.25,1099.13, 16 
+1,2018,PDT,Eastern Oregon Regional at Pendleton,Pendleton,OR,250.00,308.31, 13 
+1,2018,CPX,Benjamin Rivera Noriega,Culebra,PR,326.50,402.65, 11 
+1,2018,CDB,Cold Bay Airport,Cold Bay,AK,951.55,1173.49, 10 
+1,2018,GGW,Wokal Field Glasgow Valley County,Glasgow,MT,759.00,936.03, 9 
+1,2018,JHM,Kapalua Airport,Kapalua,HI,311.91,384.66, 4 
+1,2018,SDP,Sand Point,Sandpoint,AK,1073.25,1323.58, 3 
+1,2018,LNY,Lanai Airport,Lanai,HI,470.34,580.04, 2 
+1,2018,SVC,Grant County,Silver City/Hurley,NM,337.00,415.60, -   
+1,2018,ROP,Benjamin Taisacan Manglona International,Rota,TT,737.50,909.52, -   
+1,2018,MCG,McGrath Airport,McGrath,AK,358.00,441.50, -   
+1,2018,MMH,Mammoth Lakes Airport,Mammoth Lakes,CA,204.46,252.15, -   
+1,2018,PQS,Pilot Station Airport,Pilot Station,AK,637.50,786.19, -   
+1,2018,MCE,Merced Yosemite Regional,Merced,CA,179.00,220.75, -   
+1,2018,SNP,St. Paul Island,St. Paul,AK,1038.33,1280.52, -   
+1,2018,ISN,Sloulin Field International,Williston,ND,718.90,886.58, -   
+1,2018,YNG,Youngstown-Warren Regional,Youngstown/Warren,OH,72.00,88.79, -   
+1,2018,IFP,Laughlin/Bullhead International,Bullhead City,AZ,294.95,363.74, -   
+1,2018,IPT,Williamsport Regional,Williamsport,PA,478.58,590.20, -   
+1,2018,KKI,Akiachak Airport,Akiachak,AK,464.00,572.22, -   
+1,2018,OGD,Ogden-Hinckley,Ogden,UT,104.85,129.31, -   
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

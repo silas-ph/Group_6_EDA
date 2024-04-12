@@ -1,0 +1,434 @@
+Quarter,Year,Airport Code,Airport Name,City Name,State Name,Average Fare ($),Inflation Adjusted Average Fare ($) (Base Quarter:  Q3-2023),2022 Passengers (10% sample)
+4,2022,LAX,Los Angeles International,Los Angeles,CA,438.87,452.63," 941,283 "
+4,2022,ORD,Chicago O'Hare International,Chicago-O'Hare,IL,390.57,402.82," 768,604 "
+4,2022,ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,408.76,421.58," 744,001 "
+4,2022,DEN,Denver International,Denver,CO,346.03,356.88," 743,828 "
+4,2022,EWR,Newark Liberty International,Newark,NJ,424.85,438.17," 696,941 "
+4,2022,BOS,Logan International,Boston,MA,403.41,416.06," 689,719 "
+4,2022,SEA,Seattle/Tacoma International,Seattle,WA,419.85,433.01," 650,806 "
+4,2022,DFW,Dallas/Fort Worth International,Dallas-DFW,TX,440.45,454.26," 626,404 "
+4,2022,MCO,Orlando International,Orlando,FL,272.39,280.94," 619,182 "
+4,2022,SFO,San Francisco International,San Francisco,CA,476.86,491.81," 603,738 "
+4,2022,PHX,Phoenix Sky Harbor International,Phoenix,AZ,385.09,397.17," 586,781 "
+4,2022,LGA,LaGuardia,New York-La Guardia,NY,353.71,364.80," 548,754 "
+4,2022,JFK,John F. Kennedy International,New York-JFK,NY,447.81,461.86," 542,893 "
+4,2022,LAS,Harry Reid International,Las Vegas,NV,265.27,273.59," 505,713 "
+4,2022,MSP,Minneapolis-St Paul International,Minneapolis,MN,436.00,449.67," 465,865 "
+4,2022,IAH,George Bush Intercontinental/Houston,Houston-Intercontinental,TX,403.94,416.60," 441,705 "
+4,2022,PHL,Philadelphia International,Philadelphia,PA,420.61,433.80," 438,509 "
+4,2022,FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL,278.57,287.30," 427,330 "
+4,2022,SAN,San Diego International,San Diego,CA,388.15,400.33," 419,354 "
+4,2022,DTW,Detroit Metro Wayne County,Detroit,MI,457.70,472.05," 412,494 "
+4,2022,DCA,Ronald Reagan Washington National,Washington-Reagan National,DC,403.83,416.49," 380,547 "
+4,2022,TPA,Tampa International,Tampa,FL,342.28,353.02," 375,092 "
+4,2022,BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,356.32,367.49," 355,097 "
+4,2022,AUS,Austin - Bergstrom International,Austin,TX,378.96,390.84," 346,713 "
+4,2022,MIA,Miami International,Miami,FL,346.73,357.60," 345,604 "
+4,2022,PDX,Portland International,Portland,OR,439.32,453.10," 316,001 "
+4,2022,BNA,Nashville International,Nashville,TN,349.47,360.43," 309,561 "
+4,2022,SLC,Salt Lake City International,Salt Lake City,UT,439.50,453.28," 306,731 "
+4,2022,CLT,Charlotte Douglas International,Charlotte,NC,468.61,483.31," 299,028 "
+4,2022,RDU,Raleigh-Durham International,Raleigh/Durham,NC,400.05,412.60," 280,802 "
+4,2022,SMF,Sacramento International,Sacramento,CA,375.71,387.49," 259,223 "
+4,2022,HNL,Daniel K Inouye International,Honolulu,HI,343.42,354.19," 256,498 "
+4,2022,MDW,Chicago Midway International,Chicago-Midway,IL,301.63,311.09," 256,060 "
+4,2022,STL,St Louis Lambert International,St. Louis,MO,386.33,398.45," 228,095 "
+4,2022,SJC,Norman Y. Mineta San Jose International,San Jose,CA,335.14,345.65," 220,072 "
+4,2022,IAD,Washington Dulles International,Washington-Dulles,DC,503.53,519.32," 216,137 "
+4,2022,MCI,Kansas City International,Kansas City,MO,390.15,402.39," 213,053 "
+4,2022,SNA,John Wayne Airport-Orange County,Santa Ana,CA,395.43,407.83," 204,936 "
+4,2022,DAL,Dallas Love Field,Dallas-Love Field,TX,340.90,351.59," 202,583 "
+4,2022,CLE,Cleveland-Hopkins International,Cleveland,OH,357.29,368.50," 201,673 "
+4,2022,OAK,Metro Oakland International,Oakland,CA,295.32,304.58," 200,137 "
+4,2022,IND,Indianapolis International,Indianapolis,IN,421.23,434.44," 198,766 "
+4,2022,MSY,Louis Armstrong New Orleans International,New Orleans,LA,334.22,344.70," 193,064 "
+4,2022,SAT,San Antonio International,San Antonio,TX,398.35,410.84," 192,841 "
+4,2022,PIT,Pittsburgh International,Pittsburgh,PA,395.51,407.91," 191,112 "
+4,2022,SJU,Luis Munoz Marin International,San Juan,PR,287.65,296.67," 189,783 "
+4,2022,CVG,Cincinnati/Northern Kentucky International,Cincinnati,OH,392.46,404.76," 185,119 "
+4,2022,CMH,John Glenn Columbus International,Columbus,OH,409.29,422.12," 169,279 "
+4,2022,HOU,William P Hobby,Houston-Hobby,TX,331.87,342.28," 158,759 "
+4,2022,BDL,Bradley International,Hartford,CT,381.87,393.85," 149,278 "
+4,2022,RSW,Southwest Florida International,Fort Myers,FL,348.31,359.24," 145,234 "
+4,2022,PBI,Palm Beach International,West Palm Beach/Palm Beach,FL,375.99,387.78," 138,930 "
+4,2022,JAX,Jacksonville International,Jacksonville,FL,397.09,409.54," 136,835 "
+4,2022,ONT,Ontario International,Ontario,CA,373.26,384.96," 133,763 "
+4,2022,MKE,General Mitchell International,Milwaukee,WI,412.51,425.45," 128,618 "
+4,2022,BUR,Bob Hope,Burbank,CA,297.31,306.63," 121,569 "
+4,2022,RIC,Richmond International,Richmond,VA,416.91,429.98," 104,981 "
+4,2022,OMA,Eppley Airfield,Omaha,NE,418.21,431.32," 103,299 "
+4,2022,CHS,Charleston AFB/International,Charleston,SC,372.20,383.87," 103,220 "
+4,2022,BUF,Buffalo Niagara International,Buffalo,NY,338.03,348.62," 99,498 "
+4,2022,MEM,Memphis International,Memphis,TN,419.63,432.79," 96,749 "
+4,2022,BOI,Boise Air Terminal,Boise,ID,393.09,405.41," 95,676 "
+4,2022,ORF,Norfolk International,Norfolk,VA,449.47,463.57," 93,202 "
+4,2022,ABQ,Albuquerque International Sunport,Albuquerque,NM,419.48,432.63," 93,085 "
+4,2022,SDF,Louisville Muhammad Ali International,Louisville,KY,413.94,426.92," 88,827 "
+4,2022,OGG,Kahului Airport,Kahului,HI,251.36,259.25," 87,156 "
+4,2022,ANC,Ted Stevens Anchorage International,Anchorage,AK,551.61,568.91," 86,346 "
+4,2022,OKC,Will Rogers World,Oklahoma City,OK,437.02,450.72," 85,569 "
+4,2022,GRR,Gerald R. Ford International,Grand Rapids,MI,426.50,439.88," 84,779 "
+4,2022,ELP,El Paso International,El Paso,TX,396.47,408.90," 84,067 "
+4,2022,GEG,Spokane International,Spokane,WA,432.72,446.29," 81,039 "
+4,2022,PVD,Rhode Island Tf Green International,Providence,RI,384.16,396.21," 78,143 "
+4,2022,RNO,Reno/Tahoe International,Reno,NV,380.39,392.32," 77,297 "
+4,2022,TUS,Tucson International,Tucson,AZ,455.69,469.98," 72,129 "
+4,2022,DSM,Des Moines International,Des Moines,IA,402.52,415.15," 68,593 "
+4,2022,LGB,Long Beach Airport,Long Beach,CA,296.78,306.09," 66,667 "
+4,2022,SYR,Syracuse Hancock International,Syracuse,NY,405.05,417.76," 64,393 "
+4,2022,TUL,Tulsa International,Tulsa,OK,428.40,441.83," 63,276 "
+4,2022,SRQ,Sarasota/Bradenton International,Sarasota/Bradenton,FL,330.09,340.44," 63,095 "
+4,2022,SAV,Savannah/Hilton Head International,Savannah,GA,399.02,411.53," 60,848 "
+4,2022,ALB,Albany International,Albany,NY,451.73,465.89," 60,750 "
+4,2022,ROC,Frederick Douglass Grtr Rochester International,Rochester,NY,384.83,396.89," 60,469 "
+4,2022,BHM,Birmingham-Shuttlesworth International,Birmingham,AL,499.77,515.44," 59,880 "
+4,2022,HPN,Westchester County,White Plains,NY,400.89,413.46," 59,717 "
+4,2022,KOA,Ellison Onizuka Kona International at Keahole,Kona,HI,254.24,262.21," 56,370 "
+4,2022,TYS,McGhee Tyson,Knoxville,TN,487.20,502.47," 52,127 "
+4,2022,GSP,Greenville-Spartanburg International,Greer,SC,510.86,526.87," 49,712 "
+4,2022,PNS,Pensacola International,Pensacola,FL,460.46,474.90," 48,548 "
+4,2022,MYR,Myrtle Beach International,Myrtle Beach,SC,292.91,302.10," 48,441 "
+4,2022,LIH,Lihue Airport,Lihue,HI,222.00,228.96," 48,397 "
+4,2022,FAT,Fresno Yosemite International,Fresno,CA,466.43,481.06," 46,134 "
+4,2022,LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR,447.19,461.21," 45,445 "
+4,2022,COS,City of Colorado Springs Municipal,Colorado Springs,CO,396.54,408.97," 45,269 "
+4,2022,PWM,Portland International Jetport,Portland,ME,440.98,454.81," 44,250 "
+4,2022,MSN,Dane County Regional-Truax Field,Madison,WI,552.28,569.60," 43,704 "
+4,2022,AVL,Asheville Regional,Asheville,NC,338.55,349.17," 41,151 "
+4,2022,BZN,Bozeman Yellowstone International,Bozeman,MT,448.99,463.07," 40,515 "
+4,2022,XNA,Northwest Arkansas National,Fayetteville,AR,527.12,543.65," 39,233 "
+4,2022,PSP,Palm Springs International,Palm Springs,CA,393.82,406.17," 38,263 "
+4,2022,PIE,St Pete Clearwater International,St. Petersburg,FL,157.96,162.91," 36,368 "
+4,2022,SFB,Orlando Sanford International,Sanford,FL,156.91,161.83," 36,207 "
+4,2022,ICT,Wichita Dwight D Eisenhower National,Wichita,KS,441.16,454.99," 35,754 "
+4,2022,GSO,Piedmont Triad International,Greensboro/High Point,NC,495.30,510.83," 35,501 "
+4,2022,EUG,Mahlon Sweet Field,Eugene,OR,409.58,422.42," 35,248 "
+4,2022,CID,The Eastern Iowa,Cedar Rapids/Iowa City,IA,449.27,463.36," 31,684 "
+4,2022,MDT,Harrisburg International,Harrisburg,PA,475.20,490.11," 30,021 "
+4,2022,HVN,Tweed New Haven,New Haven,CT,197.93,204.13," 29,901 "
+4,2022,FSD,Joe Foss Field,Sioux Falls,SD,462.42,476.92," 29,430 "
+4,2022,HSV,Huntsville International-Carl T Jones Field,Huntsville,AL,630.13,649.89," 29,219 "
+4,2022,MHT,Manchester Boston Regional,Manchester,NH,380.38,392.30," 28,752 "
+4,2022,AZA,Phoenix - Mesa Gateway,Phoenix,AZ,179.47,185.10," 28,563 "
+4,2022,ISP,Long Island MacArthur,Islip,NY,255.34,263.35," 28,511 "
+4,2022,BTV,Burlington International,Burlington,VT,489.76,505.12," 28,133 "
+4,2022,VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL,419.23,432.37," 28,082 "
+4,2022,PGD,Punta Gorda Airport,Punta Gorda,FL,159.83,164.84," 27,827 "
+4,2022,MAF,Midland International Air and Space Port,Midland/Odessa,TX,448.77,462.84," 27,092 "
+4,2022,JAN,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,MS,462.13,476.62," 27,019 "
+4,2022,LEX,Blue Grass,Lexington,KY,548.27,565.47," 26,888 "
+4,2022,ITO,Hilo International,Hilo,HI,181.39,187.07," 26,542 "
+4,2022,SGF,Springfield-Branson National,Springfield,MO,521.30,537.65," 25,336 "
+4,2022,ILM,Wilmington International,Wilmington,NC,518.25,534.51," 25,288 "
+4,2022,MFE,McAllen International,Mission/McAllen/Edinburg,TX,501.90,517.64," 24,946 "
+4,2022,DAY,James M Cox/Dayton International,Dayton,OH,534.58,551.34," 24,815 "
+4,2022,SBA,Santa Barbara Municipal,Santa Barbara,CA,451.05,465.20," 24,159 "
+4,2022,ATW,Appleton International,Appleton,WI,436.03,449.71," 23,844 "
+4,2022,FAR,Hector International,Fargo,ND,510.48,526.49," 23,418 "
+4,2022,CAE,Columbia Metropolitan,Columbia,SC,571.46,589.38," 23,115 "
+4,2022,RDM,Roberts Field,Bend/Redmond,OR,515.00,531.14," 22,481 "
+4,2022,ECP,Northwest Florida Beaches International,Panama City,FL,461.55,476.03," 22,302 "
+4,2022,ABE,Lehigh Valley International,Allentown/Bethlehem/Easton,PA,326.28,336.51," 21,461 "
+4,2022,LBB,Lubbock Preston Smith International,Lubbock,TX,454.24,468.49," 21,453 "
+4,2022,FAI,Fairbanks International,Fairbanks,AK,551.33,568.61," 20,935 "
+4,2022,CHA,Lovell Field,Chattanooga,TN,570.47,588.36," 20,591 "
+4,2022,MFR,Rogue Valley International - Medford,Medford,OR,442.89,456.78," 20,534 "
+4,2022,PSC,Tri Cities,Pasco/Kennewick/Richland,WA,564.22,581.91," 19,336 "
+4,2022,HRL,Valley International,Harlingen/San Benito,TX,388.28,400.45," 19,162 "
+4,2022,SBN,South Bend International,South Bend,IN,448.42,462.48," 18,972 "
+4,2022,BQN,Rafael Hernandez,Aguadilla,PR,211.43,218.06," 18,723 "
+4,2022,ACY,Atlantic City International,Atlantic City,NJ,174.15,179.61," 18,684 "
+4,2022,FWA,Fort Wayne International,Fort Wayne,IN,462.49,476.99," 18,368 "
+4,2022,MSO,Missoula Montana,Missoula,MT,542.66,559.68," 17,538 "
+4,2022,TTN,Trenton Mercer,Trenton,NJ,144.32,148.85," 17,074 "
+4,2022,BIL,Billings Logan International,Billings,MT,527.74,544.29," 16,853 "
+4,2022,CAK,Akron-Canton Regional,Akron,OH,310.42,320.15," 16,819 "
+4,2022,PVU,Provo Municipal,Provo,UT,134.84,139.07," 16,698 "
+4,2022,STT,Cyril E King,Charlotte Amalie,VI,429.34,442.80," 16,470 "
+4,2022,PIA,General Downing - Peoria International,Peoria,IL,387.62,399.77," 16,235 "
+4,2022,TLH,Tallahassee International,Tallahassee,FL,620.48,639.93," 15,873 "
+4,2022,FCA,Glacier Park International,Kalispell,MT,553.40,570.75," 15,752 "
+4,2022,AMA,Rick Husband Amarillo International,Amarillo,TX,429.37,442.83," 15,675 "
+4,2022,FNT,Bishop International,Flint,MI,282.25,291.10," 15,586 "
+4,2022,BLI,Bellingham International,Bellingham,WA,305.29,314.86," 15,449 "
+4,2022,BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA,525.40,541.88," 15,211 "
+4,2022,PAE,Snohomish County,Everett,WA,391.33,403.60," 14,747 "
+4,2022,GRB,Green Bay Austin Straubel International,Green Bay,WI,584.56,602.89," 13,883 "
+4,2022,ROA,Roanoke Blacksburg Regional,Roanoke,VA,556.69,574.15," 13,876 "
+4,2022,CRP,Corpus Christi International,Corpus Christi,TX,503.15,518.93," 13,659 "
+4,2022,BGR,Bangor International,Bangor,ME,494.08,509.58," 13,620 "
+4,2022,TVC,Cherry Capital,Traverse City,MI,619.40,638.82," 13,467 "
+4,2022,CHO,Charlottesville Albemarle,Charlottesville,VA,547.05,564.20," 12,997 "
+4,2022,SHV,Shreveport Regional,Shreveport,LA,592.16,610.73," 12,932 "
+4,2022,JAC,Jackson Hole,Jackson,WY,651.10,671.52," 12,872 "
+4,2022,STS,Charles M. Schulz - Sonoma County,Santa Rosa,CA,319.94,329.97," 12,824 "
+4,2022,AGS,Augusta Regional at Bush Field,Augusta,GA,600.70,619.54," 12,759 "
+4,2022,SBP,San Luis County Regional,San Luis Obispo,CA,593.77,612.39," 12,654 "
+4,2022,RAP,Rapid City Regional,Rapid City,SD,544.25,561.31," 12,572 "
+4,2022,DAB,Daytona Beach International,Daytona Beach,FL,514.24,530.36," 12,522 "
+4,2022,MLI,Quad Cities International,Moline,IL,469.85,484.58," 12,282 "
+4,2022,BIS,Bismarck Municipal,Bismarck/Mandan,ND,549.77,567.00," 11,676 "
+4,2022,IDA,Idaho Falls Regional,Idaho Falls,ID,505.28,521.12," 11,225 "
+4,2022,GNV,Gainesville Regional,Gainesville,FL,564.59,582.30," 11,203 "
+4,2022,EYW,Key West International,Key West,FL,460.85,475.30," 10,903 "
+4,2022,JNU,Juneau International,Juneau,AK,463.05,477.57," 10,616 "
+4,2022,MOB,Mobile Regional,Mobile,AL,606.07,625.07," 10,320 "
+4,2022,GPT,Gulfport-Biloxi International,Gulfport/Biloxi,MS,550.84,568.11," 10,160 "
+4,2022,BLV,Scott AFB MidAmerica St Louis,Belleville,IL,173.29,178.72," 9,682 "
+4,2022,GJT,Grand Junction Regional,Grand Junction,CO,577.76,595.88," 9,506 "
+4,2022,LCK,Rickenbacker International,Columbus,OH,180.65,186.31," 9,227 "
+4,2022,MLB,Melbourne Orlando International,Melbourne,FL,520.24,536.55," 9,191 "
+4,2022,LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA,628.38,648.08," 9,179 "
+4,2022,TRI,Tri Cities,Bristol/Johnson City/Kingsport,TN,622.59,642.11," 8,915 "
+4,2022,MRY,Monterey Regional,Monterey,CA,511.34,527.37," 8,795 "
+4,2022,BRO,Brownsville South Padre Island International,Brownsville,TX,539.46,556.37," 8,462 "
+4,2022,AVP,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,PA,510.19,526.19," 8,273 "
+4,2022,CRW,West Virginia International Yeager,Charleston/Dunbar,WV,550.69,567.95," 8,136 "
+4,2022,BFL,Meadows Field,Bakersfield,CA,635.10,655.02," 8,075 "
+4,2022,FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC,568.22,586.04," 7,862 "
+4,2022,BMI,Central Il Regional Airport at Bloomington,Bloomington/Normal,IL,468.42,483.10," 7,800 "
+4,2022,ASE,Aspen Pitkin County Sardy Field,Aspen,CO,664.47,685.31," 7,688 "
+4,2022,GTF,Great Falls International,Great Falls,MT,503.55,519.34," 7,544 "
+4,2022,DRO,Durango La Plata County,Durango,CO,634.51,654.41," 7,222 "
+4,2022,MGM,Montgomery Regional,Montgomery,AL,552.85,570.18," 7,208 "
+4,2022,MTJ,Montrose Regional,Montrose/Delta,CO,472.81,487.63," 7,208 "
+4,2022,PSE,Mercedita,Ponce,PR,222.48,229.45," 6,993 "
+4,2022,STX,Henry E. Rohlsen,Christiansted,VI,379.56,391.46," 6,987 "
+4,2022,EVV,Evansville Regional,Evansville,IN,623.56,643.11," 6,873 "
+4,2022,RFD,Chicago/Rockford International,Rockford,IL,208.03,214.55," 6,849 "
+4,2022,MOT,Minot International,Minot,ND,529.84,546.45," 6,462 "
+4,2022,OAJ,Albert J Ellis,Jacksonville/Camp Lejeune,NC,608.36,627.43," 6,166 "
+4,2022,LRD,Laredo International,Laredo,TX,425.99,439.35," 5,949 "
+4,2022,ORH,Worcester Regional,Worcester,MA,252.90,260.83," 5,922 "
+4,2022,SCE,University Park,State College,PA,669.15,690.14," 5,669 "
+4,2022,DLH,Duluth International,Duluth,MN,548.36,565.55," 5,655 "
+4,2022,SGU,St George Regional,St. George,UT,552.79,570.12," 5,139 "
+4,2022,USA,Concord Padgett Regional,Concord,NC,145.04,149.59," 4,973 "
+4,2022,HDN,Yampa Valley,Hayden,CO,492.93,508.38," 4,971 "
+4,2022,ACK,Nantucket Memorial,Nantucket,MA,345.16,355.99," 4,837 "
+4,2022,LNK,Lincoln Airport,Lincoln,NE,551.27,568.56," 4,708 "
+4,2022,HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV,315.45,325.34," 4,681 "
+4,2022,ACV,California Redwood Coast Humboldt County,Arcata/Eureka,CA,507.05,522.94," 4,676 "
+4,2022,EGE,Eagle County Regional,Eagle,CO,685.26,706.75," 4,662 "
+4,2022,GRK,Robert Gray AAF,Killeen,TX,582.60,600.87," 4,625 "
+4,2022,SWF,New York Stewart International,Newburgh/Poughkeepsie,NY,153.32,158.13," 4,584 "
+4,2022,LAN,Capital Region International,Lansing,MI,478.16,493.16," 4,526 "
+4,2022,SAF,Santa Fe Municipal,Santa Fe,NM,600.91,619.75," 4,444 "
+4,2022,LBE,Arnold Palmer Regional,Latrobe,PA,145.53,150.10," 4,388 "
+4,2022,GFK,Grand Forks International,Grand Forks,ND,537.56,554.42," 4,343 "
+4,2022,ELM,Elmira/Corning Regional,Elmira/Corning,NY,422.62,435.88," 4,305 "
+4,2022,COU,Columbia Regional,Columbia,MO,590.41,608.92," 4,220 "
+4,2022,AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI,482.82,497.96," 4,213 "
+4,2022,KTN,Ketchikan International,Ketchikan,AK,524.90,541.36," 4,200 "
+4,2022,MLU,Monroe Regional,Monroe,LA,633.06,652.91," 4,112 "
+4,2022,MBS,MBS International,Saginaw/Bay City/Midland,MI,623.97,643.54," 3,982 "
+4,2022,PBG,Plattsburgh International,Plattsburgh,NY,255.82,263.84," 3,971 "
+4,2022,BET,Bethel Airport,Bethel,AK,394.49,406.86," 3,937 "
+4,2022,XWA,Williston Basin International,Williston,ND,603.90,622.84," 3,880 "
+4,2022,AEX,Alexandria International,Alexandria,LA,619.80,639.24," 3,871 "
+4,2022,RDD,Redding Regional,Redding,CA,437.92,451.65," 3,738 "
+4,2022,LCH,Lake Charles Regional,Lake Charles,LA,592.23,610.80," 3,649 "
+4,2022,HLN,Helena Regional,Helena,MT,636.62,656.58," 3,557 "
+4,2022,TOL,Eugene F Kranz Toledo Express,Toledo,OH,184.23,190.00," 3,506 "
+4,2022,SCK,Stockton Metro,Stockton,CA,144.63,149.17," 3,503 "
+4,2022,GUM,Guam International,Guam,TT,1521.24,1568.94," 3,494 "
+4,2022,CPR,Casper/Natrona County International,Casper,WY,628.40,648.11," 3,458 "
+4,2022,RST,Rochester International,Rochester,MN,502.94,518.71," 3,440 "
+4,2022,SUN,Friedman Memorial,Sun Valley/Hailey/Ketchum,ID,699.14,721.06," 3,439 "
+4,2022,ABI,Abilene Regional,Abilene,TX,700.98,722.96," 3,349 "
+4,2022,LYH,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA,635.36,655.28," 3,317 "
+4,2022,CWA,Central Wisconsin,Mosinee,WI,685.44,706.93," 3,275 "
+4,2022,PHF,Newport News/Williamsburg International,Newport News/Williamsburg,VA,454.02,468.26," 3,253 "
+4,2022,YUM,Yuma MCAS/Yuma International,Yuma,AZ,638.45,658.47," 3,086 "
+4,2022,MVY,Martha's Vineyard Airport,Martha's Vineyard,MA,344.95,355.77," 3,037 "
+4,2022,GRI,Central Nebraska Regional,Grand Island,NE,381.00,392.95," 2,985 "
+4,2022,SIT,Sitka Rocky Gutierrez,Sitka,AK,487.91,503.21," 2,857 "
+4,2022,IAG,Niagara Falls International,Niagara Falls,NY,193.89,199.97," 2,854 "
+4,2022,HHH,Hilton Head Airport,Hilton Head,SC,478.96,493.97," 2,848 "
+4,2022,CMI,University of Illinois/Willard,Champaign/Urbana,IL,632.75,652.59," 2,804 "
+4,2022,PSM,Portsmouth International at Pease,Portsmouth,NH,231.58,238.84," 2,709 "
+4,2022,ADQ,Kodiak Airport,Kodiak,AK,545.64,562.75," 2,555 "
+4,2022,SPI,Abraham Lincoln Capital,Springfield,IL,407.58,420.36," 2,515 "
+4,2022,FSM,Fort Smith Regional,Fort Smith,AR,706.04,728.18," 2,509 "
+4,2022,PUW,Pullman Moscow Regional,Pullman,WA,452.93,467.13," 2,505 "
+4,2022,ERI,Erie International/Tom Ridge Field,Erie,PA,511.62,527.66," 2,485 "
+4,2022,CLL,Easterwood Field,College Station/Bryan,TX,737.06,760.17," 2,450 "
+4,2022,TYR,Tyler Pounds Regional,Tyler,TX,720.24,742.83," 2,450 "
+4,2022,EWN,Coastal Carolina Regional,New Bern/Morehead/Beaufort,NC,723.12,745.79," 2,421 "
+4,2022,FLG,Flagstaff Pulliam,Flagstaff,AZ,637.03,657.00," 2,403 "
+4,2022,ITH,Ithaca Tompkins International,Ithaca/Cortland,NY,630.18,649.93," 2,325 "
+4,2022,SBY,Salisbury-Ocean City/Wicomico Regional,Salisbury,MD,674.72,695.88," 2,271 "
+4,2022,CSG,Columbus Airport,Columbus,GA,531.38,548.04," 2,222 "
+4,2022,ACT,Waco Regional,Waco,TX,700.85,722.83," 2,208 "
+4,2022,SJT,San Angelo Regional/Mathis Field,San Angelo,TX,740.86,764.09," 2,186 "
+4,2022,CKB,North Central West Virginia,Clarksburg/Fairmont,WV,227.02,234.13," 2,158 "
+4,2022,HGR,Hagerstown Regional-Richard A. Henson Field,Hagerstown,MD,175.73,181.24," 1,991 "
+4,2022,TXK,Texarkana Regional-Webb Field,Texarkana,AR,668.03,688.98," 1,987 "
+4,2022,ROW,Roswell Air Center,Roswell,NM,526.59,543.10," 1,972 "
+4,2022,LAW,Lawton-Fort Sill Regional,Lawton/Fort Sill,OK,569.32,587.17," 1,957 "
+4,2022,BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY,352.36,363.40," 1,919 "
+4,2022,VLD,Valdosta Regional,Valdosta,GA,716.87,739.35," 1,884 "
+4,2022,LSE,La Crosse Regional,La Crosse,WI,627.97,647.66," 1,856 "
+4,2022,OME,Nome Airport,Nome,AK,549.35,566.58," 1,724 "
+4,2022,BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,481.24,496.33," 1,609 "
+4,2022,MQT,Marquette Sawyer Regional,Marquette,MI,607.85,626.91," 1,606 "
+4,2022,MHK,Manhattan Regional,Manhattan/Ft. Riley,KS,572.55,590.50," 1,579 "
+4,2022,PPG,Pago Pago International,Pago Pago,TT,1233.84,1272.53," 1,545 "
+4,2022,GTR,Golden Triangle Regional,Columbus,MS,730.72,753.64," 1,529 "
+4,2022,SWO,Stillwater Regional,Stillwater,OK,540.56,557.51," 1,495 "
+4,2022,GGG,East Texas Regional,Longview,TX,655.41,675.96," 1,493 "
+4,2022,OTZ,Ralph Wien Memorial,Kotzebue,AK,504.52,520.34," 1,483 "
+4,2022,ABY,Southwest Georgia Regional,Albany,GA,703.23,725.28," 1,402 "
+4,2022,BRW,Wiley Post/Will Rogers Memorial,Barrow,AK,512.08,528.14," 1,352 "
+4,2022,PGV,Pitt Greenville,Greenville,NC,521.86,538.22," 1,298 "
+4,2022,LWS,Lewiston Nez Perce County,Lewiston,ID,600.79,619.63," 1,285 "
+4,2022,STC,St. Cloud Regional,St. Cloud,MN,196.99,203.16," 1,277 "
+4,2022,DHN,Dothan Regional,Dothan,AL,818.04,843.69," 1,261 "
+4,2022,COD,Yellowstone Regional,Cody,WY,699.81,721.75," 1,237 "
+4,2022,GUC,Gunnison-Crested Butte Regional,Gunnison,CO,633.46,653.32," 1,175 "
+4,2022,SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,645.29,665.52," 1,121 "
+4,2022,GCC,Northeast Wyoming Regional,Gillette,WY,639.43,659.48," 1,109 "
+4,2022,BJI,Bemidji Regional,Bemidji,MN,624.52,644.10," 1,105 "
+4,2022,SCC,Deadhorse Airport,Deadhorse,AK,525.85,542.34," 1,095 "
+4,2022,DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND,620.13,639.58," 1,090 "
+4,2022,ART,Watertown International,Watertown,NY,465.51,480.10," 1,079 "
+4,2022,GCK,Garden City Regional,Garden City,KS,597.52,616.25," 1,041 "
+4,2022,DLG,Dillingham Airport,Dillingham,AK,551.37,568.66," 1,031 "
+4,2022,SHR,Sheridan County,Sheridan,WY,696.88,718.73," 1,016 "
+4,2022,SBD,San Bernardino International,San Bernardino,CA,104.03,107.29, 997 
+4,2022,ABR,Aberdeen Regional,Aberdeen,SD,697.28,719.14, 991 
+4,2022,BQK,Brunswick Golden Isles,Brunswick,GA,679.74,701.05, 984 
+4,2022,FLO,Florence Regional,Florence,SC,430.27,443.76, 970 
+4,2022,CIU,Chippewa County International,Sault Ste. Marie,MI,599.06,617.84, 958 
+4,2022,HOB,Lea County Regional,Hobbs,NM,474.39,489.27, 933 
+4,2022,RHI,Rhinelander/Oneida County,Rhinelander,WI,667.32,688.24, 926 
+4,2022,PLN,Pellston Regional Airport of Emmet County,Pellston,MI,690.72,712.37, 907 
+4,2022,IMT,Ford,Iron Mountain/Kingsfd,MI,578.44,596.58, 883 
+4,2022,SPN,Francisco C. Ada Saipan International,Saipan,TT,444.70,458.64, 879 
+4,2022,HYA,Cape Cod Gateway,Hyannis,MA,258.16,266.25, 875 
+4,2022,EAT,Pangborn Memorial,Wenatchee,WA,560.89,578.48, 871 
+4,2022,ALW,Walla Walla Regional,Walla Walla,WA,479.77,494.81, 836 
+4,2022,EAU,Chippewa Valley Regional,Eau Claire,WI,410.16,423.02, 826 
+4,2022,TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID,670.43,691.45, 826 
+4,2022,PQI,Presque Isle International,Presque Isle/Houlton,ME,519.52,535.81, 823 
+4,2022,AKN,King Salmon Airport,King Salmon,AK,542.64,559.66, 807 
+4,2022,YKM,Yakima Air Terminal/McAllister Field,Yakima,WA,532.26,548.95, 792 
+4,2022,SUX,Sioux Gateway Brig Gen Bud Day Field,Sioux City,IA,510.99,527.01, 757 
+4,2022,PSG,Petersburg James A Johnson,Petersburg,AK,457.19,471.53, 733 
+4,2022,CMX,Houghton County Memorial,Hancock/Houghton,MI,572.75,590.71, 710 
+4,2022,RKS,Southwest Wyoming Regional,Rock Springs,WY,643.83,664.02, 682 
+4,2022,PIH,Pocatello Regional,Pocatello,ID,735.70,758.76, 675 
+4,2022,LAR,Laramie Regional,Laramie,WY,542.41,559.42, 664 
+4,2022,BRD,Brainerd Lakes Regional,Brainerd,MN,670.36,691.38, 657 
+4,2022,RIW,Central Wyoming Regional,Riverton/Lander,WY,702.10,724.11, 651 
+4,2022,BTM,Bert Mooney,Butte,MT,625.75,645.37, 637 
+4,2022,ESC,Delta County,Escanaba,MI,573.86,591.85, 633 
+4,2022,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA,123.81,127.69, 608 
+4,2022,HIB,Range Regional,Hibbing,MN,685.65,707.15, 586 
+4,2022,EAR,Kearney Regional,Kearney,NE,620.36,639.81, 576 
+4,2022,LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,517.94,534.19, 563 
+4,2022,CDV,Merle K Mudhole Smith,Cordova,AK,440.68,454.49, 562 
+4,2022,ALO,Waterloo Regional,Waterloo,IA,564.98,582.70, 555 
+4,2022,VEL,Vernal Regional,Vernal,UT,537.32,554.17, 545 
+4,2022,EKO,Elko Regional,Elko,NV,631.46,651.26, 527 
+4,2022,MEI,Key Field,Meridian,MS,473.14,487.98, 522 
+4,2022,OTH,Southwest Oregon Regional,North Bend/Coos Bay,OR,457.10,471.43, 514 
+4,2022,JST,John Murtha Johnstown-Cambria County,Johnstown,PA,549.21,566.43, 496 
+4,2022,PIR,Pierre Regional,Pierre,SD,741.54,764.79, 484 
+4,2022,CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,526.96,543.48, 482 
+4,2022,WRG,Wrangell Airport,Wrangell,AK,460.99,475.45, 478 
+4,2022,CDC,Cedar City Regional,Cedar City,UT,489.99,505.35, 471 
+4,2022,VCT,Victoria Regional,Victoria,TX,521.74,538.10, 441 
+4,2022,CNY,Canyonlands Regional,Moab,UT,420.19,433.37, 440 
+4,2022,OWB,Owensboro Daviess County Regional,Owensboro,KY,175.45,180.95, 440 
+4,2022,PRC,Prescott Regional Ernest A Love Field,Prescott,AZ,632.50,652.33, 434 
+4,2022,INL,Falls International Einarson Field,International Falls,MN,634.80,654.70, 407 
+4,2022,BFF,Western Neb. Regional/William B. Heilig Field,Scottsbluff,NE,564.60,582.30, 402 
+4,2022,SLN,Salina Regional,Salina,KS,450.28,464.39, 388 
+4,2022,DEC,Decatur Airport,Decatur,IL,559.53,577.08, 377 
+4,2022,ATY,Watertown Regional,Watertown,SD,626.49,646.13, 367 
+4,2022,APN,Alpena County Regional,Alpena,MI,669.53,690.52, 333 
+4,2022,JLN,Joplin Regional,Joplin,MO,584.13,602.45, 332 
+4,2022,PAH,Barkley Regional,Paducah,KY,513.12,529.21, 323 
+4,2022,DRT,Del Rio International,Del Rio,TX,472.35,487.16, 320 
+4,2022,BIH,Bishop Airport,Bishop,CA,471.55,486.34, 296 
+4,2022,ALS,San Luis Valley Regional/Bergman Field,Alamosa,CO,656.00,676.57, 290 
+4,2022,PIB,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,MS,512.82,528.90, 284 
+4,2022,JMS,Jamestown Regional,Jamestown,ND,565.65,583.39, 279 
+4,2022,LBL,Liberal Mid-America Regional,Liberal,KS,512.00,528.05, 273 
+4,2022,WYS,Yellowstone,West Yellowstone,MT,519.56,535.85, 272 
+4,2022,SHD,Shenandoah Valley Regional,Staunton,VA,579.96,598.14, 265 
+4,2022,YAK,Yakutat Airport,Yakutat,AK,525.29,541.76, 260 
+4,2022,CVN,Clovis Regional,Clovis,NM,659.67,680.36, 250 
+4,2022,HYS,Hays Regional,Hays,KS,550.63,567.90, 231 
+4,2022,DVL,Devils Lake Regional,Devils Lake,ND,560.18,577.74, 219 
+4,2022,BKW,Raleigh County Memorial,Beckley,WV,651.44,671.87, 215 
+4,2022,DDC,Dodge City Regional,Dodge City,KS,412.24,425.17, 213 
+4,2022,OGS,Ogdensburg International,Ogdensburg,NY,562.19,579.82, 198 
+4,2022,MWA,Veterans Airport of Southern Illinois,Marion/Herrin,IL,550.73,567.99, 180 
+4,2022,DUT,Unalaska Airport,Unalaska,AK,1438.32,1483.42, 171 
+4,2022,LWB,Greenbrier Valley,Lewisburg,WV,556.57,574.03, 169 
+4,2022,IPL,Imperial County,El Centro,CA,446.44,460.44, 169 
+4,2022,PUB,Pueblo Memorial,Pueblo,CO,450.35,464.47, 168 
+4,2022,LEB,Lebanon Municipal,Lebanon-Hanover,NH,483.81,498.98, 166 
+4,2022,FOD,Fort Dodge Regional,Fort Dodge,IA,387.30,399.44, 153 
+4,2022,MKG,Muskegon County,Muskegon,MI,477.16,492.12, 151 
+4,2022,CGI,Cape Girardeau Regional,Cape Girardeau,MO,510.61,526.62, 147 
+4,2022,TBN,Waynesville-St. Robert Regional Forney Field,Fort Leonard Wood,MO,489.36,504.71, 147 
+4,2022,MBL,Manistee County-Blacker,Manistee/Ludington,MI,391.56,403.84, 132 
+4,2022,TEX,Telluride Regional,Telluride,CO,754.65,778.31, 129 
+4,2022,AUG,Augusta State,Augusta/Waterville,ME,465.64,480.24, 129 
+4,2022,MCW,Mason City Municipal,Mason City,IA,398.39,410.88, 128 
+4,2022,IWD,Gogebic-Iron County,Ironwood,MI,600.63,619.46, 120 
+4,2022,BHB,Hancock County-Bar Harbor,Bar Harbor,ME,589.14,607.61, 117 
+4,2022,PKB,Mid-Ohio Valley Regional,Parkersburg,WV,629.40,649.14, 116 
+4,2022,CEZ,Cortez Municipal,Cortez,CO,543.23,560.26, 112 
+4,2022,ENA,Kenai Municipal,Kenai,AK,825.00,850.87, 110 
+4,2022,DUJ,DuBois Regional,DuBois,PA,470.86,485.62, 103 
+4,2022,UIN,Quincy Regional-Baldwin Field,Quincy,IL,427.24,440.63, 101 
+4,2022,RKD,Knox County Regional,Rockland,ME,623.38,642.92, 96 
+4,2022,TUP,Tupelo Regional,Tupelo,MS,375.97,387.76, 96 
+4,2022,RUT,Rutland - Southern Vermont Regional,Rutland,VT,442.86,456.75, 94 
+4,2022,PVC,Provincetown Municipal,Provincetown,MA,659.60,680.28, 90 
+4,2022,MGW,Morgantown Municipal Walter L Bill Hart Field,Morgantown,WV,449.52,463.61, 88 
+4,2022,PGA,Page Municipal,Page,AZ,506.90,522.79, 87 
+4,2022,LNS,Lancaster Airport,Lancaster,PA,451.95,466.12, 84 
+4,2022,BRL,Southeast Iowa Regional,Burlington,IA,356.20,367.37, 83 
+4,2022,AIA,Alliance Municipal,Alliance,NE,510.41,526.41, 71 
+4,2022,SDY,Sidney Richland Regional,Sidney,MT,563.00,580.65, 71 
+4,2022,HOM,Homer Airport,Homer,AK,964.07,994.30, 69 
+4,2022,GLH,Greenville Mid Delta,Greenville,MS,447.94,461.99, 68 
+4,2022,TVF,Thief River Falls Regional,Thief River Falls,MN,599.38,618.18, 66 
+4,2022,MSL,Northwest Alabama Regional,Muscle Shoals,AL,537.62,554.48, 66 
+4,2022,AOO,Altoona-Blair County,Altoona,PA,528.52,545.10, 65 
+4,2022,IRK,Kirksville Regional,Kirksville,MO,426.86,440.25, 56 
+4,2022,BFD,Bradford Regional,Bradford,PA,429.67,443.14, 55 
+4,2022,ADK,Adak,Adak Island,AK,945.00,974.63, 50 
+4,2022,SLK,Adirondack Regional,Saranac Lake/Lake Placid,NY,537.53,554.39, 50 
+4,2022,MCK,McCook Ben Nelson Regional,McCook,NE,546.40,563.53, 48 
+4,2022,CDR,Chadron Municipal,Chadron,NE,505.33,521.18, 46 
+4,2022,VQS,Antonio Rivera Rodriguez,Vieques,PR,536.60,553.43, 45 
+4,2022,MSS,Massena International-Richards Field,Massena,NY,565.88,583.62, 42 
+4,2022,MAZ,Eugenio Maria de Hostos,Mayaguez,PR,473.28,488.12, 37 
+4,2022,SOW,Show Low Regional,Show Low,AZ,634.50,654.40, 35 
+4,2022,CNM,Cavern City Air Terminal,Carlsbad,NM,503.55,519.33, 33 
+4,2022,HRO,Boone County,Harrison,AR,551.70,569.00, 33 
+4,2022,ELD,South Arkansas Regional at Goodwin Field,El Dorado,AR,537.90,554.77, 29 
+4,2022,HOT,Memorial Field,Hot Springs,AR,417.38,430.46, 26 
+4,2022,VDZ,Valdez Pioneer Field,Valdez,AK,415.00,428.01, 25 
+4,2022,MKL,McKellar-Sipes Regional,Jackson,TN,505.67,521.52, 24 
+4,2022,MKK,Molokai,Hoolehua,HI,833.40,859.53, 23 
+4,2022,HVR,Havre City-County,Havre,MT,671.00,692.04, 22 
+4,2022,GDV,Dawson Community,Glendive,MT,721.78,744.41, 18 
+4,2022,OLF,L. M. Clayton,Wolf Point,MT,523.50,539.91, 16 
+4,2022,PDT,Eastern Oregon Regional at Pendleton,Pendleton,OR,606.00,625.00, 13 
+4,2022,CDB,Cold Bay Airport,Cold Bay,AK,925.00,954.00, 10 
+4,2022,GGW,Wokal Field Glasgow Valley County,Glasgow,MT,455.25,469.52, 9 
+4,2022,JBR,Jonesboro Municipal,Jonesboro,AR,468.00,482.67, 8 
+4,2022,MCN,Middle Georgia Regional,Macon,GA,624.50,644.08, 6 
+4,2022,JHM,Kapalua Airport,Kapalua,HI,793.00,817.87, 4 
+4,2022,SDP,Sand Point,Sandpoint,AK,1217.50,1255.68, 3 
+4,2022,LNY,Lanai Airport,Lanai,HI,954.50,984.43, 2 
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
