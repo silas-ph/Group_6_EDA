@@ -1,0 +1,439 @@
+Quarter,Year,Airport Code,Airport Name,City Name,State Name,Average Fare ($),Inflation Adjusted Average Fare ($) (Base Quarter:  Q3-2023),2022 Passengers (10% sample)
+3,2021,LAX,Los Angeles International,Los Angeles,CA,330.61,370.74," 941,283 "
+3,2021,ORD,Chicago O'Hare International,Chicago-O'Hare,IL,290.44,325.69," 768,604 "
+3,2021,ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,310.73,348.44," 744,001 "
+3,2021,DEN,Denver International,Denver,CO,269.20,301.87," 743,828 "
+3,2021,EWR,Newark Liberty International,Newark,NJ,341.81,383.30," 696,941 "
+3,2021,BOS,Logan International,Boston,MA,348.62,390.93," 689,719 "
+3,2021,SEA,Seattle/Tacoma International,Seattle,WA,306.79,344.02," 650,806 "
+3,2021,DFW,Dallas/Fort Worth International,Dallas-DFW,TX,328.70,368.59," 626,404 "
+3,2021,MCO,Orlando International,Orlando,FL,223.65,250.79," 619,182 "
+3,2021,SFO,San Francisco International,San Francisco,CA,399.11,447.55," 603,738 "
+3,2021,PHX,Phoenix Sky Harbor International,Phoenix,AZ,296.00,331.93," 586,781 "
+3,2021,LGA,LaGuardia,New York-La Guardia,NY,300.05,336.47," 548,754 "
+3,2021,JFK,John F. Kennedy International,New York-JFK,NY,361.66,405.55," 542,893 "
+3,2021,LAS,Harry Reid International,Las Vegas,NV,232.81,261.07," 505,713 "
+3,2021,MSP,Minneapolis-St Paul International,Minneapolis,MN,310.50,348.19," 465,865 "
+3,2021,IAH,George Bush Intercontinental/Houston,Houston-Intercontinental,TX,329.72,369.73," 441,705 "
+3,2021,PHL,Philadelphia International,Philadelphia,PA,319.87,358.69," 438,509 "
+3,2021,FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL,218.65,245.19," 427,330 "
+3,2021,SAN,San Diego International,San Diego,CA,333.45,373.92," 419,354 "
+3,2021,DTW,Detroit Metro Wayne County,Detroit,MI,326.88,366.55," 412,494 "
+3,2021,DCA,Ronald Reagan Washington National,Washington-Reagan National,DC,334.35,374.93," 380,547 "
+3,2021,TPA,Tampa International,Tampa,FL,265.03,297.19," 375,092 "
+3,2021,BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,305.48,342.56," 355,097 "
+3,2021,AUS,Austin - Bergstrom International,Austin,TX,298.73,334.98," 346,713 "
+3,2021,MIA,Miami International,Miami,FL,252.40,283.03," 345,604 "
+3,2021,PDX,Portland International,Portland,OR,342.58,384.15," 316,001 "
+3,2021,BNA,Nashville International,Nashville,TN,284.04,318.52," 309,561 "
+3,2021,SLC,Salt Lake City International,Salt Lake City,UT,318.74,357.43," 306,731 "
+3,2021,CLT,Charlotte Douglas International,Charlotte,NC,351.48,394.13," 299,028 "
+3,2021,RDU,Raleigh-Durham International,Raleigh/Durham,NC,304.95,341.96," 280,802 "
+3,2021,SMF,Sacramento International,Sacramento,CA,332.79,373.18," 259,223 "
+3,2021,HNL,Daniel K Inouye International,Honolulu,HI,338.12,379.15," 256,498 "
+3,2021,MDW,Chicago Midway International,Chicago-Midway,IL,254.43,285.31," 256,060 "
+3,2021,STL,St Louis Lambert International,St. Louis,MO,312.56,350.49," 228,095 "
+3,2021,SJC,Norman Y. Mineta San Jose International,San Jose,CA,315.74,354.06," 220,072 "
+3,2021,IAD,Washington Dulles International,Washington-Dulles,DC,415.20,465.59," 216,137 "
+3,2021,MCI,Kansas City International,Kansas City,MO,326.42,366.04," 213,053 "
+3,2021,SNA,John Wayne Airport-Orange County,Santa Ana,CA,319.19,357.93," 204,936 "
+3,2021,DAL,Dallas Love Field,Dallas-Love Field,TX,267.74,300.23," 202,583 "
+3,2021,CLE,Cleveland-Hopkins International,Cleveland,OH,290.10,325.31," 201,673 "
+3,2021,OAK,Metro Oakland International,Oakland,CA,281.61,315.79," 200,137 "
+3,2021,IND,Indianapolis International,Indianapolis,IN,307.14,344.42," 198,766 "
+3,2021,MSY,Louis Armstrong New Orleans International,New Orleans,LA,274.52,307.84," 193,064 "
+3,2021,SAT,San Antonio International,San Antonio,TX,336.89,377.77," 192,841 "
+3,2021,PIT,Pittsburgh International,Pittsburgh,PA,326.09,365.67," 191,112 "
+3,2021,SJU,Luis Munoz Marin International,San Juan,PR,255.42,286.42," 189,783 "
+3,2021,CVG,Cincinnati/Northern Kentucky International,Cincinnati,OH,285.58,320.24," 185,119 "
+3,2021,CMH,John Glenn Columbus International,Columbus,OH,321.71,360.75," 169,279 "
+3,2021,HOU,William P Hobby,Houston-Hobby,TX,284.18,318.67," 158,759 "
+3,2021,BDL,Bradley International,Hartford,CT,334.20,374.76," 149,278 "
+3,2021,RSW,Southwest Florida International,Fort Myers,FL,268.97,301.62," 145,234 "
+3,2021,PBI,Palm Beach International,West Palm Beach/Palm Beach,FL,303.86,340.74," 138,930 "
+3,2021,JAX,Jacksonville International,Jacksonville,FL,320.01,358.85," 136,835 "
+3,2021,ONT,Ontario International,Ontario,CA,307.67,345.01," 133,763 "
+3,2021,MKE,General Mitchell International,Milwaukee,WI,328.81,368.72," 128,618 "
+3,2021,BUR,Bob Hope,Burbank,CA,252.50,283.15," 121,569 "
+3,2021,RIC,Richmond International,Richmond,VA,333.56,374.04," 104,981 "
+3,2021,OMA,Eppley Airfield,Omaha,NE,335.72,376.47," 103,299 "
+3,2021,CHS,Charleston AFB/International,Charleston,SC,286.65,321.44," 103,220 "
+3,2021,BUF,Buffalo Niagara International,Buffalo,NY,317.19,355.69," 99,498 "
+3,2021,MEM,Memphis International,Memphis,TN,325.30,364.78," 96,749 "
+3,2021,BOI,Boise Air Terminal,Boise,ID,292.95,328.51," 95,676 "
+3,2021,ORF,Norfolk International,Norfolk,VA,353.08,395.94," 93,202 "
+3,2021,ABQ,Albuquerque International Sunport,Albuquerque,NM,359.12,402.71," 93,085 "
+3,2021,SDF,Louisville Muhammad Ali International,Louisville,KY,299.91,336.30," 88,827 "
+3,2021,OGG,Kahului Airport,Kahului,HI,274.45,307.76," 87,156 "
+3,2021,ANC,Ted Stevens Anchorage International,Anchorage,AK,384.13,430.75," 86,346 "
+3,2021,OKC,Will Rogers World,Oklahoma City,OK,339.98,381.24," 85,569 "
+3,2021,GRR,Gerald R. Ford International,Grand Rapids,MI,324.37,363.74," 84,779 "
+3,2021,ELP,El Paso International,El Paso,TX,330.52,370.64," 84,067 "
+3,2021,GEG,Spokane International,Spokane,WA,317.69,356.25," 81,039 "
+3,2021,PVD,Rhode Island Tf Green International,Providence,RI,341.27,382.69," 78,143 "
+3,2021,RNO,Reno/Tahoe International,Reno,NV,315.25,353.51," 77,297 "
+3,2021,TUS,Tucson International,Tucson,AZ,350.10,392.58," 72,129 "
+3,2021,DSM,Des Moines International,Des Moines,IA,331.34,371.55," 68,593 "
+3,2021,LGB,Long Beach Airport,Long Beach,CA,272.99,306.13," 66,667 "
+3,2021,SYR,Syracuse Hancock International,Syracuse,NY,378.29,424.20," 64,393 "
+3,2021,TUL,Tulsa International,Tulsa,OK,342.27,383.81," 63,276 "
+3,2021,SRQ,Sarasota/Bradenton International,Sarasota/Bradenton,FL,271.43,304.37," 63,095 "
+3,2021,SAV,Savannah/Hilton Head International,Savannah,GA,289.35,324.46," 60,848 "
+3,2021,ALB,Albany International,Albany,NY,376.24,421.90," 60,750 "
+3,2021,ROC,Frederick Douglass Grtr Rochester International,Rochester,NY,374.07,419.47," 60,469 "
+3,2021,BHM,Birmingham-Shuttlesworth International,Birmingham,AL,381.74,428.07," 59,880 "
+3,2021,HPN,Westchester County,White Plains,NY,357.74,401.16," 59,717 "
+3,2021,KOA,Ellison Onizuka Kona International at Keahole,Kona,HI,265.11,297.28," 56,370 "
+3,2021,TYS,McGhee Tyson,Knoxville,TN,365.62,409.99," 52,127 "
+3,2021,GSP,Greenville-Spartanburg International,Greer,SC,369.24,414.05," 49,712 "
+3,2021,PNS,Pensacola International,Pensacola,FL,301.77,338.39," 48,548 "
+3,2021,MYR,Myrtle Beach International,Myrtle Beach,SC,201.41,225.86," 48,441 "
+3,2021,LIH,Lihue Airport,Lihue,HI,261.05,292.73," 48,397 "
+3,2021,FAT,Fresno Yosemite International,Fresno,CA,337.07,377.98," 46,134 "
+3,2021,LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR,350.23,392.73," 45,445 "
+3,2021,COS,City of Colorado Springs Municipal,Colorado Springs,CO,313.85,351.95," 45,269 "
+3,2021,PWM,Portland International Jetport,Portland,ME,340.92,382.30," 44,250 "
+3,2021,MSN,Dane County Regional-Truax Field,Madison,WI,397.89,446.18," 43,704 "
+3,2021,AVL,Asheville Regional,Asheville,NC,280.62,314.67," 41,151 "
+3,2021,BZN,Bozeman Yellowstone International,Bozeman,MT,300.26,336.70," 40,515 "
+3,2021,XNA,Northwest Arkansas National,Fayetteville,AR,391.98,439.55," 39,233 "
+3,2021,PSP,Palm Springs International,Palm Springs,CA,332.59,372.96," 38,263 "
+3,2021,PIE,St Pete Clearwater International,St. Petersburg,FL,121.80,136.59," 36,368 "
+3,2021,SFB,Orlando Sanford International,Sanford,FL,116.34,130.46," 36,207 "
+3,2021,ICT,Wichita Dwight D Eisenhower National,Wichita,KS,345.26,387.16," 35,754 "
+3,2021,GSO,Piedmont Triad International,Greensboro/High Point,NC,357.06,400.40," 35,501 "
+3,2021,EUG,Mahlon Sweet Field,Eugene,OR,339.93,381.18," 35,248 "
+3,2021,CID,The Eastern Iowa,Cedar Rapids/Iowa City,IA,334.44,375.02," 31,684 "
+3,2021,MDT,Harrisburg International,Harrisburg,PA,382.47,428.89," 30,021 "
+3,2021,HVN,Tweed New Haven,New Haven,CT,322.02,361.10," 29,901 "
+3,2021,FSD,Joe Foss Field,Sioux Falls,SD,373.45,418.78," 29,430 "
+3,2021,HSV,Huntsville International-Carl T Jones Field,Huntsville,AL,451.47,506.27," 29,219 "
+3,2021,MHT,Manchester Boston Regional,Manchester,NH,387.99,435.07," 28,752 "
+3,2021,AZA,Phoenix - Mesa Gateway,Phoenix,AZ,132.03,148.06," 28,563 "
+3,2021,ISP,Long Island MacArthur,Islip,NY,229.69,257.57," 28,511 "
+3,2021,BTV,Burlington International,Burlington,VT,439.99,493.39," 28,133 "
+3,2021,VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL,267.94,300.46," 28,082 "
+3,2021,PGD,Punta Gorda Airport,Punta Gorda,FL,120.43,135.04," 27,827 "
+3,2021,MAF,Midland International Air and Space Port,Midland/Odessa,TX,370.28,415.22," 27,092 "
+3,2021,JAN,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,MS,352.86,395.68," 27,019 "
+3,2021,LEX,Blue Grass,Lexington,KY,374.82,420.31," 26,888 "
+3,2021,ITO,Hilo International,Hilo,HI,200.99,225.39," 26,542 "
+3,2021,SGF,Springfield-Branson National,Springfield,MO,396.94,445.12," 25,336 "
+3,2021,ILM,Wilmington International,Wilmington,NC,378.09,423.97," 25,288 "
+3,2021,MFE,McAllen International,Mission/McAllen/Edinburg,TX,392.10,439.68," 24,946 "
+3,2021,DAY,James M Cox/Dayton International,Dayton,OH,373.62,418.96," 24,815 "
+3,2021,SBA,Santa Barbara Municipal,Santa Barbara,CA,372.14,417.30," 24,159 "
+3,2021,ATW,Appleton International,Appleton,WI,349.72,392.16," 23,844 "
+3,2021,FAR,Hector International,Fargo,ND,397.46,445.70," 23,418 "
+3,2021,CAE,Columbia Metropolitan,Columbia,SC,389.49,436.76," 23,115 "
+3,2021,RDM,Roberts Field,Bend/Redmond,OR,380.63,426.82," 22,481 "
+3,2021,ECP,Northwest Florida Beaches International,Panama City,FL,299.56,335.91," 22,302 "
+3,2021,ABE,Lehigh Valley International,Allentown/Bethlehem/Easton,PA,265.37,297.58," 21,461 "
+3,2021,LBB,Lubbock Preston Smith International,Lubbock,TX,366.56,411.05," 21,453 "
+3,2021,FAI,Fairbanks International,Fairbanks,AK,312.68,350.63," 20,935 "
+3,2021,CHA,Lovell Field,Chattanooga,TN,399.25,447.70," 20,591 "
+3,2021,MFR,Rogue Valley International - Medford,Medford,OR,351.22,393.85," 20,534 "
+3,2021,PSC,Tri Cities,Pasco/Kennewick/Richland,WA,363.78,407.93," 19,336 "
+3,2021,HRL,Valley International,Harlingen/San Benito,TX,335.42,376.13," 19,162 "
+3,2021,SBN,South Bend International,South Bend,IN,342.39,383.94," 18,972 "
+3,2021,BQN,Rafael Hernandez,Aguadilla,PR,225.32,252.66," 18,723 "
+3,2021,ACY,Atlantic City International,Atlantic City,NJ,104.17,116.81," 18,684 "
+3,2021,FWA,Fort Wayne International,Fort Wayne,IN,345.58,387.53," 18,368 "
+3,2021,MSO,Missoula Montana,Missoula,MT,362.29,406.26," 17,538 "
+3,2021,TTN,Trenton Mercer,Trenton,NJ,107.42,120.46," 17,074 "
+3,2021,BIL,Billings Logan International,Billings,MT,378.58,424.52," 16,853 "
+3,2021,CAK,Akron-Canton Regional,Akron,OH,315.52,353.81," 16,819 "
+3,2021,PVU,Provo Municipal,Provo,UT,91.98,103.14," 16,698 "
+3,2021,STT,Cyril E King,Charlotte Amalie,VI,289.03,324.11," 16,470 "
+3,2021,PIA,General Downing - Peoria International,Peoria,IL,279.29,313.18," 16,235 "
+3,2021,TLH,Tallahassee International,Tallahassee,FL,423.09,474.44," 15,873 "
+3,2021,FCA,Glacier Park International,Kalispell,MT,346.33,388.36," 15,752 "
+3,2021,AMA,Rick Husband Amarillo International,Amarillo,TX,354.79,397.84," 15,675 "
+3,2021,FNT,Bishop International,Flint,MI,250.41,280.81," 15,586 "
+3,2021,BLI,Bellingham International,Bellingham,WA,298.54,334.77," 15,449 "
+3,2021,BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA,400.41,449.00," 15,211 "
+3,2021,PAE,Snohomish County,Everett,WA,299.44,335.78," 14,747 "
+3,2021,GRB,Green Bay Austin Straubel International,Green Bay,WI,407.30,456.73," 13,883 "
+3,2021,ROA,Roanoke Blacksburg Regional,Roanoke,VA,432.87,485.41," 13,876 "
+3,2021,CRP,Corpus Christi International,Corpus Christi,TX,407.60,457.07," 13,659 "
+3,2021,BGR,Bangor International,Bangor,ME,350.50,393.04," 13,620 "
+3,2021,TVC,Cherry Capital,Traverse City,MI,391.92,439.49," 13,467 "
+3,2021,CHO,Charlottesville Albemarle,Charlottesville,VA,395.79,443.83," 12,997 "
+3,2021,SHV,Shreveport Regional,Shreveport,LA,420.23,471.23," 12,932 "
+3,2021,JAC,Jackson Hole,Jackson,WY,412.49,462.55," 12,872 "
+3,2021,STS,Charles M. Schulz - Sonoma County,Santa Rosa,CA,339.66,380.88," 12,824 "
+3,2021,AGS,Augusta Regional at Bush Field,Augusta,GA,394.23,442.07," 12,759 "
+3,2021,SBP,San Luis County Regional,San Luis Obispo,CA,474.10,531.64," 12,654 "
+3,2021,RAP,Rapid City Regional,Rapid City,SD,378.97,424.96," 12,572 "
+3,2021,DAB,Daytona Beach International,Daytona Beach,FL,377.99,423.87," 12,522 "
+3,2021,MLI,Quad Cities International,Moline,IL,363.80,407.95," 12,282 "
+3,2021,BIS,Bismarck Municipal,Bismarck/Mandan,ND,395.31,443.29," 11,676 "
+3,2021,IDA,Idaho Falls Regional,Idaho Falls,ID,348.29,390.56," 11,225 "
+3,2021,GNV,Gainesville Regional,Gainesville,FL,401.71,450.47," 11,203 "
+3,2021,EYW,Key West International,Key West,FL,319.93,358.75," 10,903 "
+3,2021,JNU,Juneau International,Juneau,AK,402.62,451.49," 10,616 "
+3,2021,MOB,Mobile Regional,Mobile,AL,411.34,461.26," 10,320 "
+3,2021,GPT,Gulfport-Biloxi International,Gulfport/Biloxi,MS,380.14,426.28," 10,160 "
+3,2021,BLV,Scott AFB MidAmerica St Louis,Belleville,IL,123.96,139.01," 9,682 "
+3,2021,GJT,Grand Junction Regional,Grand Junction,CO,371.13,416.17," 9,506 "
+3,2021,LCK,Rickenbacker International,Columbus,OH,114.79,128.73," 9,227 "
+3,2021,MLB,Melbourne Orlando International,Melbourne,FL,378.14,424.04," 9,191 "
+3,2021,LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA,419.48,470.39," 9,179 "
+3,2021,TRI,Tri Cities,Bristol/Johnson City/Kingsport,TN,479.20,537.36," 8,915 "
+3,2021,MRY,Monterey Regional,Monterey,CA,408.16,457.70," 8,795 "
+3,2021,BRO,Brownsville South Padre Island International,Brownsville,TX,395.19,443.15," 8,462 "
+3,2021,AVP,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,PA,441.78,495.40," 8,273 "
+3,2021,CRW,West Virginia International Yeager,Charleston/Dunbar,WV,455.85,511.17," 8,136 "
+3,2021,BFL,Meadows Field,Bakersfield,CA,445.95,500.07," 8,075 "
+3,2021,FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC,385.94,432.77," 7,862 "
+3,2021,BMI,Central Il Regional Airport at Bloomington,Bloomington/Normal,IL,312.61,350.55," 7,800 "
+3,2021,ASE,Aspen Pitkin County Sardy Field,Aspen,CO,606.75,680.38," 7,688 "
+3,2021,GTF,Great Falls International,Great Falls,MT,407.71,457.19," 7,544 "
+3,2021,DRO,Durango La Plata County,Durango,CO,441.87,495.50," 7,222 "
+3,2021,MGM,Montgomery Regional,Montgomery,AL,464.36,520.71," 7,208 "
+3,2021,MTJ,Montrose Regional,Montrose/Delta,CO,394.71,442.62," 7,208 "
+3,2021,PSE,Mercedita,Ponce,PR,265.10,297.27," 6,993 "
+3,2021,STX,Henry E. Rohlsen,Christiansted,VI,337.06,377.96," 6,987 "
+3,2021,EVV,Evansville Regional,Evansville,IN,384.79,431.49," 6,873 "
+3,2021,RFD,Chicago/Rockford International,Rockford,IL,129.50,145.22," 6,849 "
+3,2021,ILG,New Castle,Wilmington,DE,93.67,105.04," 6,812 "
+3,2021,MOT,Minot International,Minot,ND,428.31,480.29," 6,462 "
+3,2021,OAJ,Albert J Ellis,Jacksonville/Camp Lejeune,NC,379.01,425.01," 6,166 "
+3,2021,LRD,Laredo International,Laredo,TX,410.92,460.79," 5,949 "
+3,2021,ORH,Worcester Regional,Worcester,MA,141.95,159.17," 5,922 "
+3,2021,SCE,University Park,State College,PA,443.38,497.19," 5,669 "
+3,2021,DLH,Duluth International,Duluth,MN,423.48,474.88," 5,655 "
+3,2021,SGU,St George Regional,St. George,UT,388.26,435.38," 5,139 "
+3,2021,USA,Concord Padgett Regional,Concord,NC,102.89,115.37," 4,973 "
+3,2021,HDN,Yampa Valley,Hayden,CO,375.59,421.18," 4,971 "
+3,2021,ACK,Nantucket Memorial,Nantucket,MA,280.32,314.34," 4,837 "
+3,2021,LNK,Lincoln Airport,Lincoln,NE,418.06,468.80," 4,708 "
+3,2021,HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV,197.62,221.61," 4,681 "
+3,2021,ACV,California Redwood Coast Humboldt County,Arcata/Eureka,CA,410.90,460.77," 4,676 "
+3,2021,EGE,Eagle County Regional,Eagle,CO,497.85,558.27," 4,662 "
+3,2021,GRK,Robert Gray AAF,Killeen,TX,350.12,392.62," 4,625 "
+3,2021,SWF,New York Stewart International,Newburgh/Poughkeepsie,NY,158.67,177.92," 4,584 "
+3,2021,LAN,Capital Region International,Lansing,MI,348.42,390.70," 4,526 "
+3,2021,SAF,Santa Fe Municipal,Santa Fe,NM,447.20,501.47," 4,444 "
+3,2021,LBE,Arnold Palmer Regional,Latrobe,PA,102.71,115.18," 4,388 "
+3,2021,GFK,Grand Forks International,Grand Forks,ND,479.77,538.00," 4,343 "
+3,2021,ELM,Elmira/Corning Regional,Elmira/Corning,NY,387.29,434.29," 4,305 "
+3,2021,COU,Columbia Regional,Columbia,MO,396.51,444.64," 4,220 "
+3,2021,AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI,401.07,449.75," 4,213 "
+3,2021,KTN,Ketchikan International,Ketchikan,AK,439.02,492.30," 4,200 "
+3,2021,MLU,Monroe Regional,Monroe,LA,474.21,531.77," 4,112 "
+3,2021,MBS,MBS International,Saginaw/Bay City/Midland,MI,477.84,535.83," 3,982 "
+3,2021,PBG,Plattsburgh International,Plattsburgh,NY,254.67,285.58," 3,971 "
+3,2021,BET,Bethel Airport,Bethel,AK,376.71,422.43," 3,937 "
+3,2021,XWA,Williston Basin International,Williston,ND,539.14,604.57," 3,880 "
+3,2021,AEX,Alexandria International,Alexandria,LA,455.11,510.34," 3,871 "
+3,2021,RDD,Redding Regional,Redding,CA,365.79,410.19," 3,738 "
+3,2021,LCH,Lake Charles Regional,Lake Charles,LA,504.12,565.31," 3,649 "
+3,2021,HLN,Helena Regional,Helena,MT,462.45,518.57," 3,557 "
+3,2021,TOL,Eugene F Kranz Toledo Express,Toledo,OH,239.14,268.16," 3,506 "
+3,2021,SCK,Stockton Metro,Stockton,CA,132.95,149.08," 3,503 "
+3,2021,GUM,Guam International,Guam,TT,1590.60,1783.64," 3,494 "
+3,2021,CPR,Casper/Natrona County International,Casper,WY,489.45,548.86," 3,458 "
+3,2021,RST,Rochester International,Rochester,MN,334.50,375.10," 3,440 "
+3,2021,SUN,Friedman Memorial,Sun Valley/Hailey/Ketchum,ID,499.77,560.42," 3,439 "
+3,2021,ABI,Abilene Regional,Abilene,TX,473.33,530.77," 3,349 "
+3,2021,LYH,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA,441.46,495.03," 3,317 "
+3,2021,CWA,Central Wisconsin,Mosinee,WI,430.18,482.39," 3,275 "
+3,2021,PHF,Newport News/Williamsburg International,Newport News/Williamsburg,VA,410.62,460.46," 3,253 "
+3,2021,YUM,Yuma MCAS/Yuma International,Yuma,AZ,397.95,446.24," 3,086 "
+3,2021,MVY,Martha's Vineyard Airport,Martha's Vineyard,MA,317.08,355.56," 3,037 "
+3,2021,GRI,Central Nebraska Regional,Grand Island,NE,250.45,280.85," 2,985 "
+3,2021,SIT,Sitka Rocky Gutierrez,Sitka,AK,344.09,385.85," 2,857 "
+3,2021,IAG,Niagara Falls International,Niagara Falls,NY,105.62,118.44," 2,854 "
+3,2021,HHH,Hilton Head Airport,Hilton Head,SC,294.68,330.45," 2,848 "
+3,2021,CMI,University of Illinois/Willard,Champaign/Urbana,IL,485.97,544.95," 2,804 "
+3,2021,PSM,Portsmouth International at Pease,Portsmouth,NH,137.00,153.63," 2,709 "
+3,2021,ADQ,Kodiak Airport,Kodiak,AK,470.47,527.56," 2,555 "
+3,2021,SPI,Abraham Lincoln Capital,Springfield,IL,316.53,354.95," 2,515 "
+3,2021,FSM,Fort Smith Regional,Fort Smith,AR,548.74,615.33," 2,509 "
+3,2021,PUW,Pullman Moscow Regional,Pullman,WA,339.46,380.65," 2,505 "
+3,2021,ERI,Erie International/Tom Ridge Field,Erie,PA,413.83,464.06," 2,485 "
+3,2021,CLL,Easterwood Field,College Station/Bryan,TX,429.04,481.11," 2,450 "
+3,2021,TYR,Tyler Pounds Regional,Tyler,TX,510.20,572.12," 2,450 "
+3,2021,EWN,Coastal Carolina Regional,New Bern/Morehead/Beaufort,NC,438.64,491.87," 2,421 "
+3,2021,FLG,Flagstaff Pulliam,Flagstaff,AZ,435.87,488.77," 2,403 "
+3,2021,ITH,Ithaca Tompkins International,Ithaca/Cortland,NY,451.31,506.08," 2,325 "
+3,2021,SBY,Salisbury-Ocean City/Wicomico Regional,Salisbury,MD,423.20,474.56," 2,271 "
+3,2021,CSG,Columbus Airport,Columbus,GA,405.52,454.74," 2,222 "
+3,2021,ACT,Waco Regional,Waco,TX,503.51,564.62," 2,208 "
+3,2021,SJT,San Angelo Regional/Mathis Field,San Angelo,TX,485.61,544.54," 2,186 "
+3,2021,CKB,North Central West Virginia,Clarksburg/Fairmont,WV,230.69,258.69," 2,158 "
+3,2021,HGR,Hagerstown Regional-Richard A. Henson Field,Hagerstown,MD,110.99,124.46," 1,991 "
+3,2021,TXK,Texarkana Regional-Webb Field,Texarkana,AR,521.53,584.82," 1,987 "
+3,2021,ROW,Roswell Air Center,Roswell,NM,437.61,490.72," 1,972 "
+3,2021,LAW,Lawton-Fort Sill Regional,Lawton/Fort Sill,OK,394.05,441.87," 1,957 "
+3,2021,BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY,428.87,480.92," 1,919 "
+3,2021,VLD,Valdosta Regional,Valdosta,GA,540.56,606.17," 1,884 "
+3,2021,LSE,La Crosse Regional,La Crosse,WI,380.64,426.84," 1,856 "
+3,2021,OME,Nome Airport,Nome,AK,499.03,559.59," 1,724 "
+3,2021,BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,473.79,531.29," 1,609 "
+3,2021,MQT,Marquette Sawyer Regional,Marquette,MI,438.53,491.75," 1,606 "
+3,2021,MHK,Manhattan Regional,Manhattan/Ft. Riley,KS,423.80,475.23," 1,579 "
+3,2021,PPG,Pago Pago International,Pago Pago,TT,804.60,902.25," 1,545 "
+3,2021,GTR,Golden Triangle Regional,Columbus,MS,509.48,571.32," 1,529 "
+3,2021,SWO,Stillwater Regional,Stillwater,OK,367.87,412.52," 1,495 "
+3,2021,GGG,East Texas Regional,Longview,TX,483.31,541.97," 1,493 "
+3,2021,OTZ,Ralph Wien Memorial,Kotzebue,AK,481.88,540.36," 1,483 "
+3,2021,ABY,Southwest Georgia Regional,Albany,GA,482.48,541.03," 1,402 "
+3,2021,BRW,Wiley Post/Will Rogers Memorial,Barrow,AK,450.49,505.16," 1,352 "
+3,2021,PGV,Pitt Greenville,Greenville,NC,375.62,421.21," 1,298 "
+3,2021,LWS,Lewiston Nez Perce County,Lewiston,ID,526.44,590.33," 1,285 "
+3,2021,STC,St. Cloud Regional,St. Cloud,MN,121.80,136.58," 1,277 "
+3,2021,DHN,Dothan Regional,Dothan,AL,588.65,660.09," 1,261 "
+3,2021,COD,Yellowstone Regional,Cody,WY,445.07,499.09," 1,237 "
+3,2021,GUC,Gunnison-Crested Butte Regional,Gunnison,CO,577.71,647.82," 1,175 "
+3,2021,SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,424.79,476.34," 1,121 "
+3,2021,GCC,Northeast Wyoming Regional,Gillette,WY,491.40,551.04," 1,109 "
+3,2021,BJI,Bemidji Regional,Bemidji,MN,527.93,592.00," 1,105 "
+3,2021,SCC,Deadhorse Airport,Deadhorse,AK,512.25,574.42," 1,095 "
+3,2021,DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND,508.30,569.99," 1,090 "
+3,2021,ART,Watertown International,Watertown,NY,413.33,463.50," 1,079 "
+3,2021,GCK,Garden City Regional,Garden City,KS,388.65,435.82," 1,041 "
+3,2021,DLG,Dillingham Airport,Dillingham,AK,505.46,566.80," 1,031 "
+3,2021,SHR,Sheridan County,Sheridan,WY,499.97,560.64," 1,016 "
+3,2021,ABR,Aberdeen Regional,Aberdeen,SD,529.75,594.04, 991 
+3,2021,BQK,Brunswick Golden Isles,Brunswick,GA,486.28,545.29, 984 
+3,2021,FLO,Florence Regional,Florence,SC,335.46,376.17, 970 
+3,2021,CIU,Chippewa County International,Sault Ste. Marie,MI,522.12,585.49, 958 
+3,2021,HOB,Lea County Regional,Hobbs,NM,347.48,389.65, 933 
+3,2021,RHI,Rhinelander/Oneida County,Rhinelander,WI,494.15,554.12, 926 
+3,2021,PLN,Pellston Regional Airport of Emmet County,Pellston,MI,583.10,653.87, 907 
+3,2021,IMT,Ford,Iron Mountain/Kingsfd,MI,502.90,563.93, 883 
+3,2021,SPN,Francisco C. Ada Saipan International,Saipan,TT,742.98,833.15, 879 
+3,2021,HYA,Cape Cod Gateway,Hyannis,MA,262.93,294.84, 875 
+3,2021,EAT,Pangborn Memorial,Wenatchee,WA,397.02,445.20, 871 
+3,2021,ALW,Walla Walla Regional,Walla Walla,WA,362.29,406.25, 836 
+3,2021,EAU,Chippewa Valley Regional,Eau Claire,WI,347.22,389.36, 826 
+3,2021,TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID,458.39,514.02, 826 
+3,2021,PQI,Presque Isle International,Presque Isle/Houlton,ME,424.18,475.66, 823 
+3,2021,AKN,King Salmon Airport,King Salmon,AK,505.04,566.34, 807 
+3,2021,YKM,Yakima Air Terminal/McAllister Field,Yakima,WA,433.58,486.20, 792 
+3,2021,SUX,Sioux Gateway Brig Gen Bud Day Field,Sioux City,IA,406.82,456.20, 757 
+3,2021,PSG,Petersburg James A Johnson,Petersburg,AK,470.17,527.24, 733 
+3,2021,DBQ,Dubuque Regional,Dubuque,IA,448.09,502.47, 718 
+3,2021,CMX,Houghton County Memorial,Hancock/Houghton,MI,531.22,595.69, 710 
+3,2021,RKS,Southwest Wyoming Regional,Rock Springs,WY,422.12,473.35, 682 
+3,2021,PIH,Pocatello Regional,Pocatello,ID,561.76,629.94, 675 
+3,2021,LAR,Laramie Regional,Laramie,WY,428.20,480.16, 664 
+3,2021,BRD,Brainerd Lakes Regional,Brainerd,MN,524.97,588.69, 657 
+3,2021,RIW,Central Wyoming Regional,Riverton/Lander,WY,524.22,587.84, 651 
+3,2021,BTM,Bert Mooney,Butte,MT,501.10,561.92, 637 
+3,2021,ESC,Delta County,Escanaba,MI,460.80,516.72, 633 
+3,2021,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA,95.11,106.65, 608 
+3,2021,HIB,Range Regional,Hibbing,MN,550.77,617.62, 586 
+3,2021,EAR,Kearney Regional,Kearney,NE,404.79,453.92, 576 
+3,2021,LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,408.07,457.60, 563 
+3,2021,CDV,Merle K Mudhole Smith,Cordova,AK,417.22,467.85, 562 
+3,2021,ALO,Waterloo Regional,Waterloo,IA,358.05,401.50, 555 
+3,2021,VEL,Vernal Regional,Vernal,UT,455.81,511.13, 545 
+3,2021,EKO,Elko Regional,Elko,NV,589.83,661.42, 527 
+3,2021,MEI,Key Field,Meridian,MS,437.71,490.83, 522 
+3,2021,OTH,Southwest Oregon Regional,North Bend/Coos Bay,OR,459.54,515.31, 514 
+3,2021,JST,John Murtha Johnstown-Cambria County,Johnstown,PA,392.50,440.14, 496 
+3,2021,PIR,Pierre Regional,Pierre,SD,432.82,485.35, 484 
+3,2021,CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,409.00,458.64, 482 
+3,2021,WRG,Wrangell Airport,Wrangell,AK,491.41,551.05, 478 
+3,2021,CDC,Cedar City Regional,Cedar City,UT,476.49,534.32, 471 
+3,2021,VCT,Victoria Regional,Victoria,TX,431.71,484.11, 441 
+3,2021,CNY,Canyonlands Regional,Moab,UT,354.46,397.48, 440 
+3,2021,OWB,Owensboro Daviess County Regional,Owensboro,KY,119.41,133.90, 440 
+3,2021,PRC,Prescott Regional Ernest A Love Field,Prescott,AZ,490.66,550.21, 434 
+3,2021,INL,Falls International Einarson Field,International Falls,MN,457.80,513.36, 407 
+3,2021,BFF,Western Neb. Regional/William B. Heilig Field,Scottsbluff,NE,483.30,541.95, 402 
+3,2021,SLN,Salina Regional,Salina,KS,348.79,391.12, 388 
+3,2021,DEC,Decatur Airport,Decatur,IL,352.14,394.88, 377 
+3,2021,ATY,Watertown Regional,Watertown,SD,388.49,435.64, 367 
+3,2021,APN,Alpena County Regional,Alpena,MI,544.09,610.12, 333 
+3,2021,JLN,Joplin Regional,Joplin,MO,409.41,459.10, 332 
+3,2021,PAH,Barkley Regional,Paducah,KY,495.41,555.53, 323 
+3,2021,DRT,Del Rio International,Del Rio,TX,375.44,421.01, 320 
+3,2021,ALS,San Luis Valley Regional/Bergman Field,Alamosa,CO,431.33,483.68, 290 
+3,2021,PIB,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,MS,385.35,432.12, 284 
+3,2021,JMS,Jamestown Regional,Jamestown,ND,397.61,445.86, 279 
+3,2021,LBL,Liberal Mid-America Regional,Liberal,KS,373.18,418.47, 273 
+3,2021,WYS,Yellowstone,West Yellowstone,MT,287.50,322.39, 272 
+3,2021,SHD,Shenandoah Valley Regional,Staunton,VA,485.27,544.17, 265 
+3,2021,YAK,Yakutat Airport,Yakutat,AK,500.00,560.68, 260 
+3,2021,CVN,Clovis Regional,Clovis,NM,457.78,513.34, 250 
+3,2021,HYS,Hays Regional,Hays,KS,419.66,470.60, 231 
+3,2021,DVL,Devils Lake Regional,Devils Lake,ND,445.70,499.80, 219 
+3,2021,BKW,Raleigh County Memorial,Beckley,WV,484.67,543.50, 215 
+3,2021,DDC,Dodge City Regional,Dodge City,KS,346.22,388.24, 213 
+3,2021,OGS,Ogdensburg International,Ogdensburg,NY,489.49,548.90, 198 
+3,2021,MWA,Veterans Airport of Southern Illinois,Marion/Herrin,IL,370.59,415.57, 180 
+3,2021,GST,Gustavus Airport,Gustavus,AK,219.40,246.03, 175 
+3,2021,DUT,Unalaska Airport,Unalaska,AK,1133.36,1270.91, 171 
+3,2021,LWB,Greenbrier Valley,Lewisburg,WV,446.73,500.95, 169 
+3,2021,IPL,Imperial County,El Centro,CA,321.41,360.42, 169 
+3,2021,PUB,Pueblo Memorial,Pueblo,CO,361.53,405.40, 168 
+3,2021,LEB,Lebanon Municipal,Lebanon-Hanover,NH,422.88,474.20, 166 
+3,2021,FOD,Fort Dodge Regional,Fort Dodge,IA,349.95,392.42, 153 
+3,2021,MKG,Muskegon County,Muskegon,MI,353.69,396.62, 151 
+3,2021,CGI,Cape Girardeau Regional,Cape Girardeau,MO,449.81,504.40, 147 
+3,2021,TBN,Waynesville-St. Robert Regional Forney Field,Fort Leonard Wood,MO,324.86,364.28, 147 
+3,2021,MBL,Manistee County-Blacker,Manistee/Ludington,MI,437.12,490.17, 132 
+3,2021,TEX,Telluride Regional,Telluride,CO,804.85,902.53, 129 
+3,2021,AUG,Augusta State,Augusta/Waterville,ME,409.74,459.47, 129 
+3,2021,MCW,Mason City Municipal,Mason City,IA,355.86,399.05, 128 
+3,2021,IWD,Gogebic-Iron County,Ironwood,MI,342.52,384.09, 120 
+3,2021,BHB,Hancock County-Bar Harbor,Bar Harbor,ME,478.70,536.79, 117 
+3,2021,PKB,Mid-Ohio Valley Regional,Parkersburg,WV,465.18,521.64, 116 
+3,2021,CEZ,Cortez Municipal,Cortez,CO,505.25,566.57, 112 
+3,2021,ENA,Kenai Municipal,Kenai,AK,452.71,507.66, 110 
+3,2021,DUJ,DuBois Regional,DuBois,PA,291.47,326.85, 103 
+3,2021,UIN,Quincy Regional-Baldwin Field,Quincy,IL,358.04,401.49, 101 
+3,2021,RKD,Knox County Regional,Rockland,ME,464.83,521.25, 96 
+3,2021,TUP,Tupelo Regional,Tupelo,MS,363.96,408.14, 96 
+3,2021,RUT,Rutland - Southern Vermont Regional,Rutland,VT,477.72,535.70, 94 
+3,2021,PVC,Provincetown Municipal,Provincetown,MA,684.82,767.93, 90 
+3,2021,MGW,Morgantown Municipal Walter L Bill Hart Field,Morgantown,WV,354.80,397.86, 88 
+3,2021,PGA,Page Municipal,Page,AZ,396.42,444.53, 87 
+3,2021,LNS,Lancaster Airport,Lancaster,PA,306.75,343.98, 84 
+3,2021,AIA,Alliance Municipal,Alliance,NE,461.67,517.70, 71 
+3,2021,SDY,Sidney Richland Regional,Sidney,MT,456.50,511.90, 71 
+3,2021,HOM,Homer Airport,Homer,AK,476.34,534.16, 69 
+3,2021,GLH,Greenville Mid Delta,Greenville,MS,396.27,444.37, 68 
+3,2021,TVF,Thief River Falls Regional,Thief River Falls,MN,412.94,463.05, 66 
+3,2021,MSL,Northwest Alabama Regional,Muscle Shoals,AL,423.00,474.34, 66 
+3,2021,AOO,Altoona-Blair County,Altoona,PA,408.78,458.39, 65 
+3,2021,IRK,Kirksville Regional,Kirksville,MO,341.65,383.11, 56 
+3,2021,BFD,Bradford Regional,Bradford,PA,420.89,471.97, 55 
+3,2021,ADK,Adak,Adak Island,AK,768.37,861.62, 50 
+3,2021,SLK,Adirondack Regional,Saranac Lake/Lake Placid,NY,624.45,700.24, 50 
+3,2021,MCK,McCook Ben Nelson Regional,McCook,NE,444.29,498.22, 48 
+3,2021,CDR,Chadron Municipal,Chadron,NE,558.00,625.72, 46 
+3,2021,VQS,Antonio Rivera Rodriguez,Vieques,PR,674.10,755.91, 45 
+3,2021,MSS,Massena International-Richards Field,Massena,NY,405.25,454.43, 42 
+3,2021,MAZ,Eugenio Maria de Hostos,Mayaguez,PR,356.20,399.43, 37 
+3,2021,SOW,Show Low Regional,Show Low,AZ,505.00,566.29, 35 
+3,2021,CNM,Cavern City Air Terminal,Carlsbad,NM,364.44,408.68, 33 
+3,2021,HRO,Boone County,Harrison,AR,469.33,526.29, 33 
+3,2021,ELD,South Arkansas Regional at Goodwin Field,El Dorado,AR,394.67,442.57, 29 
+3,2021,HOT,Memorial Field,Hot Springs,AR,175.00,196.24, 26 
+3,2021,VDZ,Valdez Pioneer Field,Valdez,AK,580.43,650.87, 25 
+3,2021,MKL,McKellar-Sipes Regional,Jackson,TN,386.50,433.41, 24 
+3,2021,MKK,Molokai,Hoolehua,HI,670.50,751.88, 23 
+3,2021,HVR,Havre City-County,Havre,MT,445.00,499.01, 22 
+3,2021,GDV,Dawson Community,Glendive,MT,398.60,446.98, 18 
+3,2021,BKG,Branson Airport,Branson,MO,108.29,121.44, 17 
+3,2021,PDT,Eastern Oregon Regional at Pendleton,Pendleton,OR,405.71,454.95, 13 
+3,2021,CDB,Cold Bay Airport,Cold Bay,AK,646.77,725.26, 10 
+3,2021,GGW,Wokal Field Glasgow Valley County,Glasgow,MT,469.50,526.48, 9 
+3,2021,MCN,Middle Georgia Regional,Macon,GA,514.00,576.38, 6 
+3,2021,JHM,Kapalua Airport,Kapalua,HI,1132.00,1269.39, 4 
+3,2021,LNY,Lanai Airport,Lanai,HI,1536.00,1722.42, 2 
+3,2021,OGD,Ogden-Hinckley,Ogden,UT,80.08,89.80, -   
+3,2021,MKT,Mankato Regional,Mankato,MN,307.00,344.26, -   
+3,2021,KSM,St. Mary's Airport,St. Mary's,AK,524.00,587.60, -   
+3,2021,SNP,St. Paul Island,St. Paul,AK,1599.00,1793.06, -   
+3,2021,FNL,Northern Colorado Regional,Fort Collins/Loveland,CO,545.50,611.70, -   
+3,2021,IPT,Williamsport Regional,Williamsport,PA,320.15,359.00, -   
+3,2021,MCE,Merced Yosemite Regional,Merced,CA,381.29,427.56, -   
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
