@@ -1,0 +1,6 @@
+Aviation Edge API Key: d4ae86-c3f86d
+
+Socrata API Key (for US DOT data): 9y8vrd2vdfcjejwrd6dmc29yb
+Secret for Socrata API Key: 5iu5sqdz72uhpj6cd6ccg2wzsx64icikkk1agftoqiqx0i3ifv
+Socrata APP Token: ZN5yqb1kt84vgyU8LcUeUph05
+Secret for Socrata App Token: 51Of2uc8IT-wt1_qIHg-AM2wT80PGCvv3YfQ
