@@ -1,0 +1,433 @@
+Quarter,Year,Airport Code,Airport Name,City Name,State Name,Average Fare ($),Inflation Adjusted Average Fare ($) (Base Quarter:  Q3-2023),2022 Passengers (10% sample)
+1,2020,LAX,Los Angeles International,Los Angeles,CA,328.16,389.89," 941,283 "
+1,2020,ORD,Chicago O'Hare International,Chicago-O'Hare,IL,332.04,394.51," 768,604 "
+1,2020,ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,359.58,427.22," 744,001 "
+1,2020,DEN,Denver International,Denver,CO,295.96,351.63," 743,828 "
+1,2020,EWR,Newark Liberty International,Newark,NJ,369.92,439.51," 696,941 "
+1,2020,BOS,Logan International,Boston,MA,324.85,385.96," 689,719 "
+1,2020,SEA,Seattle/Tacoma International,Seattle,WA,307.52,365.37," 650,806 "
+1,2020,DFW,Dallas/Fort Worth International,Dallas-DFW,TX,400.52,475.86," 626,404 "
+1,2020,MCO,Orlando International,Orlando,FL,239.79,284.89," 619,182 "
+1,2020,SFO,San Francisco International,San Francisco,CA,371.76,441.70," 603,738 "
+1,2020,PHX,Phoenix Sky Harbor International,Phoenix,AZ,321.07,381.46," 586,781 "
+1,2020,LGA,LaGuardia,New York-La Guardia,NY,323.66,384.55," 548,754 "
+1,2020,JFK,John F. Kennedy International,New York-JFK,NY,388.19,461.22," 542,893 "
+1,2020,LAS,Harry Reid International,Las Vegas,NV,233.78,277.75," 505,713 "
+1,2020,MSP,Minneapolis-St Paul International,Minneapolis,MN,368.08,437.32," 465,865 "
+1,2020,IAH,George Bush Intercontinental/Houston,Houston-Intercontinental,TX,394.33,468.51," 441,705 "
+1,2020,PHL,Philadelphia International,Philadelphia,PA,364.29,432.82," 438,509 "
+1,2020,FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL,242.55,288.17," 427,330 "
+1,2020,SAN,San Diego International,San Diego,CA,303.99,361.17," 419,354 "
+1,2020,DTW,Detroit Metro Wayne County,Detroit,MI,362.01,430.10," 412,494 "
+1,2020,DCA,Ronald Reagan Washington National,Washington-Reagan National,DC,359.93,427.63," 380,547 "
+1,2020,TPA,Tampa International,Tampa,FL,289.28,343.69," 375,092 "
+1,2020,BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,308.59,366.64," 355,097 "
+1,2020,AUS,Austin - Bergstrom International,Austin,TX,317.02,376.66," 346,713 "
+1,2020,MIA,Miami International,Miami,FL,314.31,373.44," 345,604 "
+1,2020,PDX,Portland International,Portland,OR,308.35,366.35," 316,001 "
+1,2020,BNA,Nashville International,Nashville,TN,326.36,387.75," 309,561 "
+1,2020,SLC,Salt Lake City International,Salt Lake City,UT,364.52,433.09," 306,731 "
+1,2020,CLT,Charlotte Douglas International,Charlotte,NC,393.32,467.30," 299,028 "
+1,2020,RDU,Raleigh-Durham International,Raleigh/Durham,NC,322.21,382.82," 280,802 "
+1,2020,SMF,Sacramento International,Sacramento,CA,308.99,367.12," 259,223 "
+1,2020,HNL,Daniel K Inouye International,Honolulu,HI,300.93,357.54," 256,498 "
+1,2020,MDW,Chicago Midway International,Chicago-Midway,IL,281.92,334.95," 256,060 "
+1,2020,STL,St Louis Lambert International,St. Louis,MO,363.53,431.92," 228,095 "
+1,2020,SJC,Norman Y. Mineta San Jose International,San Jose,CA,272.40,323.64," 220,072 "
+1,2020,IAD,Washington Dulles International,Washington-Dulles,DC,450.35,535.06," 216,137 "
+1,2020,MCI,Kansas City International,Kansas City,MO,366.88,435.89," 213,053 "
+1,2020,SNA,John Wayne Airport-Orange County,Santa Ana,CA,378.53,449.74," 204,936 "
+1,2020,DAL,Dallas Love Field,Dallas-Love Field,TX,310.14,368.49," 202,583 "
+1,2020,CLE,Cleveland-Hopkins International,Cleveland,OH,301.09,357.73," 201,673 "
+1,2020,OAK,Metro Oakland International,Oakland,CA,280.62,333.40," 200,137 "
+1,2020,IND,Indianapolis International,Indianapolis,IN,333.40,396.11," 198,766 "
+1,2020,MSY,Louis Armstrong New Orleans International,New Orleans,LA,287.37,341.43," 193,064 "
+1,2020,SAT,San Antonio International,San Antonio,TX,359.31,426.90," 192,841 "
+1,2020,PIT,Pittsburgh International,Pittsburgh,PA,342.27,406.65," 191,112 "
+1,2020,SJU,Luis Munoz Marin International,San Juan,PR,242.42,288.03," 189,783 "
+1,2020,CVG,Cincinnati/Northern Kentucky International,Cincinnati,OH,315.56,374.93," 185,119 "
+1,2020,CMH,John Glenn Columbus International,Columbus,OH,350.48,416.41," 169,279 "
+1,2020,HOU,William P Hobby,Houston-Hobby,TX,324.40,385.42," 158,759 "
+1,2020,BDL,Bradley International,Hartford,CT,356.73,423.83," 149,278 "
+1,2020,RSW,Southwest Florida International,Fort Myers,FL,281.74,334.74," 145,234 "
+1,2020,PBI,Palm Beach International,West Palm Beach/Palm Beach,FL,322.65,383.35," 138,930 "
+1,2020,JAX,Jacksonville International,Jacksonville,FL,354.63,421.34," 136,835 "
+1,2020,ONT,Ontario International,Ontario,CA,318.71,378.67," 133,763 "
+1,2020,MKE,General Mitchell International,Milwaukee,WI,339.95,403.89," 128,618 "
+1,2020,BUR,Bob Hope,Burbank,CA,267.98,318.39," 121,569 "
+1,2020,RIC,Richmond International,Richmond,VA,374.11,444.48," 104,981 "
+1,2020,OMA,Eppley Airfield,Omaha,NE,360.90,428.79," 103,299 "
+1,2020,CHS,Charleston AFB/International,Charleston,SC,353.88,420.45," 103,220 "
+1,2020,BUF,Buffalo Niagara International,Buffalo,NY,319.05,379.07," 99,498 "
+1,2020,MEM,Memphis International,Memphis,TN,369.55,439.07," 96,749 "
+1,2020,BOI,Boise Air Terminal,Boise,ID,331.89,394.32," 95,676 "
+1,2020,ORF,Norfolk International,Norfolk,VA,383.14,455.21," 93,202 "
+1,2020,ABQ,Albuquerque International Sunport,Albuquerque,NM,343.84,408.53," 93,085 "
+1,2020,SDF,Louisville Muhammad Ali International,Louisville,KY,369.67,439.21," 88,827 "
+1,2020,OGG,Kahului Airport,Kahului,HI,271.48,322.55," 87,156 "
+1,2020,ANC,Ted Stevens Anchorage International,Anchorage,AK,458.72,545.01," 86,346 "
+1,2020,OKC,Will Rogers World,Oklahoma City,OK,373.83,444.15," 85,569 "
+1,2020,GRR,Gerald R. Ford International,Grand Rapids,MI,336.86,400.22," 84,779 "
+1,2020,ELP,El Paso International,El Paso,TX,355.04,421.82," 84,067 "
+1,2020,GEG,Spokane International,Spokane,WA,331.15,393.44," 81,039 "
+1,2020,PVD,Rhode Island Tf Green International,Providence,RI,322.52,383.19," 78,143 "
+1,2020,RNO,Reno/Tahoe International,Reno,NV,336.10,399.32," 77,297 "
+1,2020,TUS,Tucson International,Tucson,AZ,349.23,414.92," 72,129 "
+1,2020,DSM,Des Moines International,Des Moines,IA,366.55,435.50," 68,593 "
+1,2020,LGB,Long Beach Airport,Long Beach,CA,213.87,254.11," 66,667 "
+1,2020,SYR,Syracuse Hancock International,Syracuse,NY,347.47,412.83," 64,393 "
+1,2020,TUL,Tulsa International,Tulsa,OK,391.95,465.68," 63,276 "
+1,2020,SRQ,Sarasota/Bradenton International,Sarasota/Bradenton,FL,316.98,376.61," 63,095 "
+1,2020,SAV,Savannah/Hilton Head International,Savannah,GA,379.69,451.12," 60,848 "
+1,2020,ALB,Albany International,Albany,NY,367.27,436.36," 60,750 "
+1,2020,ROC,Frederick Douglass Grtr Rochester International,Rochester,NY,368.42,437.73," 60,469 "
+1,2020,BHM,Birmingham-Shuttlesworth International,Birmingham,AL,424.36,504.19," 59,880 "
+1,2020,HPN,Westchester County,White Plains,NY,390.54,464.01," 59,717 "
+1,2020,KOA,Ellison Onizuka Kona International at Keahole,Kona,HI,261.86,311.11," 56,370 "
+1,2020,TYS,McGhee Tyson,Knoxville,TN,387.01,459.82," 52,127 "
+1,2020,GSP,Greenville-Spartanburg International,Greer,SC,387.86,460.83," 49,712 "
+1,2020,PNS,Pensacola International,Pensacola,FL,386.21,458.86," 48,548 "
+1,2020,MYR,Myrtle Beach International,Myrtle Beach,SC,315.45,374.79," 48,441 "
+1,2020,LIH,Lihue Airport,Lihue,HI,244.11,290.03," 48,397 "
+1,2020,FAT,Fresno Yosemite International,Fresno,CA,373.67,443.96," 46,134 "
+1,2020,LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR,397.42,472.18," 45,445 "
+1,2020,COS,City of Colorado Springs Municipal,Colorado Springs,CO,382.39,454.32," 45,269 "
+1,2020,PWM,Portland International Jetport,Portland,ME,348.45,414.00," 44,250 "
+1,2020,MSN,Dane County Regional-Truax Field,Madison,WI,403.77,479.72," 43,704 "
+1,2020,AVL,Asheville Regional,Asheville,NC,296.31,352.05," 41,151 "
+1,2020,BZN,Bozeman Yellowstone International,Bozeman,MT,404.76,480.90," 40,515 "
+1,2020,XNA,Northwest Arkansas National,Fayetteville,AR,447.23,531.36," 39,233 "
+1,2020,PSP,Palm Springs International,Palm Springs,CA,352.47,418.78," 38,263 "
+1,2020,PIE,St Pete Clearwater International,St. Petersburg,FL,116.92,138.91," 36,368 "
+1,2020,SFB,Orlando Sanford International,Sanford,FL,115.78,137.55," 36,207 "
+1,2020,ICT,Wichita Dwight D Eisenhower National,Wichita,KS,382.82,454.84," 35,754 "
+1,2020,GSO,Piedmont Triad International,Greensboro/High Point,NC,396.71,471.34," 35,501 "
+1,2020,EUG,Mahlon Sweet Field,Eugene,OR,340.84,404.96," 35,248 "
+1,2020,CID,The Eastern Iowa,Cedar Rapids/Iowa City,IA,364.38,432.93," 31,684 "
+1,2020,MDT,Harrisburg International,Harrisburg,PA,393.61,467.65," 30,021 "
+1,2020,HVN,Tweed New Haven,New Haven,CT,357.09,424.26," 29,901 "
+1,2020,FSD,Joe Foss Field,Sioux Falls,SD,381.18,452.89," 29,430 "
+1,2020,HSV,Huntsville International-Carl T Jones Field,Huntsville,AL,502.54,597.07," 29,219 "
+1,2020,MHT,Manchester Boston Regional,Manchester,NH,372.19,442.20," 28,752 "
+1,2020,AZA,Phoenix - Mesa Gateway,Phoenix,AZ,129.08,153.36," 28,563 "
+1,2020,ISP,Long Island MacArthur,Islip,NY,261.72,310.95," 28,511 "
+1,2020,BTV,Burlington International,Burlington,VT,413.95,491.81," 28,133 "
+1,2020,VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL,415.51,493.67," 28,082 "
+1,2020,PGD,Punta Gorda Airport,Punta Gorda,FL,129.62,154.00," 27,827 "
+1,2020,MAF,Midland International Air and Space Port,Midland/Odessa,TX,457.79,543.90," 27,092 "
+1,2020,JAN,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,MS,503.40,598.10," 27,019 "
+1,2020,LEX,Blue Grass,Lexington,KY,391.55,465.21," 26,888 "
+1,2020,ITO,Hilo International,Hilo,HI,178.11,211.61," 26,542 "
+1,2020,SGF,Springfield-Branson National,Springfield,MO,412.19,489.73," 25,336 "
+1,2020,ILM,Wilmington International,Wilmington,NC,413.15,490.86," 25,288 "
+1,2020,MFE,McAllen International,Mission/McAllen/Edinburg,TX,393.72,467.78," 24,946 "
+1,2020,DAY,James M Cox/Dayton International,Dayton,OH,430.12,511.03," 24,815 "
+1,2020,SBA,Santa Barbara Municipal,Santa Barbara,CA,405.74,482.07," 24,159 "
+1,2020,ATW,Appleton International,Appleton,WI,399.27,474.38," 23,844 "
+1,2020,FAR,Hector International,Fargo,ND,403.40,479.29," 23,418 "
+1,2020,CAE,Columbia Metropolitan,Columbia,SC,437.85,520.21," 23,115 "
+1,2020,RDM,Roberts Field,Bend/Redmond,OR,337.12,400.54," 22,481 "
+1,2020,ECP,Northwest Florida Beaches International,Panama City,FL,388.97,462.14," 22,302 "
+1,2020,ABE,Lehigh Valley International,Allentown/Bethlehem/Easton,PA,296.82,352.66," 21,461 "
+1,2020,LBB,Lubbock Preston Smith International,Lubbock,TX,399.67,474.85," 21,453 "
+1,2020,FAI,Fairbanks International,Fairbanks,AK,420.60,499.71," 20,935 "
+1,2020,CHA,Lovell Field,Chattanooga,TN,429.30,510.06," 20,591 "
+1,2020,MFR,Rogue Valley International - Medford,Medford,OR,336.72,400.06," 20,534 "
+1,2020,PSC,Tri Cities,Pasco/Kennewick/Richland,WA,395.42,469.81," 19,336 "
+1,2020,HRL,Valley International,Harlingen/San Benito,TX,298.48,354.62," 19,162 "
+1,2020,SBN,South Bend International,South Bend,IN,348.80,414.41," 18,972 "
+1,2020,BQN,Rafael Hernandez,Aguadilla,PR,188.58,224.05," 18,723 "
+1,2020,ACY,Atlantic City International,Atlantic City,NJ,112.63,133.82," 18,684 "
+1,2020,FWA,Fort Wayne International,Fort Wayne,IN,360.66,428.51," 18,368 "
+1,2020,MSO,Missoula Montana,Missoula,MT,398.97,474.02," 17,538 "
+1,2020,TTN,Trenton Mercer,Trenton,NJ,122.36,145.38," 17,074 "
+1,2020,BIL,Billings Logan International,Billings,MT,397.94,472.80," 16,853 "
+1,2020,CAK,Akron-Canton Regional,Akron,OH,342.00,406.33," 16,819 "
+1,2020,PVU,Provo Municipal,Provo,UT,99.47,118.18," 16,698 "
+1,2020,STT,Cyril E King,Charlotte Amalie,VI,342.80,407.29," 16,470 "
+1,2020,PIA,General Downing - Peoria International,Peoria,IL,338.39,402.04," 16,235 "
+1,2020,TLH,Tallahassee International,Tallahassee,FL,463.59,550.80," 15,873 "
+1,2020,FCA,Glacier Park International,Kalispell,MT,396.51,471.09," 15,752 "
+1,2020,AMA,Rick Husband Amarillo International,Amarillo,TX,408.59,485.45," 15,675 "
+1,2020,FNT,Bishop International,Flint,MI,282.06,335.11," 15,586 "
+1,2020,BLI,Bellingham International,Bellingham,WA,241.37,286.78," 15,449 "
+1,2020,BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA,468.71,556.88," 15,211 "
+1,2020,PAE,Snohomish County,Everett,WA,274.98,326.71," 14,747 "
+1,2020,GRB,Green Bay Austin Straubel International,Green Bay,WI,471.77,560.52," 13,883 "
+1,2020,ROA,Roanoke Blacksburg Regional,Roanoke,VA,448.90,533.35," 13,876 "
+1,2020,CRP,Corpus Christi International,Corpus Christi,TX,451.86,536.86," 13,659 "
+1,2020,BGR,Bangor International,Bangor,ME,362.69,430.92," 13,620 "
+1,2020,TVC,Cherry Capital,Traverse City,MI,382.55,454.51," 13,467 "
+1,2020,CHO,Charlottesville Albemarle,Charlottesville,VA,420.49,499.58," 12,997 "
+1,2020,SHV,Shreveport Regional,Shreveport,LA,474.74,564.04," 12,932 "
+1,2020,JAC,Jackson Hole,Jackson,WY,550.56,654.13," 12,872 "
+1,2020,STS,Charles M. Schulz - Sonoma County,Santa Rosa,CA,312.62,371.42," 12,824 "
+1,2020,AGS,Augusta Regional at Bush Field,Augusta,GA,430.90,511.96," 12,759 "
+1,2020,SBP,San Luis County Regional,San Luis Obispo,CA,421.10,500.31," 12,654 "
+1,2020,RAP,Rapid City Regional,Rapid City,SD,409.44,486.46," 12,572 "
+1,2020,DAB,Daytona Beach International,Daytona Beach,FL,397.45,472.22," 12,522 "
+1,2020,MLI,Quad Cities International,Moline,IL,370.44,440.12," 12,282 "
+1,2020,BIS,Bismarck Municipal,Bismarck/Mandan,ND,383.77,455.96," 11,676 "
+1,2020,IDA,Idaho Falls Regional,Idaho Falls,ID,488.46,580.35," 11,225 "
+1,2020,GNV,Gainesville Regional,Gainesville,FL,406.68,483.18," 11,203 "
+1,2020,EYW,Key West International,Key West,FL,389.70,463.00," 10,903 "
+1,2020,JNU,Juneau International,Juneau,AK,416.98,495.42," 10,616 "
+1,2020,MOB,Mobile Regional,Mobile,AL,461.15,547.90," 10,320 "
+1,2020,GPT,Gulfport-Biloxi International,Gulfport/Biloxi,MS,425.29,505.29," 10,160 "
+1,2020,BLV,Scott AFB MidAmerica St Louis,Belleville,IL,152.14,180.75," 9,682 "
+1,2020,GJT,Grand Junction Regional,Grand Junction,CO,387.96,460.94," 9,506 "
+1,2020,LCK,Rickenbacker International,Columbus,OH,129.55,153.92," 9,227 "
+1,2020,MLB,Melbourne Orlando International,Melbourne,FL,411.58,489.01," 9,191 "
+1,2020,LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA,489.34,581.39," 9,179 "
+1,2020,TRI,Tri Cities,Bristol/Johnson City/Kingsport,TN,479.41,569.59," 8,915 "
+1,2020,MRY,Monterey Regional,Monterey,CA,377.38,448.36," 8,795 "
+1,2020,BRO,Brownsville South Padre Island International,Brownsville,TX,390.12,463.51," 8,462 "
+1,2020,AVP,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,PA,399.82,475.04," 8,273 "
+1,2020,CRW,West Virginia International Yeager,Charleston/Dunbar,WV,472.58,561.47," 8,136 "
+1,2020,BFL,Meadows Field,Bakersfield,CA,441.03,523.99," 8,075 "
+1,2020,FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC,413.26,491.00," 7,862 "
+1,2020,BMI,Central Il Regional Airport at Bloomington,Bloomington/Normal,IL,354.51,421.20," 7,800 "
+1,2020,ASE,Aspen Pitkin County Sardy Field,Aspen,CO,540.67,642.38," 7,688 "
+1,2020,GTF,Great Falls International,Great Falls,MT,397.07,471.76," 7,544 "
+1,2020,DRO,Durango La Plata County,Durango,CO,482.80,573.62," 7,222 "
+1,2020,MGM,Montgomery Regional,Montgomery,AL,503.81,598.58," 7,208 "
+1,2020,MTJ,Montrose Regional,Montrose/Delta,CO,428.31,508.88," 7,208 "
+1,2020,PSE,Mercedita,Ponce,PR,204.65,243.15," 6,993 "
+1,2020,STX,Henry E. Rohlsen,Christiansted,VI,454.63,540.15," 6,987 "
+1,2020,EVV,Evansville Regional,Evansville,IN,426.75,507.02," 6,873 "
+1,2020,RFD,Chicago/Rockford International,Rockford,IL,166.36,197.66," 6,849 "
+1,2020,MOT,Minot International,Minot,ND,402.16,477.81," 6,462 "
+1,2020,OAJ,Albert J Ellis,Jacksonville/Camp Lejeune,NC,372.81,442.94," 6,166 "
+1,2020,LRD,Laredo International,Laredo,TX,417.62,496.18," 5,949 "
+1,2020,ORH,Worcester Regional,Worcester,MA,319.98,380.18," 5,922 "
+1,2020,SCE,University Park,State College,PA,430.16,511.08," 5,669 "
+1,2020,DLH,Duluth International,Duluth,MN,420.41,499.49," 5,655 "
+1,2020,SGU,St George Regional,St. George,UT,389.65,462.95," 5,139 "
+1,2020,USA,Concord Padgett Regional,Concord,NC,117.75,139.90," 4,973 "
+1,2020,HDN,Yampa Valley,Hayden,CO,456.86,542.80," 4,971 "
+1,2020,ACK,Nantucket Memorial,Nantucket,MA,528.65,628.09," 4,837 "
+1,2020,LNK,Lincoln Airport,Lincoln,NE,459.78,546.27," 4,708 "
+1,2020,HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV,253.07,300.68," 4,681 "
+1,2020,ACV,California Redwood Coast Humboldt County,Arcata/Eureka,CA,467.39,555.31," 4,676 "
+1,2020,EGE,Eagle County Regional,Eagle,CO,560.43,665.85," 4,662 "
+1,2020,GRK,Robert Gray AAF,Killeen,TX,386.56,459.28," 4,625 "
+1,2020,SWF,New York Stewart International,Newburgh/Poughkeepsie,NY,285.91,339.69," 4,584 "
+1,2020,LAN,Capital Region International,Lansing,MI,406.19,482.59," 4,526 "
+1,2020,SAF,Santa Fe Municipal,Santa Fe,NM,405.33,481.58," 4,444 "
+1,2020,LBE,Arnold Palmer Regional,Latrobe,PA,121.50,144.35," 4,388 "
+1,2020,GFK,Grand Forks International,Grand Forks,ND,415.88,494.11," 4,343 "
+1,2020,ELM,Elmira/Corning Regional,Elmira/Corning,NY,349.38,415.10," 4,305 "
+1,2020,COU,Columbia Regional,Columbia,MO,421.58,500.88," 4,220 "
+1,2020,AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI,458.35,544.58," 4,213 "
+1,2020,KTN,Ketchikan International,Ketchikan,AK,477.37,567.17," 4,200 "
+1,2020,MLU,Monroe Regional,Monroe,LA,462.37,549.34," 4,112 "
+1,2020,MBS,MBS International,Saginaw/Bay City/Midland,MI,517.51,614.86," 3,982 "
+1,2020,PBG,Plattsburgh International,Plattsburgh,NY,224.68,266.95," 3,971 "
+1,2020,BET,Bethel Airport,Bethel,AK,367.21,436.28," 3,937 "
+1,2020,XWA,Williston Basin International,Williston,ND,605.65,719.58," 3,880 "
+1,2020,AEX,Alexandria International,Alexandria,LA,481.08,571.58," 3,871 "
+1,2020,RDD,Redding Regional,Redding,CA,493.01,585.75," 3,738 "
+1,2020,LCH,Lake Charles Regional,Lake Charles,LA,515.36,612.31," 3,649 "
+1,2020,HLN,Helena Regional,Helena,MT,484.57,575.72," 3,557 "
+1,2020,TOL,Eugene F Kranz Toledo Express,Toledo,OH,242.51,288.13," 3,506 "
+1,2020,SCK,Stockton Metro,Stockton,CA,141.33,167.91," 3,503 "
+1,2020,GUM,Guam International,Guam,TT,1201.57,1427.60," 3,494 "
+1,2020,CPR,Casper/Natrona County International,Casper,WY,530.03,629.73," 3,458 "
+1,2020,RST,Rochester International,Rochester,MN,396.49,471.07," 3,440 "
+1,2020,SUN,Friedman Memorial,Sun Valley/Hailey/Ketchum,ID,473.48,562.54," 3,439 "
+1,2020,ABI,Abilene Regional,Abilene,TX,541.33,643.16," 3,349 "
+1,2020,LYH,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA,451.86,536.86," 3,317 "
+1,2020,CWA,Central Wisconsin,Mosinee,WI,472.94,561.91," 3,275 "
+1,2020,PHF,Newport News/Williamsburg International,Newport News/Williamsburg,VA,455.48,541.16," 3,253 "
+1,2020,YUM,Yuma MCAS/Yuma International,Yuma,AZ,453.32,538.59," 3,086 "
+1,2020,MVY,Martha's Vineyard Airport,Martha's Vineyard,MA,496.62,590.04," 3,037 "
+1,2020,GRI,Central Nebraska Regional,Grand Island,NE,293.58,348.81," 2,985 "
+1,2020,SIT,Sitka Rocky Gutierrez,Sitka,AK,410.22,487.38," 2,857 "
+1,2020,IAG,Niagara Falls International,Niagara Falls,NY,169.90,201.87," 2,854 "
+1,2020,HHH,Hilton Head Airport,Hilton Head,SC,431.30,512.43," 2,848 "
+1,2020,CMI,University of Illinois/Willard,Champaign/Urbana,IL,532.04,632.13," 2,804 "
+1,2020,PSM,Portsmouth International at Pease,Portsmouth,NH,217.79,258.76," 2,709 "
+1,2020,ADQ,Kodiak Airport,Kodiak,AK,500.26,594.37," 2,555 "
+1,2020,SPI,Abraham Lincoln Capital,Springfield,IL,332.51,395.06," 2,515 "
+1,2020,FSM,Fort Smith Regional,Fort Smith,AR,514.46,611.24," 2,509 "
+1,2020,PUW,Pullman Moscow Regional,Pullman,WA,372.30,442.33," 2,505 "
+1,2020,ERI,Erie International/Tom Ridge Field,Erie,PA,378.83,450.09," 2,485 "
+1,2020,CLL,Easterwood Field,College Station/Bryan,TX,454.10,539.53," 2,450 "
+1,2020,TYR,Tyler Pounds Regional,Tyler,TX,502.12,596.57," 2,450 "
+1,2020,EWN,Coastal Carolina Regional,New Bern/Morehead/Beaufort,NC,409.82,486.91," 2,421 "
+1,2020,FLG,Flagstaff Pulliam,Flagstaff,AZ,378.70,449.94," 2,403 "
+1,2020,ITH,Ithaca Tompkins International,Ithaca/Cortland,NY,455.47,541.15," 2,325 "
+1,2020,SBY,Salisbury-Ocean City/Wicomico Regional,Salisbury,MD,469.52,557.84," 2,271 "
+1,2020,CSG,Columbus Airport,Columbus,GA,474.33,563.56," 2,222 "
+1,2020,ACT,Waco Regional,Waco,TX,589.76,700.70," 2,208 "
+1,2020,SJT,San Angelo Regional/Mathis Field,San Angelo,TX,534.17,634.66," 2,186 "
+1,2020,CKB,North Central West Virginia,Clarksburg/Fairmont,WV,253.94,301.71," 2,158 "
+1,2020,HGR,Hagerstown Regional-Richard A. Henson Field,Hagerstown,MD,143.10,170.02," 1,991 "
+1,2020,TXK,Texarkana Regional-Webb Field,Texarkana,AR,539.74,641.27," 1,987 "
+1,2020,ROW,Roswell Air Center,Roswell,NM,461.26,548.03," 1,972 "
+1,2020,LAW,Lawton-Fort Sill Regional,Lawton/Fort Sill,OK,467.28,555.18," 1,957 "
+1,2020,BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY,481.94,572.60," 1,919 "
+1,2020,VLD,Valdosta Regional,Valdosta,GA,592.22,703.62," 1,884 "
+1,2020,LSE,La Crosse Regional,La Crosse,WI,479.16,569.30," 1,856 "
+1,2020,OME,Nome Airport,Nome,AK,518.02,615.46," 1,724 "
+1,2020,BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,486.28,577.76," 1,609 "
+1,2020,MQT,Marquette Sawyer Regional,Marquette,MI,536.17,637.03," 1,606 "
+1,2020,MHK,Manhattan Regional,Manhattan/Ft. Riley,KS,524.35,622.99," 1,579 "
+1,2020,PPG,Pago Pago International,Pago Pago,TT,1093.51,1299.22," 1,545 "
+1,2020,GTR,Golden Triangle Regional,Columbus,MS,567.98,674.82," 1,529 "
+1,2020,SWO,Stillwater Regional,Stillwater,OK,442.36,525.57," 1,495 "
+1,2020,GGG,East Texas Regional,Longview,TX,537.72,638.88," 1,493 "
+1,2020,OTZ,Ralph Wien Memorial,Kotzebue,AK,459.07,545.43," 1,483 "
+1,2020,ABY,Southwest Georgia Regional,Albany,GA,510.17,606.14," 1,402 "
+1,2020,BRW,Wiley Post/Will Rogers Memorial,Barrow,AK,482.67,573.47," 1,352 "
+1,2020,PGV,Pitt Greenville,Greenville,NC,401.10,476.55," 1,298 "
+1,2020,LWS,Lewiston Nez Perce County,Lewiston,ID,588.27,698.93," 1,285 "
+1,2020,STC,St. Cloud Regional,St. Cloud,MN,246.32,292.66," 1,277 "
+1,2020,DHN,Dothan Regional,Dothan,AL,562.00,667.72," 1,261 "
+1,2020,COD,Yellowstone Regional,Cody,WY,510.66,606.72," 1,237 "
+1,2020,GUC,Gunnison-Crested Butte Regional,Gunnison,CO,483.94,574.98," 1,175 "
+1,2020,SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,433.59,515.16," 1,121 "
+1,2020,GCC,Northeast Wyoming Regional,Gillette,WY,547.23,650.17," 1,109 "
+1,2020,BJI,Bemidji Regional,Bemidji,MN,549.18,652.48," 1,105 "
+1,2020,SCC,Deadhorse Airport,Deadhorse,AK,419.82,498.79," 1,095 "
+1,2020,DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND,522.57,620.87," 1,090 "
+1,2020,ART,Watertown International,Watertown,NY,407.11,483.70," 1,079 "
+1,2020,GCK,Garden City Regional,Garden City,KS,444.23,527.80," 1,041 "
+1,2020,DLG,Dillingham Airport,Dillingham,AK,786.71,934.69," 1,031 "
+1,2020,SHR,Sheridan County,Sheridan,WY,560.34,665.75," 1,016 "
+1,2020,ABR,Aberdeen Regional,Aberdeen,SD,561.89,667.58, 991 
+1,2020,BQK,Brunswick Golden Isles,Brunswick,GA,522.76,621.10, 984 
+1,2020,FLO,Florence Regional,Florence,SC,444.14,527.68, 970 
+1,2020,CIU,Chippewa County International,Sault Ste. Marie,MI,539.72,641.25, 958 
+1,2020,HOB,Lea County Regional,Hobbs,NM,473.92,563.07, 933 
+1,2020,RHI,Rhinelander/Oneida County,Rhinelander,WI,551.80,655.60, 926 
+1,2020,PLN,Pellston Regional Airport of Emmet County,Pellston,MI,569.27,676.35, 907 
+1,2020,IMT,Ford,Iron Mountain/Kingsfd,MI,464.47,551.85, 883 
+1,2020,SPN,Francisco C. Ada Saipan International,Saipan,TT,383.13,455.20, 879 
+1,2020,HYA,Cape Cod Gateway,Hyannis,MA,405.78,482.11, 875 
+1,2020,EAT,Pangborn Memorial,Wenatchee,WA,377.02,447.94, 871 
+1,2020,ALW,Walla Walla Regional,Walla Walla,WA,344.80,409.66, 836 
+1,2020,EAU,Chippewa Valley Regional,Eau Claire,WI,471.79,560.54, 826 
+1,2020,TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID,609.94,724.68, 826 
+1,2020,PQI,Presque Isle International,Presque Isle/Houlton,ME,503.31,597.99, 823 
+1,2020,AKN,King Salmon Airport,King Salmon,AK,846.25,1005.44, 807 
+1,2020,YKM,Yakima Air Terminal/McAllister Field,Yakima,WA,412.67,490.30, 792 
+1,2020,SUX,Sioux Gateway Brig Gen Bud Day Field,Sioux City,IA,441.42,524.46, 757 
+1,2020,PSG,Petersburg James A Johnson,Petersburg,AK,405.03,481.22, 733 
+1,2020,DBQ,Dubuque Regional,Dubuque,IA,494.98,588.09, 718 
+1,2020,CMX,Houghton County Memorial,Hancock/Houghton,MI,513.22,609.76, 710 
+1,2020,RKS,Southwest Wyoming Regional,Rock Springs,WY,516.46,613.62, 682 
+1,2020,PIH,Pocatello Regional,Pocatello,ID,586.91,697.31, 675 
+1,2020,LAR,Laramie Regional,Laramie,WY,499.60,593.59, 664 
+1,2020,BRD,Brainerd Lakes Regional,Brainerd,MN,598.43,711.01, 657 
+1,2020,RIW,Central Wyoming Regional,Riverton/Lander,WY,517.96,615.39, 651 
+1,2020,BTM,Bert Mooney,Butte,MT,549.95,653.40, 637 
+1,2020,ESC,Delta County,Escanaba,MI,446.65,530.67, 633 
+1,2020,SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA,112.89,134.12, 608 
+1,2020,HIB,Range Regional,Hibbing,MN,533.82,634.24, 586 
+1,2020,EAR,Kearney Regional,Kearney,NE,473.93,563.09, 576 
+1,2020,LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,471.60,560.31, 563 
+1,2020,CDV,Merle K Mudhole Smith,Cordova,AK,379.23,450.57, 562 
+1,2020,ALO,Waterloo Regional,Waterloo,IA,520.38,618.27, 555 
+1,2020,VEL,Vernal Regional,Vernal,UT,499.03,592.91, 545 
+1,2020,EKO,Elko Regional,Elko,NV,610.07,724.84, 527 
+1,2020,MEI,Key Field,Meridian,MS,436.71,518.86, 522 
+1,2020,OTH,Southwest Oregon Regional,North Bend/Coos Bay,OR,418.09,496.74, 514 
+1,2020,JST,John Murtha Johnstown-Cambria County,Johnstown,PA,539.57,641.07, 496 
+1,2020,PIR,Pierre Regional,Pierre,SD,484.55,575.70, 484 
+1,2020,CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,373.97,444.32, 482 
+1,2020,WRG,Wrangell Airport,Wrangell,AK,342.02,406.35, 478 
+1,2020,CDC,Cedar City Regional,Cedar City,UT,409.20,486.18, 471 
+1,2020,VCT,Victoria Regional,Victoria,TX,334.94,397.95, 441 
+1,2020,CNY,Canyonlands Regional,Moab,UT,411.31,488.69, 440 
+1,2020,OWB,Owensboro Daviess County Regional,Owensboro,KY,126.01,149.72, 440 
+1,2020,PRC,Prescott Regional Ernest A Love Field,Prescott,AZ,490.25,582.47, 434 
+1,2020,INL,Falls International Einarson Field,International Falls,MN,481.87,572.51, 407 
+1,2020,BFF,Western Neb. Regional/William B. Heilig Field,Scottsbluff,NE,493.05,585.79, 402 
+1,2020,SLN,Salina Regional,Salina,KS,443.22,526.59, 388 
+1,2020,DEC,Decatur Airport,Decatur,IL,364.49,433.05, 377 
+1,2020,ATY,Watertown Regional,Watertown,SD,420.26,499.31, 367 
+1,2020,APN,Alpena County Regional,Alpena,MI,469.97,558.38, 333 
+1,2020,JLN,Joplin Regional,Joplin,MO,428.09,508.62, 332 
+1,2020,PAH,Barkley Regional,Paducah,KY,565.75,672.18, 323 
+1,2020,DRT,Del Rio International,Del Rio,TX,414.01,491.89, 320 
+1,2020,BFM,Mobile International,Mobile,AL,131.77,156.56, 310 
+1,2020,ALS,San Luis Valley Regional/Bergman Field,Alamosa,CO,478.28,568.25, 290 
+1,2020,PIB,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,MS,387.19,460.02, 284 
+1,2020,JMS,Jamestown Regional,Jamestown,ND,529.64,629.27, 279 
+1,2020,LBL,Liberal Mid-America Regional,Liberal,KS,436.77,518.94, 273 
+1,2020,SHD,Shenandoah Valley Regional,Staunton,VA,474.26,563.47, 265 
+1,2020,YAK,Yakutat Airport,Yakutat,AK,437.13,519.36, 260 
+1,2020,CVN,Clovis Regional,Clovis,NM,346.89,412.14, 250 
+1,2020,HYS,Hays Regional,Hays,KS,508.10,603.68, 231 
+1,2020,DVL,Devils Lake Regional,Devils Lake,ND,467.48,555.41, 219 
+1,2020,BKW,Raleigh County Memorial,Beckley,WV,590.33,701.38, 215 
+1,2020,DDC,Dodge City Regional,Dodge City,KS,504.80,599.76, 213 
+1,2020,OGS,Ogdensburg International,Ogdensburg,NY,260.49,309.49, 198 
+1,2020,MWA,Veterans Airport of Southern Illinois,Marion/Herrin,IL,427.33,507.71, 180 
+1,2020,DUT,Unalaska Airport,Unalaska,AK,1074.33,1276.43, 171 
+1,2020,LWB,Greenbrier Valley,Lewisburg,WV,479.82,570.08, 169 
+1,2020,IPL,Imperial County,El Centro,CA,345.50,410.49, 169 
+1,2020,PUB,Pueblo Memorial,Pueblo,CO,439.03,521.61, 168 
+1,2020,LEB,Lebanon Municipal,Lebanon-Hanover,NH,360.56,428.38, 166 
+1,2020,MKG,Muskegon County,Muskegon,MI,419.56,498.49, 151 
+1,2020,CGI,Cape Girardeau Regional,Cape Girardeau,MO,518.69,616.26, 147 
+1,2020,TBN,Waynesville-St. Robert Regional Forney Field,Fort Leonard Wood,MO,388.93,462.09, 147 
+1,2020,AUG,Augusta State,Augusta/Waterville,ME,427.43,507.83, 129 
+1,2020,TEX,Telluride Regional,Telluride,CO,684.77,813.59, 129 
+1,2020,BHB,Hancock County-Bar Harbor,Bar Harbor,ME,551.83,655.64, 117 
+1,2020,PKB,Mid-Ohio Valley Regional,Parkersburg,WV,450.00,534.65, 116 
+1,2020,CEZ,Cortez Municipal,Cortez,CO,407.87,484.59, 112 
+1,2020,ENA,Kenai Municipal,Kenai,AK,594.54,706.38, 110 
+1,2020,DUJ,DuBois Regional,DuBois,PA,487.00,578.61, 103 
+1,2020,UIN,Quincy Regional-Baldwin Field,Quincy,IL,380.00,451.48, 101 
+1,2020,RKD,Knox County Regional,Rockland,ME,417.27,495.77, 96 
+1,2020,TUP,Tupelo Regional,Tupelo,MS,429.00,509.70, 96 
+1,2020,RUT,Rutland - Southern Vermont Regional,Rutland,VT,393.89,467.98, 94 
+1,2020,PVC,Provincetown Municipal,Provincetown,MA,396.77,471.41, 90 
+1,2020,MGW,Morgantown Municipal Walter L Bill Hart Field,Morgantown,WV,373.31,443.53, 88 
+1,2020,PGA,Page Municipal,Page,AZ,626.40,744.23, 87 
+1,2020,LNS,Lancaster Airport,Lancaster,PA,257.00,305.34, 84 
+1,2020,AIA,Alliance Municipal,Alliance,NE,451.00,535.84, 71 
+1,2020,SDY,Sidney Richland Regional,Sidney,MT,512.50,608.91, 71 
+1,2020,HOM,Homer Airport,Homer,AK,593.77,705.47, 69 
+1,2020,GLH,Greenville Mid Delta,Greenville,MS,278.67,331.09, 68 
+1,2020,TVF,Thief River Falls Regional,Thief River Falls,MN,336.33,399.60, 66 
+1,2020,MSL,Northwest Alabama Regional,Muscle Shoals,AL,635.00,754.45, 66 
+1,2020,AOO,Altoona-Blair County,Altoona,PA,301.75,358.51, 65 
+1,2020,IRK,Kirksville Regional,Kirksville,MO,485.43,576.74, 56 
+1,2020,BFD,Bradford Regional,Bradford,PA,479.33,569.50, 55 
+1,2020,ADK,Adak,Adak Island,AK,1168.26,1388.03, 50 
+1,2020,SLK,Adirondack Regional,Saranac Lake/Lake Placid,NY,402.92,478.72, 50 
+1,2020,MCK,McCook Ben Nelson Regional,McCook,NE,410.75,488.02, 48 
+1,2020,CDR,Chadron Municipal,Chadron,NE,305.12,362.51, 46 
+1,2020,VQS,Antonio Rivera Rodriguez,Vieques,PR,677.18,804.56, 45 
+1,2020,MSS,Massena International-Richards Field,Massena,NY,274.67,326.33, 42 
+1,2020,MAZ,Eugenio Maria de Hostos,Mayaguez,PR,471.67,560.39, 37 
+1,2020,SOW,Show Low Regional,Show Low,AZ,480.25,570.59, 35 
+1,2020,CNM,Cavern City Air Terminal,Carlsbad,NM,432.20,513.50, 33 
+1,2020,HRO,Boone County,Harrison,AR,288.33,342.57, 33 
+1,2020,ELD,South Arkansas Regional at Goodwin Field,El Dorado,AR,440.25,523.07, 29 
+1,2020,HOT,Memorial Field,Hot Springs,AR,392.00,465.74, 26 
+1,2020,VDZ,Valdez Pioneer Field,Valdez,AK,666.38,791.74, 25 
+1,2020,MKK,Molokai,Hoolehua,HI,245.88,292.13, 23 
+1,2020,GDV,Dawson Community,Glendive,MT,474.50,563.76, 18 
+1,2020,OLF,L. M. Clayton,Wolf Point,MT,893.00,1060.98, 16 
+1,2020,PDT,Eastern Oregon Regional at Pendleton,Pendleton,OR,415.08,493.16, 13 
+1,2020,CPX,Benjamin Rivera Noriega,Culebra,PR,359.93,427.64, 11 
+1,2020,CDB,Cold Bay Airport,Cold Bay,AK,1012.43,1202.88, 10 
+1,2020,GGW,Wokal Field Glasgow Valley County,Glasgow,MT,332.00,394.45, 9 
+1,2020,MCN,Middle Georgia Regional,Macon,GA,426.00,506.14, 6 
+1,2020,JHM,Kapalua Airport,Kapalua,HI,285.98,339.78, 4 
+1,2020,SDP,Sand Point,Sandpoint,AK,729.00,866.13, 3 
+1,2020,LNY,Lanai Airport,Lanai,HI,235.07,279.29, 2 
+1,2020,CEC,Jack McNamara Field,Crescent City,CA,369.00,438.41, 1 
+1,2020,OOK,Toksook Bay,Toksook,AK,561.00,666.53, -   
+1,2020,OGD,Ogden-Hinckley,Ogden,UT,103.72,123.23, -   
+1,2020,MKT,Mankato Regional,Mankato,MN,254.76,302.69, -   
+1,2020,IPT,Williamsport Regional,Williamsport,PA,375.83,446.53, -   
+1,2020,MCE,Merced Yosemite Regional,Merced,CA,453.80,539.16, -   
+1,2020,MMH,Mammoth Lakes Airport,Mammoth Lakes,CA,288.63,342.92, -   
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
