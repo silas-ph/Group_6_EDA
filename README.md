@@ -2,7 +2,7 @@
 Group 6 Flight Data EDA project
 AI Boot Camp Project 
 ## The Turbulent Journey: How COVID-19 Reshaped the U.S. Domestic Airline Industry
-> Team Members
+> Team Members:
 > Jed Murphy, 
 > Silas Philips, 
 > Christoph Guenther, 
