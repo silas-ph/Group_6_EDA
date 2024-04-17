@@ -79,8 +79,8 @@ Offers multiple data sets.
 
 	* Storage issue with GitHub
 	  	- GitHub has a 1G storage limitation.  The amount of data we were working with was
-                  beyond that.  So we believed that the data was corrupted, leading us to spend 
-		  hours finding a solution
+    		  beyond that.  So we believed that the data was corrupted, leading us to spend 
+	          hours finding a solution
 	* Size of dataframes for a personal machine
 	* Datasets specifics are not available
 	  	- Airfare information is only available by quarter
@@ -88,9 +88,9 @@ Offers multiple data sets.
           	- To get additional information, it would cost more 
 
 ### Future Considerations
-How were these industry adjustments reflected in customer satisfaction
-Determine if areas with lighter COVID restrictions recover faster than the areas with heavier restrictions
-How this data would reflect internationally
+* How were these industry adjustments reflected in customer satisfaction
+* Determine if areas with lighter COVID restrictions recover faster than the areas with heavier restrictions
+* How this data would reflect internationally
 
 
 
