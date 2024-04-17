@@ -15,7 +15,7 @@ Purpose:
 
 
 ### Background
-	The COVID-19 pandemic has caused an unprecedented crisis in the U.S. domestic airline industry. Our analysis of flight data from January 2018 to September 2023 reveals the impact	of the virus on air travel. As the virus spread globally in early 2020, travel restrictions and fear of infection led to a drastic decline in the number of flights and passengers. The data showcases that the enplaned passengers and flights reached record lows during the peak of the pandemic. We will also demonstrate the impact of canceled flights and the relationship between average delay and enplaned passengers. Additionally, we will provide insights into how passenger traffic has been like post-pandemic.
+	The COVID-19 pandemic has caused an unprecedented crisis in the U.S. domestic airline industry. Our analysis of flight data from January 2018 to September 2023 reveals the impact of the virus on air travel. As the virus spread globally in early 2020, travel restrictions and fear of infection led to a drastic decline in the number of flights and passengers. The data showcases that the enplaned passengers and flights reached record lows during the peak of the pandemic. We will also demonstrate the impact of canceled flights and the relationship between average delay and enplaned passengers. Additionally, we will provide insights into how passenger traffic has been like post-pandemic.
 
 ### Goal
 The goal is to determine how Covid 19 impacted the domestic airline market.
@@ -33,7 +33,7 @@ Is there a correlation between Covid19 and the number of flights?
 
 ### Overview of data collection
 Data Sources: 
-### $${\color{navy}Bureau of Transportation Statistics (BTS}:$$
+### $${\color{navy}Bureau of Transportation Statistics (BTS):$$
 	Provides extensive data on US flights, including on-time
 	performance, delays, cancellations, and more.
 
@@ -47,7 +47,7 @@ Data Sources:
 	historical flight information, including tracking, status, routes,
 	and airline details.
 
-### $${\color{navy}FAA}$$: 
+### $${\color{navy}FAA:}$$
 	Offers a comprehensive dataset of airline routes, airports, and
 	schedules freely available for download, useful for researchers
 	and developers.
