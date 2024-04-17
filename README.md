@@ -78,12 +78,12 @@ Offers multiple data sets.
 ### Problem Encountered
 
 	* Storage issue with GitHub
-	  	* GitHub has a 1G storage limitation.  The amount of data we were working with was beyond that.  So we believed that the data was corrupted, leading us to spend hours finding a solution
+	  	- GitHub has a 1G storage limitation.  The amount of data we were working with was beyond that.  So we believed that the data was corrupted, 		  leading us to spend hours finding a solution
 	* Size of dataframes for a personal machine
 	* Datasets specifics are not available
-	  	* Airfare information is only available by quarter
-          	* All additional information is available by month
-          	* To get additional information, it would cost more 
+	  	- Airfare information is only available by quarter
+          	- All additional information is available by month
+          	- To get additional information, it would cost more 
 
 ### Future Considerations
 How were these industry adjustments reflected in customer satisfaction
