@@ -1,7 +1,8 @@
 # Group_6_EDA
 Group 6 Flight Data EDA project
 AI Boot Camp Project 
-## The Turbulent Journey: How COVID-19 Reshaped the U.S. Domestic Airline Industry
+## The Turbulent Journey: 
+## How COVID-19 Reshaped the U.S. Domestic Airline Industry
 
 Team Members:
 Jed Murphy
