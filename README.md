@@ -34,7 +34,7 @@ Is there a correlation between Covid19 and the number of flights?
 ### Overview of data collection
 Data Sources: 
 ### $${\color{navy}Bureau of Transportation Statistics (BTS):}$$
-	Provides extensive data on US flights, including on-time performance, delays, cancellations, and more.
+Provides extensive data on US flights, including on-time performance, delays, cancellations, and more.
 
 ### $${\color{navy}Aviation Edge:}$$ 
 Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data.
@@ -50,14 +50,14 @@ Offers multiple data sets.
 
 ### Cleanup and exploration approach 
 
-- Clean up missing values, outliers, and duplicate data.
-- Normalize or scale numerical features for diagrams.
-- Calculate summary statistics for numerical features.
-- Explore the distribution of numerical features using histograms, box plots, or violin plots.
-- Examine the frequency distribution of categorical features using bar plots or count plots.
-- Correlate analysis to detect patterns within time series data.
-- Create geographical visualizations using maps to analyze spatial data.
-- Use advanced plotting libraries like Plotly or Seaborn for more customized visualizations.
+	- Clean up missing values, outliers, and duplicate data.
+	- Normalize or scale numerical features for diagrams.
+	- Calculate summary statistics for numerical features.
+	- Explore the distribution of numerical features using histograms, box plots, or violin plots.
+	- Examine the frequency distribution of categorical features using bar plots or count plots.
+	- Correlate analysis to detect patterns within time series data.
+	- Create geographical visualizations using maps to analyze spatial data.
+	- Use advanced plotting libraries like Plotly or Seaborn for more customized visualizations.
 
 ### Result/Conclusion 1
 
