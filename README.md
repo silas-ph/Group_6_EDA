@@ -33,26 +33,26 @@ Is there a correlation between Covid19 and the number of flights?
 
 ### Overview of data collection
 Data Sources: 
-Bureau of Transportation Statistics (BTS):
+### $${\color{navy}Bureau of Transportation Statistics (BTS}:$$
 	Provides extensive data on US flights, including on-time
 	performance, delays, cancellations, and more.
 
-Aviation Edge: 
+### $${\color{navy}Aviation Edge:}$$ 
 	Offers a suite of APIs providing access to various aviation-related
 	data, including flight schedules, tracking, airport, and aircraft
 	data.
 
-Aviationstack: 
+### $${\color{navy}Aviationstack:}$$
 	Provides a powerful flight data API offering real-time and
 	historical flight information, including tracking, status, routes,
 	and airline details.
 
-FAA: 
+### $${\color{navy}FAA}$$: 
 	Offers a comprehensive dataset of airline routes, airports, and
 	schedules freely available for download, useful for researchers
 	and developers.
 
-Transportation.gov: 
+### $${\color{navy}Transportation.gov:}$$ 
 	Offers multiple data sets.
 
 ### Cleanup and exploration approach 
