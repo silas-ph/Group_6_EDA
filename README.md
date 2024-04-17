@@ -1,4 +1,4 @@
-![image](https://github.com/silas-ph/Group_6_EDA/assets/157266652/dc0a2cd8-34c9-4300-8d28-5e27c8a7ebd5)![image](https://github.com/silas-ph/Group_6_EDA/assets/157266652/8880520c-9431-4d70-b765-43b14d8e3c72)# Group_6_EDA
+# Group_6_EDA
 Group 6 Flight Data EDA project
 AI Boot Camp Project 
 ## The Turbulent Journey: How COVID-19 Reshaped the U.S. Domestic Airline Industry
