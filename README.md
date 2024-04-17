@@ -33,7 +33,7 @@ Is there a correlation between Covid19 and the number of flights?
 
 ### Overview of data collection
 Data Sources: 
-### $${\color{navy}Bureau of Transportation Statistics (BTS):$$
+### $${\color{navy}Bureau of Transportation Statistics (BTS):}$$
 	Provides extensive data on US flights, including on-time
 	performance, delays, cancellations, and more.
 
