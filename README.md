@@ -34,36 +34,32 @@ Is there a correlation between Covid19 and the number of flights?
 ### Overview of data collection
 Data Sources: 
 ### $${\color{navy}Bureau of Transportation Statistics (BTS):}$$
-	Provides extensive data on US flights, including on-time
-	performance, delays, cancellations, and more.
+	Provides extensive data on US flights, including on-time performance, delays, cancellations, and more.
 
 ### $${\color{navy}Aviation Edge:}$$ 
-	Offers a suite of APIs providing access to various aviation-related
-	data, including flight schedules, tracking, airport, and aircraft
+	Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft
 	data.
 
 ### $${\color{navy}Aviationstack:}$$
-	Provides a powerful flight data API offering real-time and
-	historical flight information, including tracking, status, routes,
+	Provides a powerful flight data API offering real-time and historical flight information, including tracking, status, routes,
 	and airline details.
 
 ### $${\color{navy}FAA:}$$
-	Offers a comprehensive dataset of airline routes, airports, and
-	schedules freely available for download, useful for researchers
+	Offers a comprehensive dataset of airline routes, airports, and schedules freely available for download, useful for researchers
 	and developers.
 
 ### $${\color{navy}Transportation.gov:}$$ 
 	Offers multiple data sets.
 
 ### Cleanup and exploration approach 
-Clean up missing values, outliers, and duplicate data.
-Normalize or scale numerical features for diagrams.
-Calculate summary statistics for numerical features.
-Explore the distribution of numerical features using histograms, box plots, or violin plots.
-Examine the frequency distribution of categorical features using bar plots or count plots.
-Correlate analysis to detect patterns within time series data.
-Create geographical visualizations using maps to analyze spatial data.
-Use advanced plotting libraries like Plotly or Seaborn for more customized visualizations.
+- Clean up missing values, outliers, and duplicate data.
+- Normalize or scale numerical features for diagrams.
+- Calculate summary statistics for numerical features.
+- Explore the distribution of numerical features using histograms, box plots, or violin plots.
+- Examine the frequency distribution of categorical features using bar plots or count plots.
+- Correlate analysis to detect patterns within time series data.
+- Create geographical visualizations using maps to analyze spatial data.
+- Use advanced plotting libraries like Plotly or Seaborn for more customized visualizations.
 
 ### Result/Conclusion 1
 
@@ -82,13 +78,13 @@ Use advanced plotting libraries like Plotly or Seaborn for more customized visua
 
 
 ### Problem Encountered
-Storage issue with GitHub 
-	        GitHub has 1G storage limitation.  The amount of data we were working with was beyond that.  So we believed that the data was corrupted, leading us            to spend hours finding a solution 
-Size of dataframes for a personal machine
-Datasets specifics are not available
-	        Airfare information is only available by quarter
-          All additional information is available by month
-          To get additional information, it would cost more 
+* Storage issue with GitHub 
+	  - GitHub has a 1G storage limitation.  The amount of data we were working with was beyond that.  So we believed that the data was corrupted, leading 	    us to spend hours finding a solution 
+* Size of dataframes for a personal machine
+* Datasets specifics are not available
+	  - Airfare information is only available by quarter
+          - All additional information is available by month
+          - To get additional information, it would cost more 
 
 ### Future Considerations
 How were these industry adjustments reflected in customer satisfaction
