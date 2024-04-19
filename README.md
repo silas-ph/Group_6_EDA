@@ -37,7 +37,7 @@ Data Sources:
 Provides extensive data on US flights, including on-time performance, delays, cancellations, and more.   [BTS](https://www.bts.gov/topics/airlines-airports-and-aviation)
 
 ### $${\color{navy}Aviation Edge:}$$ 
-Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data.
+Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data. [AviationEdge](https://aviation-edge.com/)
 
 ### $${\color{navy}Aviationstack:}$$
 Provides a powerful flight data API offering real-time and historical flight information, including tracking, status, routes, and airline details.
