@@ -71,6 +71,7 @@ Offers multiple data sets.
 ### Summary
 
 
+![WEF Impact](./WEF_Impact.png)
 
 
 
