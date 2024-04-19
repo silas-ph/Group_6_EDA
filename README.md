@@ -46,7 +46,7 @@ Provides a powerful flight data API offering real-time and historical flight inf
 Offers a comprehensive dataset of airline routes, airports, and schedules freely available for download, useful for researchers and developers. [FAA](https://www.faa.gov/)
 
 ### $${\color{navy}Transportation.gov:}$$ 
-Offers multiple data sets.
+Offers multiple data sets.  [Transportation[(https://www.transportation.gov/)
 
 ### Cleanup and exploration approach 
 
@@ -61,22 +61,14 @@ Offers multiple data sets.
 
 ### Result/Conclusion 
 
-
-
-
-
-
-
-
-### Summary
-
-
 ![Passenger Number by Year](./Passenger_Number.png)
 
 ![Passenger Number by Year over Year](./year_over_year.png)
 
 ![Cancellation Per Year](./cancellation.png)
 ![Average Passengers per Flight Across Sates and Time](./per_flight.png)
+
+### Summary
 
 ### Problem Encountered
 
