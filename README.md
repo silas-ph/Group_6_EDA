@@ -71,7 +71,7 @@ Offers multiple data sets.
 ### Summary
 
 
-![WEF Impact](./WEF_Impact.png)
+![Passenger Number by Year](./Passenger_Number.png)
 
 
 
