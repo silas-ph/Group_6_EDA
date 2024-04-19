@@ -1,7 +1,7 @@
 # Group_6_EDA
 Group 6 Flight Data EDA project
 AI Boot Camp Project 
-## The Turbulent Journey: How COVID-19 Reshaped the U.S. Domestic Airline Industry
+## The Turbulent Journey: Possible Effects of the COVID-19 Pandemic on U.S. Domestic Air Travel
 > Team Members:
 > Jed Murphy, 
 > Silas Philips, 
@@ -11,25 +11,29 @@ AI Boot Camp Project
   
 ### Project Overview
 Purpose:
-The U.S. domestic airline industry experienced an unprecedented crisis due to the COVID-19 pandemic. Our analysis of flight data from January 2018 to September 2023 reveals the profound impact of the pandemic on air travel.
-
+Using United States Department of Transporation commercial air travel data, we compare U.S. air passenger traffic patterns before, during, and after the Covid-19 pandemic. The purpose is to obtain a more detailed and quantitative understanding of how air travel patterns look different during the pandemic from before and after. We also hint at how air traffic patterns might still be different post-Covid-19 as compared to pre-Covid-19.
 
 ### Background
-The COVID-19 pandemic has caused an unprecedented crisis in the U.S. domestic airline industry. Our analysis of flight data from January 2018 to September 2023 reveals the impact of the virus on air travel. As the virus spread globally in early 2020, travel restrictions and fear of infection led to a drastic decline in the number of flights and passengers. The data showcases that the enplaned passengers and flights reached record lows during the peak of the pandemic. We will also demonstrate the impact of canceled flights and the relationship between average delay and enplaned passengers. Additionally, we will provide insights into how passenger traffic has been like post-pandemic.
+As the Covid-19 virus spread globally in early 2020, the routines of daily life changed drastically for many people around the world. As the U.S. went into lockdown to slow the spread of the virus, travel, business as well as leisure travel, changed drastically. It is well known that the U.S. domestic airline industry, among many others, experienced an unprecedented crisis during that time.
+
 
 ### Goal
-The goal is to determine how Covid 19 impacted the domestic airline market.
+Our goal is to illustrate and quantify some of the changes in commercial U.S. air passenger traffic before, during, and after the Covid-19 pandemic.
 
 ### Questions to be addressed
-How did Covid 19 impact 10 largest US airports in terms of passenger volume?
-How long did it take for passenger volume to normalize after Covid 19 at the 10 largest US
-airports?
-Did average airfare change at the 10 largest US airports during Covid?
-If it changed, when did it change as compared to when passenger volume changed?
-If it changed when did average airfare normalize?
-Is there a correlation between Covid19 and customer satisfaction?
-Covid19 is defined by the drop off in passenger volume.
-Is there a correlation between Covid19 and the number of flights?
+ * How did domestic U.S. air passenger traffic change during Covid-19?  
+   To answer this question we analyze the following metrics:
+   * Air passenger volume,
+   * Number of flights,
+   * Passengers per flight,
+   * Number of canceled flights,
+   * Flight cancellation percentage,
+   * Average air fare.
+ * How long did it take for passenger volume to normalize to pre-pandemic levels after Covid-19?
+ * How did the average airfare change during Covid-19?
+   * If it changed, when did it change as compared to when passenger volume changed?
+   * If it changed when did it normalize as compared to when passenger volume normalized?
+ * Can we discern any changes between air passenger traffic before and after Covid-19?
 
 ### Overview of data collection
 Data Sources: 
@@ -69,7 +73,7 @@ Offers multiple data sets.
 
 
 ### Summary
-
+Our data analysis shows that airline passengers and flights reached record lows at the beginning of the pandemic and that it took between a year and a quarter to a year and a half from that low for passenger and flight numbers to reach pre-pandemic levels. We will also analyze changes in the number of canceled flights and the relationship between average delay and the number of passengers. Finally, we will provide insights into how air passenger traffic patterns might have changed post-pandemic.
 
 
 
