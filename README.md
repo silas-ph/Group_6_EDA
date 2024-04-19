@@ -76,6 +76,8 @@ Offers multiple data sets.
 ![Passenger Number by Year over Year](./year_over_year.png)
 
 ![Cancellation Per Year](./cancellation.png)
+![Average Passengers per Flight Across Sates and Time](./per_flight.png)
+
 ### Problem Encountered
 
 	* Storage issue with GitHub
