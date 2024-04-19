@@ -40,7 +40,7 @@ Provides extensive data on US flights, including on-time performance, delays, ca
 Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data. [AviationEdge](https://aviation-edge.com/)
 
 ### $${\color{navy}Aviationstack:}$$
-Provides a powerful flight data API offering real-time and historical flight information, including tracking, status, routes, and airline details.
+Provides a powerful flight data API offering real-time and historical flight information, including tracking, status, routes, and airline details. [Aviationstack](https://aviationstack.com/)
 
 ### $${\color{navy}FAA:}$$
 Offers a comprehensive dataset of airline routes, airports, and schedules freely available for download, useful for researchers and developers.
