@@ -77,6 +77,9 @@ Offers multiple data sets.  [Transportation](https://www.transportation.gov/)
 Our data analysis shows that airline passengers and flights reached record lows at the beginning of the pandemic and that it took between a year and a quarter to a year and a half from that low for passenger and flight numbers to reach pre-pandemic levels. We will also analyze changes in the number of canceled flights and the relationship between average delay and the number of passengers. Finally, we will provide insights into how air passenger traffic patterns might have changed post-pandemic.
 =======
 
+<<<<<<< HEAD
+>>>>>>> 7728ad3835aac063ac98cc8de489641e453b3caa
+=======
 >>>>>>> 7728ad3835aac063ac98cc8de489641e453b3caa
 
 ### Problem Encountered
