@@ -37,20 +37,20 @@ Our goal is to illustrate and quantify some of the changes in commercial U.S. ai
 
 ### Overview of data collection
 Data Sources: 
-### $${\color{navy}Bureau of Transportation Statistics (BTS):}$$
-Provides extensive data on US flights, including on-time performance, delays, cancellations, and more.
+### $${\color{orange}Bureau of Transportation Statistics (BTS):}$$
+Provides extensive data on US flights, including on-time performance, delays, cancellations, and more.   [BTS](https://www.bts.gov/topics/airlines-airports-and-aviation)
 
-### $${\color{navy}Aviation Edge:}$$ 
-Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data.
+### $${\color{orange}Aviation Edge:}$$ 
+Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data. [AviationEdge](https://aviation-edge.com/)
 
-### $${\color{navy}Aviationstack:}$$
-Provides a powerful flight data API offering real-time and historical flight information, including tracking, status, routes, and airline details.
+### $${\color{orange}Aviationstack:}$$
+Provides a powerful flight data API offering real-time and historical flight information, including tracking, status, routes, and airline details. [Aviationstack](https://aviationstack.com/)
 
-### $${\color{navy}FAA:}$$
-Offers a comprehensive dataset of airline routes, airports, and schedules freely available for download, useful for researchers and developers.
+### $${\color{orange}FAA:}$$
+Offers a comprehensive dataset of airline routes, airports, and schedules freely available for download, useful for researchers and developers. [FAA](https://www.faa.gov/)
 
-### $${\color{navy}Transportation.gov:}$$ 
-Offers multiple data sets.
+### $${\color{orange}Transportation.gov:}$$ 
+Offers multiple data sets.  [Transportation](https://www.transportation.gov/)
 
 ### Cleanup and exploration approach 
 
@@ -63,21 +63,17 @@ Offers multiple data sets.
 	- Create geographical visualizations using maps to analyze spatial data.
 	- Use advanced plotting libraries like Plotly or Seaborn for more customized visualizations.
 
-### Result/Conclusion 1
+### Result/Conclusion 
 
+![Passenger Number by Year](./Passenger_Number.png)
 
+![Passenger Number by Year over Year](./year_over_year.png)
 
-
-
-
-
+![Cancellation Per Year](./cancellation.png)
+![Average Passengers per Flight Across Sates and Time](./per_flight.png)
 
 ### Summary
 Our data analysis shows that airline passengers and flights reached record lows at the beginning of the pandemic and that it took between a year and a quarter to a year and a half from that low for passenger and flight numbers to reach pre-pandemic levels. We will also analyze changes in the number of canceled flights and the relationship between average delay and the number of passengers. Finally, we will provide insights into how air passenger traffic patterns might have changed post-pandemic.
-
-
-
-
 
 ### Problem Encountered
 
