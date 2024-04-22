@@ -38,7 +38,7 @@ Our goal is to illustrate and quantify some of the changes in commercial U.S. ai
 ### Overview of data collection
 Data Sources: 
 ### $${\color{orange}Bureau of Transportation Statistics (BTS):}$$
-Provides extensive data on US flights, including on-time performance, delays, cancellations, and more.   [BTS](https://www.bts.gov/topics/airlines-airports-and-aviation)
+Flight data is retrieved from the On_Time_Marketing_Carrier_On_Time_Performance_(Beginning_January_2018)_*.csv files in the Resources/ folder. There is a file for each month between January 2018 and December 2023. Each file contains a list of all US domestic commercial flights in that month. We will use these files to retrieve the number of flights, the flight delays and the cancelled flights. [BTS](https://www.bts.gov/topics/airlines-airports-and-aviation)
 
 ### $${\color{orange}Aviation Edge:}$$ 
 Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data. [AviationEdge](https://aviation-edge.com/)
