@@ -1,133 +1,48 @@
-# Group_6_EDA
-Group 6 Flight Data EDA project
-AI Boot Camp Project 
-## The Turbulent Journey: Possible Effects of the COVID-19 Pandemic on U.S. Domestic Air Travel
+# Project 1 Group 6 Exploratory Data Analysis (EDA)
+## Changes in Air Traffic Patterns During Covid-19 and After
 > Team Members:
+> Ava Lee,
 > Jed Murphy, 
 > Silas Philips, 
-> Christoph Guenther, 
-> Ava Lee
-
+> Christoph Guenther
   
 ### Project Overview
-Purpose:
-Using United States Department of Transporation commercial air travel data, we compare U.S. air passenger traffic patterns before, during, and after the Covid-19 pandemic. The purpose is to obtain a more detailed and quantitative understanding of how air travel patterns look different during the pandemic from before and after. We also hint at how air traffic patterns might still be different post-Covid-19 as compared to pre-Covid-19.
+As the Covid-19 virus spread globally in early 2020, the routines of daily life changed drastically for many people around the world. As the U.S. went into lockdown to slow the spread of the virus, travel, business as well as leisure, changed drastically. It is well known that the U.S. domestic airline industry, among many others, experienced an unprecedented crisis during that time[^1].
 
-### Background
-As the Covid-19 virus spread globally in early 2020, the routines of daily life changed drastically for many people around the world. As the U.S. went into lockdown to slow the spread of the virus, travel, business as well as leisure travel, changed drastically. It is well known that the U.S. domestic airline industry, among many others, experienced an unprecedented crisis during that time.
+Using United States Department of Transportation commercial air travel data, we compare U.S. air passenger traffic patterns before, during, and after the Covid-19 pandemic. The purpose is to obtain a more detailed and quantitative understanding of how air travel patterns look different during the pandemic from before and after. We also aim to understand how air traffic patterns might still be different after Covid-19 as compared to before Covid-19.
 
+### Summary of Findings and Conclusions
+Our analysis shows that air traffic patterns changed significantly during Covid-19. At its lowest points passenger volume was down by 95.5% as compared to its average before Covid-19, the number of flights decreased by 75.5% from its pre-pandemic average, and airfare decreased by 32.8%.
 
-### Goal
-Our goal is to illustrate and quantify some of the changes in commercial U.S. air passenger traffic before, during, and after the Covid-19 pandemic.
+Our analysis further shows that the minimum in passenger volume and the number of flights was reached in the first few months of the Covid-19 pandemic. It also revealed that there is a lag between when passenger volume reached its minimum and when the number of flights was at its lowest point. At the same time, the number of cancelled flights increased significantly in the first months of Covid-19.
 
-### Questions to be addressed
- * How did domestic U.S. air passenger traffic change during Covid-19?  
-   To answer this question we analyze the following metrics:
-   * Air passenger volume,
-   * Number of flights,
-   * Passengers per flight,
-   * Number of canceled flights,
-   * Flight cancellation percentage,
-   * Average air fare.
- * How long did it take for passenger volume to normalize to pre-pandemic levels after Covid-19?
- * How did the average airfare change during Covid-19?
-   * If it changed, when did it change as compared to when passenger volume changed?
-   * If it changed when did it normalize as compared to when passenger volume normalized?
- * Can we discern any changes between air passenger traffic before and after Covid-19?
+We concluded that in the first few months of the pandemic, the airline industry reacted by cancelling flights before they reduced the number of flights.
 
-### Overview of data collection
-Data Sources: 
-### $${\color{orange}Bureau of Transportation Statistics (BTS):}$$
-Flight data is retrieved from the On_Time_Marketing_Carrier_On_Time_Performance_(Beginning_January_2018)_*.csv files in the Resources/ folder. There is a file for each month between January 2018 and December 2023. Each file contains a list of all US domestic commercial flights in that month. We will use these files to retrieve the number of flights, the flight delays and the cancelled flights. [BTS](https://www.bts.gov/topics/airlines-airports-and-aviation)
+Our analysis further revealed that airfares reached their minimum about three months after the passenger volume reached its minimum and that the decline in airfares was much less severe than the decline in passenger volume or the decline in the number of flights. Further investigation is needed to better understand this pattern.
 
-### $${\color{orange}Aviation Edge:}$$ 
-Offers a suite of APIs providing access to various aviation-related data, including flight schedules, tracking, airport, and aircraft data. [AviationEdge](https://aviation-edge.com/)
+Recovering from the pandemic, we saw that passenger volume had recovered to its average before Covid-19 by July of 2021. However, other metrics, notably the number of flights and the airfare, were still depressed as compared to their pre-pandemic averages. In fact, the median airfare has still not reached the same level it had before Covid-19.
 
-### $${\color{orange}Aviationstack:}$$
-Provides a powerful flight data API offering real-time and historical flight information, including tracking, status, routes, and airline details. [Aviationstack](https://aviationstack.com/)
+We also saw that the average arrival delay after the pandemic has increased compared to before Covid-19. This was accompanied by an increase in the number of passengers per flight after Covid-19. This makes sense since passenger volume is close to its pre-pandemic levels, but the number of flights is still smaller than pre-pandemic levels, which should lead to an increase in the number of passengers per flight.
 
-### $${\color{orange}FAA:}$$
-Offers a comprehensive dataset of airline routes, airports, and schedules freely available for download, useful for researchers and developers. [FAA](https://www.faa.gov/)
+The increased number of passengers per flight might also explain the observed increase in delay since more passengers per airplane might cause delays because it might take more time to process these passengers.
+In addition, the airlines might have reduced staff during the pandemic and are still short on personnel. Therefore, fewer personnel must process a similar number of passengers, leading to delays. Further investigation is needed to confirm the correlations supporting this hypothesis.
 
-### $${\color{orange}Transportation.gov:}$$ 
-Offers multiple data sets.  [Transportation](https://www.transportation.gov/)
+Finally, we observed that some of the patterns and metrics have still not recovered to their patterns and levels before Covid-19. As mentioned above, the median airfare is still lower, arrival delays are higher, the number of passengers per flight is higher, and the correlation between passenger volume and airfare is still very similar to that during Covid-19. Further investigation is needed to determine whether these differences will prevail.
 
-### Cleanup and exploration approach 
+### Further Information
+Further information can be found in our report entitled "CHANGES IN AIR TRAFFIC PATTERNS DURING COVID-19 AND AFTER". It can be found at 
 
-	- Clean up missing values, outliers, and duplicate data.
-	- Normalize or scale numerical features for diagrams.
-	- Calculate summary statistics for numerical features.
-	- Explore the distribution of numerical features using histograms, box plots, or violin plots.
-	- Examine the frequency distribution of categorical features using bar plots or count plots.
-	- Correlate analysis to detect patterns within time series data.
-	- Create geographical visualizations using maps to analyze spatial data.
-	- Use advanced plotting libraries like Plotly or Seaborn for more customized visualizations.
+### Layout of this GitHub Repository
+We wrote a Jupyter Notebook script called `p1_flight_data_analysis.ipynb` to perform data processing, data exploration, and data visualization. It can be found in the root folder of this repository. The root folder also contains this README.md file
 
-### Result/Conclusion 
+All other files can be found in the following three subfolders:
+ * `/Resources`: It contains all of the data files used in this project.
+ * `/Plots`: It contains all the plots used in the report and/or the presentation.
+ * `/Docs`: It contains our report named "Group 6 Report.pdf" and a file with the presentation slides called "Group 6 Presentation.pdf". This folder also contains the original Word documents for the report and the presentation.
 
-![Passenger Number by Year](./Passenger_Number.png)
+### Special Instruction
+1. The `/Resources` file has a size of about 20GB. So, make sure there is enough hard disk  space available on your computer. Depending on your bandwidth, it might take some time to download this folder as well.
+2. The `p1_flight_data_analysis.ipynb` requires close to 6GB of RAM to execute.
+3. The correlation matrix heatmap might not display its values properly unless you use `Matplotlib` library version 3.7.3.
 
-![Passenger Number by Year over Year](./year_over_year.png)
-
-![Cancellation Per Year](./cancellation.png)
-![Average Passengers per Flight Across Sates and Time](./per_flight.png)
-
-### Summary
-<<<<<<< HEAD
-Our data analysis shows that airline passengers and flights reached record lows at the beginning of the pandemic and that it took between a year and a quarter to a year and a half from that low for passenger and flight numbers to reach pre-pandemic levels. We will also analyze changes in the number of canceled flights and the relationship between average delay and the number of passengers. Finally, we will provide insights into how air passenger traffic patterns might have changed post-pandemic.
-=======
-
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 7728ad3835aac063ac98cc8de489641e453b3caa
-=======
->>>>>>> 7728ad3835aac063ac98cc8de489641e453b3caa
-=======
->>>>>>> 7728ad3835aac063ac98cc8de489641e453b3caa
-
-### Problem Encountered
-
-	* Storage issue with GitHub
-	  	- GitHub has a 1G storage limitation.  The amount of data we were working with was
-    	  beyond that.  So we believed that the data was corrupted, leading us to spend 
-	          hours finding a solution
-	* Size of dataframes for a personal machine
-	* Datasets specifics are not available
-	  	- Airfare information is only available by quarter
-          	- All additional information is available by month
-          	- To get additional information, it would cost more 
-
-### Future Considerations
-* How were these industry adjustments reflected in customer satisfaction
-* Determine if areas with lighter COVID restrictions recover faster than the areas with heavier restrictions
-* How this data would reflect internationally
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^1]: Leslie Josephs (August 16 2020). *A flood of job losses looms as airline industry struggles in pandemic*, CNBC website, https://www.cnbc.com/2020/08/16/a-flood-of-job-losses-looms-as-airlines-industry-struggle-in-coronavirus-pandemic.html as accessed on 4/22/2024.
